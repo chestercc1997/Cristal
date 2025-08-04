@@ -30,3 +30,14 @@ process_json/target/
 rand_extract/
 extraction-gym/libabc.a
 process_json/out_processed_or_result/
+flussab/flussab-aiger/aig_choose_result/
+flussab/flussab-aiger/aig/
+flussab/flussab-aiger/aag/
+flussab/aig_2_egraph/rewritten_circuits/
+flussab/aig_2_egraph/aag/
+flussab/aig_2_egraph/map/
+extraction-gym/random_out_dag_json/
+extraction-gym/output_log/
+extraction-gym/out_dag_json/
+extract_or_replace/rewritten_circuit/
+extract_or_replace/output_file/
