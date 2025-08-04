@@ -1,0 +1,57 @@
+[package]
+name = "extraction-gym"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[features]
+ilp-cbc = ["coin_cbc"]
+#serde-1 = ["serde"]
+
+[dependencies]
+egg = {version = "0.9.5", features = ["serde-1"] }
+rand = "0.8"
+env_logger = { version = "0.10.0", default-features = false }
+indexmap = "2.0.0"
+log = "0.4.19"
+ordered-float = "3"
+pico-args = { version = "0.5.0", features = ["eq-separator"] }
+serde_json = "1.0"
+anyhow = "1.0.71"
+coin_cbc = { version = "0.1.6", optional = true }
+im-rc = "15.1.0"
+rustc-hash = "1.1.0"
+serde = "1.0"
+rpds = "1.1.0"
+rayon = "1.7"
+egraph-serialize = { path = "src/egraph-serialize/" }
+#[dependencies.egraph-serialize]
+#git = "https://github.com/egraphs-good/egraph-serialize"
+#rev = "951b829a434f4008c7b45ba4ac0da1037d2da90"
+
+#serde_json = "1.0"
+#rayon = "1.5"
+#serde = { version = "1.0", features = ["derive"] }
+clap =  { version = "4.4.8", features = ["derive"] }
+
+#serde = { version = "1.0", features = ["derive"] }
+#serde_json = "1.0"
+#rustc-hash = "1.1.0"
+micromap = "0.0.15"
+dashmap = "5.5.3"
+
+# grpc
+tonic = "0.12.1"
+prost = "0.13.1"
+tokio = { version = "1.0", features = ["full"] }
+#tokio = { version = "1.0", features = ["macros", "rt-multi-thread"] }
+#serde_json = "1.0"
+
+#aig = { path = "./src/aig-rs" }
+tempfile = "3.10.1"
+lazy_static = "1.4.0"
+indicatif = "0.17.3"
+
+[build-dependencies]
+tonic-build = "0.12.1"

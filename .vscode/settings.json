@@ -1,0 +1,16 @@
+{
+    "cmake.sourceDirectory": "/data/cchen/choice_revisit/abc/test/gia",
+    "files.associations": {
+        "dirent.h": "c",
+        "functional": "c",
+        "bbr.h": "c",
+        "bmc.h": "c",
+        "giaaig.h": "c",
+        "math.h": "c",
+        "dec.h": "c",
+        "abc.h": "c",
+        "main.h": "c",
+        "if.h": "c",
+        "cstdlib": "c"
+    }
+}

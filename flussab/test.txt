@@ -1,0 +1,2734 @@
+aag 1276 256 0 129 1020
+Input Symbols:
+pi000
+pi001
+pi002
+pi003
+pi004
+pi005
+pi006
+pi007
+pi008
+pi009
+pi010
+pi011
+pi012
+pi013
+pi014
+pi015
+pi016
+pi017
+pi018
+pi019
+pi020
+pi021
+pi022
+pi023
+pi024
+pi025
+pi026
+pi027
+pi028
+pi029
+pi030
+pi031
+pi032
+pi033
+pi034
+pi035
+pi036
+pi037
+pi038
+pi039
+pi040
+pi041
+pi042
+pi043
+pi044
+pi045
+pi046
+pi047
+pi048
+pi049
+pi050
+pi051
+pi052
+pi053
+pi054
+pi055
+pi056
+pi057
+pi058
+pi059
+pi060
+pi061
+pi062
+pi063
+pi064
+pi065
+pi066
+pi067
+pi068
+pi069
+pi070
+pi071
+pi072
+pi073
+pi074
+pi075
+pi076
+pi077
+pi078
+pi079
+pi080
+pi081
+pi082
+pi083
+pi084
+pi085
+pi086
+pi087
+pi088
+pi089
+pi090
+pi091
+pi092
+pi093
+pi094
+pi095
+pi096
+pi097
+pi098
+pi099
+pi100
+pi101
+pi102
+pi103
+pi104
+pi105
+pi106
+pi107
+pi108
+pi109
+pi110
+pi111
+pi112
+pi113
+pi114
+pi115
+pi116
+pi117
+pi118
+pi119
+pi120
+pi121
+pi122
+pi123
+pi124
+pi125
+pi126
+pi127
+pi128
+pi129
+pi130
+pi131
+pi132
+pi133
+pi134
+pi135
+pi136
+pi137
+pi138
+pi139
+pi140
+pi141
+pi142
+pi143
+pi144
+pi145
+pi146
+pi147
+pi148
+pi149
+pi150
+pi151
+pi152
+pi153
+pi154
+pi155
+pi156
+pi157
+pi158
+pi159
+pi160
+pi161
+pi162
+pi163
+pi164
+pi165
+pi166
+pi167
+pi168
+pi169
+pi170
+pi171
+pi172
+pi173
+pi174
+pi175
+pi176
+pi177
+pi178
+pi179
+pi180
+pi181
+pi182
+pi183
+pi184
+pi185
+pi186
+pi187
+pi188
+pi189
+pi190
+pi191
+pi192
+pi193
+pi194
+pi195
+pi196
+pi197
+pi198
+pi199
+pi200
+pi201
+pi202
+pi203
+pi204
+pi205
+pi206
+pi207
+pi208
+pi209
+pi210
+pi211
+pi212
+pi213
+pi214
+pi215
+pi216
+pi217
+pi218
+pi219
+pi220
+pi221
+pi222
+pi223
+pi224
+pi225
+pi226
+pi227
+pi228
+pi229
+pi230
+pi231
+pi232
+pi233
+pi234
+pi235
+pi236
+pi237
+pi238
+pi239
+pi240
+pi241
+pi242
+pi243
+pi244
+pi245
+pi246
+pi247
+pi248
+pi249
+pi250
+pi251
+pi252
+pi253
+pi254
+pi255
+
+Output Symbols:
+po000
+po001
+po002
+po003
+po004
+po005
+po006
+po007
+po008
+po009
+po010
+po011
+po012
+po013
+po014
+po015
+po016
+po017
+po018
+po019
+po020
+po021
+po022
+po023
+po024
+po025
+po026
+po027
+po028
+po029
+po030
+po031
+po032
+po033
+po034
+po035
+po036
+po037
+po038
+po039
+po040
+po041
+po042
+po043
+po044
+po045
+po046
+po047
+po048
+po049
+po050
+po051
+po052
+po053
+po054
+po055
+po056
+po057
+po058
+po059
+po060
+po061
+po062
+po063
+po064
+po065
+po066
+po067
+po068
+po069
+po070
+po071
+po072
+po073
+po074
+po075
+po076
+po077
+po078
+po079
+po080
+po081
+po082
+po083
+po084
+po085
+po086
+po087
+po088
+po089
+po090
+po091
+po092
+po093
+po094
+po095
+po096
+po097
+po098
+po099
+po100
+po101
+po102
+po103
+po104
+po105
+po106
+po107
+po108
+po109
+po110
+po111
+po112
+po113
+po114
+po115
+po116
+po117
+po118
+po119
+po120
+po121
+po122
+po123
+po124
+po125
+po126
+po127
+po128
+Root eclass: 862, New ID: 1480
+Reordered Graph (sorted by Node ID):
+Node ID: 1, Op: pi000, Children: [], Eclass: 1, Cost: 1
+Node ID: 2, Op: pi001, Children: [], Eclass: 2, Cost: 1
+Node ID: 3, Op: pi002, Children: [], Eclass: 3, Cost: 1
+Node ID: 4, Op: pi003, Children: [], Eclass: 4, Cost: 1
+Node ID: 5, Op: pi004, Children: [], Eclass: 5, Cost: 1
+Node ID: 6, Op: pi005, Children: [], Eclass: 6, Cost: 1
+Node ID: 7, Op: pi006, Children: [], Eclass: 7, Cost: 1
+Node ID: 8, Op: pi007, Children: [], Eclass: 8, Cost: 1
+Node ID: 9, Op: pi008, Children: [], Eclass: 9, Cost: 1
+Node ID: 10, Op: pi009, Children: [], Eclass: 10, Cost: 1
+Node ID: 11, Op: pi010, Children: [], Eclass: 11, Cost: 1
+Node ID: 12, Op: pi011, Children: [], Eclass: 12, Cost: 1
+Node ID: 13, Op: pi012, Children: [], Eclass: 13, Cost: 1
+Node ID: 14, Op: pi013, Children: [], Eclass: 14, Cost: 1
+Node ID: 15, Op: pi014, Children: [], Eclass: 15, Cost: 1
+Node ID: 16, Op: pi015, Children: [], Eclass: 16, Cost: 1
+Node ID: 17, Op: pi016, Children: [], Eclass: 17, Cost: 1
+Node ID: 18, Op: pi017, Children: [], Eclass: 18, Cost: 1
+Node ID: 19, Op: pi018, Children: [], Eclass: 19, Cost: 1
+Node ID: 20, Op: pi019, Children: [], Eclass: 20, Cost: 1
+Node ID: 21, Op: pi020, Children: [], Eclass: 21, Cost: 1
+Node ID: 22, Op: pi021, Children: [], Eclass: 22, Cost: 1
+Node ID: 23, Op: pi022, Children: [], Eclass: 23, Cost: 1
+Node ID: 24, Op: pi023, Children: [], Eclass: 24, Cost: 1
+Node ID: 25, Op: pi024, Children: [], Eclass: 25, Cost: 1
+Node ID: 26, Op: pi025, Children: [], Eclass: 26, Cost: 1
+Node ID: 27, Op: pi026, Children: [], Eclass: 27, Cost: 1
+Node ID: 28, Op: pi027, Children: [], Eclass: 28, Cost: 1
+Node ID: 29, Op: pi028, Children: [], Eclass: 29, Cost: 1
+Node ID: 30, Op: pi029, Children: [], Eclass: 30, Cost: 1
+Node ID: 31, Op: pi030, Children: [], Eclass: 31, Cost: 1
+Node ID: 32, Op: pi031, Children: [], Eclass: 32, Cost: 1
+Node ID: 33, Op: pi032, Children: [], Eclass: 33, Cost: 1
+Node ID: 34, Op: pi033, Children: [], Eclass: 34, Cost: 1
+Node ID: 35, Op: pi034, Children: [], Eclass: 35, Cost: 1
+Node ID: 36, Op: pi035, Children: [], Eclass: 36, Cost: 1
+Node ID: 37, Op: pi036, Children: [], Eclass: 37, Cost: 1
+Node ID: 38, Op: pi037, Children: [], Eclass: 38, Cost: 1
+Node ID: 39, Op: pi038, Children: [], Eclass: 39, Cost: 1
+Node ID: 40, Op: pi039, Children: [], Eclass: 40, Cost: 1
+Node ID: 41, Op: pi040, Children: [], Eclass: 41, Cost: 1
+Node ID: 42, Op: pi041, Children: [], Eclass: 42, Cost: 1
+Node ID: 43, Op: pi042, Children: [], Eclass: 43, Cost: 1
+Node ID: 44, Op: pi043, Children: [], Eclass: 44, Cost: 1
+Node ID: 45, Op: pi044, Children: [], Eclass: 45, Cost: 1
+Node ID: 46, Op: pi045, Children: [], Eclass: 46, Cost: 1
+Node ID: 47, Op: pi046, Children: [], Eclass: 47, Cost: 1
+Node ID: 48, Op: pi047, Children: [], Eclass: 48, Cost: 1
+Node ID: 49, Op: pi048, Children: [], Eclass: 49, Cost: 1
+Node ID: 50, Op: pi049, Children: [], Eclass: 50, Cost: 1
+Node ID: 51, Op: pi050, Children: [], Eclass: 51, Cost: 1
+Node ID: 52, Op: pi051, Children: [], Eclass: 52, Cost: 1
+Node ID: 53, Op: pi052, Children: [], Eclass: 53, Cost: 1
+Node ID: 54, Op: pi053, Children: [], Eclass: 54, Cost: 1
+Node ID: 55, Op: pi054, Children: [], Eclass: 55, Cost: 1
+Node ID: 56, Op: pi055, Children: [], Eclass: 56, Cost: 1
+Node ID: 57, Op: pi056, Children: [], Eclass: 57, Cost: 1
+Node ID: 58, Op: pi057, Children: [], Eclass: 58, Cost: 1
+Node ID: 59, Op: pi058, Children: [], Eclass: 59, Cost: 1
+Node ID: 60, Op: pi059, Children: [], Eclass: 60, Cost: 1
+Node ID: 61, Op: pi060, Children: [], Eclass: 61, Cost: 1
+Node ID: 62, Op: pi061, Children: [], Eclass: 62, Cost: 1
+Node ID: 63, Op: pi062, Children: [], Eclass: 63, Cost: 1
+Node ID: 64, Op: pi063, Children: [], Eclass: 64, Cost: 1
+Node ID: 65, Op: pi064, Children: [], Eclass: 65, Cost: 1
+Node ID: 66, Op: pi065, Children: [], Eclass: 66, Cost: 1
+Node ID: 67, Op: pi066, Children: [], Eclass: 67, Cost: 1
+Node ID: 68, Op: pi067, Children: [], Eclass: 68, Cost: 1
+Node ID: 69, Op: pi068, Children: [], Eclass: 69, Cost: 1
+Node ID: 70, Op: pi069, Children: [], Eclass: 70, Cost: 1
+Node ID: 71, Op: pi070, Children: [], Eclass: 71, Cost: 1
+Node ID: 72, Op: pi071, Children: [], Eclass: 72, Cost: 1
+Node ID: 73, Op: pi072, Children: [], Eclass: 73, Cost: 1
+Node ID: 74, Op: pi073, Children: [], Eclass: 74, Cost: 1
+Node ID: 75, Op: pi074, Children: [], Eclass: 75, Cost: 1
+Node ID: 76, Op: pi075, Children: [], Eclass: 76, Cost: 1
+Node ID: 77, Op: pi076, Children: [], Eclass: 77, Cost: 1
+Node ID: 78, Op: pi077, Children: [], Eclass: 78, Cost: 1
+Node ID: 79, Op: pi078, Children: [], Eclass: 79, Cost: 1
+Node ID: 80, Op: pi079, Children: [], Eclass: 80, Cost: 1
+Node ID: 81, Op: pi080, Children: [], Eclass: 81, Cost: 1
+Node ID: 82, Op: pi081, Children: [], Eclass: 82, Cost: 1
+Node ID: 83, Op: pi082, Children: [], Eclass: 83, Cost: 1
+Node ID: 84, Op: pi083, Children: [], Eclass: 84, Cost: 1
+Node ID: 85, Op: pi084, Children: [], Eclass: 85, Cost: 1
+Node ID: 86, Op: pi085, Children: [], Eclass: 86, Cost: 1
+Node ID: 87, Op: pi086, Children: [], Eclass: 87, Cost: 1
+Node ID: 88, Op: pi087, Children: [], Eclass: 88, Cost: 1
+Node ID: 89, Op: pi088, Children: [], Eclass: 89, Cost: 1
+Node ID: 90, Op: pi089, Children: [], Eclass: 90, Cost: 1
+Node ID: 91, Op: pi090, Children: [], Eclass: 91, Cost: 1
+Node ID: 92, Op: pi091, Children: [], Eclass: 92, Cost: 1
+Node ID: 93, Op: pi092, Children: [], Eclass: 93, Cost: 1
+Node ID: 94, Op: pi093, Children: [], Eclass: 94, Cost: 1
+Node ID: 95, Op: pi094, Children: [], Eclass: 95, Cost: 1
+Node ID: 96, Op: pi095, Children: [], Eclass: 96, Cost: 1
+Node ID: 97, Op: pi096, Children: [], Eclass: 97, Cost: 1
+Node ID: 98, Op: pi097, Children: [], Eclass: 98, Cost: 1
+Node ID: 99, Op: pi098, Children: [], Eclass: 99, Cost: 1
+Node ID: 100, Op: pi099, Children: [], Eclass: 100, Cost: 1
+Node ID: 101, Op: pi100, Children: [], Eclass: 101, Cost: 1
+Node ID: 102, Op: pi101, Children: [], Eclass: 102, Cost: 1
+Node ID: 103, Op: pi102, Children: [], Eclass: 103, Cost: 1
+Node ID: 104, Op: pi103, Children: [], Eclass: 104, Cost: 1
+Node ID: 105, Op: pi104, Children: [], Eclass: 105, Cost: 1
+Node ID: 106, Op: pi105, Children: [], Eclass: 106, Cost: 1
+Node ID: 107, Op: pi106, Children: [], Eclass: 107, Cost: 1
+Node ID: 108, Op: pi107, Children: [], Eclass: 108, Cost: 1
+Node ID: 109, Op: pi108, Children: [], Eclass: 109, Cost: 1
+Node ID: 110, Op: pi109, Children: [], Eclass: 110, Cost: 1
+Node ID: 111, Op: pi110, Children: [], Eclass: 111, Cost: 1
+Node ID: 112, Op: pi111, Children: [], Eclass: 112, Cost: 1
+Node ID: 113, Op: pi112, Children: [], Eclass: 113, Cost: 1
+Node ID: 114, Op: pi113, Children: [], Eclass: 114, Cost: 1
+Node ID: 115, Op: pi114, Children: [], Eclass: 115, Cost: 1
+Node ID: 116, Op: pi115, Children: [], Eclass: 116, Cost: 1
+Node ID: 117, Op: pi116, Children: [], Eclass: 117, Cost: 1
+Node ID: 118, Op: pi117, Children: [], Eclass: 118, Cost: 1
+Node ID: 119, Op: pi118, Children: [], Eclass: 119, Cost: 1
+Node ID: 120, Op: pi119, Children: [], Eclass: 120, Cost: 1
+Node ID: 121, Op: pi120, Children: [], Eclass: 121, Cost: 1
+Node ID: 122, Op: pi121, Children: [], Eclass: 122, Cost: 1
+Node ID: 123, Op: pi122, Children: [], Eclass: 123, Cost: 1
+Node ID: 124, Op: pi123, Children: [], Eclass: 124, Cost: 1
+Node ID: 125, Op: pi124, Children: [], Eclass: 125, Cost: 1
+Node ID: 126, Op: pi125, Children: [], Eclass: 126, Cost: 1
+Node ID: 127, Op: pi126, Children: [], Eclass: 127, Cost: 1
+Node ID: 128, Op: pi127, Children: [], Eclass: 128, Cost: 1
+Node ID: 129, Op: pi128, Children: [], Eclass: 129, Cost: 1
+Node ID: 130, Op: pi129, Children: [], Eclass: 130, Cost: 1
+Node ID: 131, Op: pi130, Children: [], Eclass: 131, Cost: 1
+Node ID: 132, Op: pi131, Children: [], Eclass: 132, Cost: 1
+Node ID: 133, Op: pi132, Children: [], Eclass: 133, Cost: 1
+Node ID: 134, Op: pi133, Children: [], Eclass: 134, Cost: 1
+Node ID: 135, Op: pi134, Children: [], Eclass: 135, Cost: 1
+Node ID: 136, Op: pi135, Children: [], Eclass: 136, Cost: 1
+Node ID: 137, Op: pi136, Children: [], Eclass: 137, Cost: 1
+Node ID: 138, Op: pi137, Children: [], Eclass: 138, Cost: 1
+Node ID: 139, Op: pi138, Children: [], Eclass: 139, Cost: 1
+Node ID: 140, Op: pi139, Children: [], Eclass: 140, Cost: 1
+Node ID: 141, Op: pi140, Children: [], Eclass: 141, Cost: 1
+Node ID: 142, Op: pi141, Children: [], Eclass: 142, Cost: 1
+Node ID: 143, Op: pi142, Children: [], Eclass: 143, Cost: 1
+Node ID: 144, Op: pi143, Children: [], Eclass: 144, Cost: 1
+Node ID: 145, Op: pi144, Children: [], Eclass: 145, Cost: 1
+Node ID: 146, Op: pi145, Children: [], Eclass: 146, Cost: 1
+Node ID: 147, Op: pi146, Children: [], Eclass: 147, Cost: 1
+Node ID: 148, Op: pi147, Children: [], Eclass: 148, Cost: 1
+Node ID: 149, Op: pi148, Children: [], Eclass: 149, Cost: 1
+Node ID: 150, Op: pi149, Children: [], Eclass: 150, Cost: 1
+Node ID: 151, Op: pi150, Children: [], Eclass: 151, Cost: 1
+Node ID: 152, Op: pi151, Children: [], Eclass: 152, Cost: 1
+Node ID: 153, Op: pi152, Children: [], Eclass: 153, Cost: 1
+Node ID: 154, Op: pi153, Children: [], Eclass: 154, Cost: 1
+Node ID: 155, Op: pi154, Children: [], Eclass: 155, Cost: 1
+Node ID: 156, Op: pi155, Children: [], Eclass: 156, Cost: 1
+Node ID: 157, Op: pi156, Children: [], Eclass: 157, Cost: 1
+Node ID: 158, Op: pi157, Children: [], Eclass: 158, Cost: 1
+Node ID: 159, Op: pi158, Children: [], Eclass: 159, Cost: 1
+Node ID: 160, Op: pi159, Children: [], Eclass: 160, Cost: 1
+Node ID: 161, Op: pi160, Children: [], Eclass: 161, Cost: 1
+Node ID: 162, Op: pi161, Children: [], Eclass: 162, Cost: 1
+Node ID: 163, Op: pi162, Children: [], Eclass: 163, Cost: 1
+Node ID: 164, Op: pi163, Children: [], Eclass: 164, Cost: 1
+Node ID: 165, Op: pi164, Children: [], Eclass: 165, Cost: 1
+Node ID: 166, Op: pi165, Children: [], Eclass: 166, Cost: 1
+Node ID: 167, Op: pi166, Children: [], Eclass: 167, Cost: 1
+Node ID: 168, Op: pi167, Children: [], Eclass: 168, Cost: 1
+Node ID: 169, Op: pi168, Children: [], Eclass: 169, Cost: 1
+Node ID: 170, Op: pi169, Children: [], Eclass: 170, Cost: 1
+Node ID: 171, Op: pi170, Children: [], Eclass: 171, Cost: 1
+Node ID: 172, Op: pi171, Children: [], Eclass: 172, Cost: 1
+Node ID: 173, Op: pi172, Children: [], Eclass: 173, Cost: 1
+Node ID: 174, Op: pi173, Children: [], Eclass: 174, Cost: 1
+Node ID: 175, Op: pi174, Children: [], Eclass: 175, Cost: 1
+Node ID: 176, Op: pi175, Children: [], Eclass: 176, Cost: 1
+Node ID: 177, Op: pi176, Children: [], Eclass: 177, Cost: 1
+Node ID: 178, Op: pi177, Children: [], Eclass: 178, Cost: 1
+Node ID: 179, Op: pi178, Children: [], Eclass: 179, Cost: 1
+Node ID: 180, Op: pi179, Children: [], Eclass: 180, Cost: 1
+Node ID: 181, Op: pi180, Children: [], Eclass: 181, Cost: 1
+Node ID: 182, Op: pi181, Children: [], Eclass: 182, Cost: 1
+Node ID: 183, Op: pi182, Children: [], Eclass: 183, Cost: 1
+Node ID: 184, Op: pi183, Children: [], Eclass: 184, Cost: 1
+Node ID: 185, Op: pi184, Children: [], Eclass: 185, Cost: 1
+Node ID: 186, Op: pi185, Children: [], Eclass: 186, Cost: 1
+Node ID: 187, Op: pi186, Children: [], Eclass: 187, Cost: 1
+Node ID: 188, Op: pi187, Children: [], Eclass: 188, Cost: 1
+Node ID: 189, Op: pi188, Children: [], Eclass: 189, Cost: 1
+Node ID: 190, Op: pi189, Children: [], Eclass: 190, Cost: 1
+Node ID: 191, Op: pi190, Children: [], Eclass: 191, Cost: 1
+Node ID: 192, Op: pi191, Children: [], Eclass: 192, Cost: 1
+Node ID: 193, Op: pi192, Children: [], Eclass: 193, Cost: 1
+Node ID: 194, Op: pi193, Children: [], Eclass: 194, Cost: 1
+Node ID: 195, Op: pi194, Children: [], Eclass: 195, Cost: 1
+Node ID: 196, Op: pi195, Children: [], Eclass: 196, Cost: 1
+Node ID: 197, Op: pi196, Children: [], Eclass: 197, Cost: 1
+Node ID: 198, Op: pi197, Children: [], Eclass: 198, Cost: 1
+Node ID: 199, Op: pi198, Children: [], Eclass: 199, Cost: 1
+Node ID: 200, Op: pi199, Children: [], Eclass: 200, Cost: 1
+Node ID: 201, Op: pi200, Children: [], Eclass: 201, Cost: 1
+Node ID: 202, Op: pi201, Children: [], Eclass: 202, Cost: 1
+Node ID: 203, Op: pi202, Children: [], Eclass: 203, Cost: 1
+Node ID: 204, Op: pi203, Children: [], Eclass: 204, Cost: 1
+Node ID: 205, Op: pi204, Children: [], Eclass: 205, Cost: 1
+Node ID: 206, Op: pi205, Children: [], Eclass: 206, Cost: 1
+Node ID: 207, Op: pi206, Children: [], Eclass: 207, Cost: 1
+Node ID: 208, Op: pi207, Children: [], Eclass: 208, Cost: 1
+Node ID: 209, Op: pi208, Children: [], Eclass: 209, Cost: 1
+Node ID: 210, Op: pi209, Children: [], Eclass: 210, Cost: 1
+Node ID: 211, Op: pi210, Children: [], Eclass: 211, Cost: 1
+Node ID: 212, Op: pi211, Children: [], Eclass: 212, Cost: 1
+Node ID: 213, Op: pi212, Children: [], Eclass: 213, Cost: 1
+Node ID: 214, Op: pi213, Children: [], Eclass: 214, Cost: 1
+Node ID: 215, Op: pi214, Children: [], Eclass: 215, Cost: 1
+Node ID: 216, Op: pi215, Children: [], Eclass: 216, Cost: 1
+Node ID: 217, Op: pi216, Children: [], Eclass: 217, Cost: 1
+Node ID: 218, Op: pi217, Children: [], Eclass: 218, Cost: 1
+Node ID: 219, Op: pi218, Children: [], Eclass: 219, Cost: 1
+Node ID: 220, Op: pi219, Children: [], Eclass: 220, Cost: 1
+Node ID: 221, Op: pi220, Children: [], Eclass: 221, Cost: 1
+Node ID: 222, Op: pi221, Children: [], Eclass: 222, Cost: 1
+Node ID: 223, Op: pi222, Children: [], Eclass: 223, Cost: 1
+Node ID: 224, Op: pi223, Children: [], Eclass: 224, Cost: 1
+Node ID: 225, Op: pi224, Children: [], Eclass: 225, Cost: 1
+Node ID: 226, Op: pi225, Children: [], Eclass: 226, Cost: 1
+Node ID: 227, Op: pi226, Children: [], Eclass: 227, Cost: 1
+Node ID: 228, Op: pi227, Children: [], Eclass: 228, Cost: 1
+Node ID: 229, Op: pi228, Children: [], Eclass: 229, Cost: 1
+Node ID: 230, Op: pi229, Children: [], Eclass: 230, Cost: 1
+Node ID: 231, Op: pi230, Children: [], Eclass: 231, Cost: 1
+Node ID: 232, Op: pi231, Children: [], Eclass: 232, Cost: 1
+Node ID: 233, Op: pi232, Children: [], Eclass: 233, Cost: 1
+Node ID: 234, Op: pi233, Children: [], Eclass: 234, Cost: 1
+Node ID: 235, Op: pi234, Children: [], Eclass: 235, Cost: 1
+Node ID: 236, Op: pi235, Children: [], Eclass: 236, Cost: 1
+Node ID: 237, Op: pi236, Children: [], Eclass: 237, Cost: 1
+Node ID: 238, Op: pi237, Children: [], Eclass: 238, Cost: 1
+Node ID: 239, Op: pi238, Children: [], Eclass: 239, Cost: 1
+Node ID: 240, Op: pi239, Children: [], Eclass: 240, Cost: 1
+Node ID: 241, Op: pi240, Children: [], Eclass: 241, Cost: 1
+Node ID: 242, Op: pi241, Children: [], Eclass: 242, Cost: 1
+Node ID: 243, Op: pi242, Children: [], Eclass: 243, Cost: 1
+Node ID: 244, Op: pi243, Children: [], Eclass: 244, Cost: 1
+Node ID: 245, Op: pi244, Children: [], Eclass: 245, Cost: 1
+Node ID: 246, Op: pi245, Children: [], Eclass: 246, Cost: 1
+Node ID: 247, Op: pi246, Children: [], Eclass: 247, Cost: 1
+Node ID: 248, Op: pi247, Children: [], Eclass: 248, Cost: 1
+Node ID: 249, Op: pi248, Children: [], Eclass: 249, Cost: 1
+Node ID: 250, Op: pi249, Children: [], Eclass: 250, Cost: 1
+Node ID: 251, Op: pi250, Children: [], Eclass: 251, Cost: 1
+Node ID: 252, Op: pi251, Children: [], Eclass: 252, Cost: 1
+Node ID: 253, Op: pi252, Children: [], Eclass: 253, Cost: 1
+Node ID: 254, Op: pi253, Children: [], Eclass: 254, Cost: 1
+Node ID: 255, Op: pi254, Children: [], Eclass: 255, Cost: 1
+Node ID: 256, Op: pi255, Children: [], Eclass: 256, Cost: 1
+Node ID: 257, Op: !, Children: ["128"], Eclass: 257, Cost: 1
+Node ID: 258, Op: !, Children: ["256"], Eclass: 258, Cost: 1
+Node ID: 259, Op: *, Children: ["257", "258"], Eclass: 259, Cost: 4
+Node ID: 260, Op: !, Children: ["259"], Eclass: 260, Cost: 1
+Node ID: 261, Op: !, Children: ["255"], Eclass: 261, Cost: 1
+Node ID: 262, Op: !, Children: ["127"], Eclass: 262, Cost: 1
+Node ID: 263, Op: *, Children: ["261", "262"], Eclass: 263, Cost: 4
+Node ID: 264, Op: !, Children: ["263"], Eclass: 264, Cost: 1
+Node ID: 265, Op: *, Children: ["260", "264"], Eclass: 265, Cost: 4
+Node ID: 266, Op: *, Children: ["127", "255"], Eclass: 266, Cost: 4
+Node ID: 267, Op: !, Children: ["266"], Eclass: 267, Cost: 1
+Node ID: 268, Op: *, Children: ["254", "126"], Eclass: 268, Cost: 4
+Node ID: 269, Op: !, Children: ["268"], Eclass: 269, Cost: 1
+Node ID: 270, Op: !, Children: ["126"], Eclass: 270, Cost: 1
+Node ID: 271, Op: *, Children: ["269", "270"], Eclass: 271, Cost: 4
+Node ID: 272, Op: !, Children: ["254"], Eclass: 272, Cost: 1
+Node ID: 273, Op: *, Children: ["271", "272"], Eclass: 273, Cost: 4
+Node ID: 274, Op: *, Children: ["267", "273"], Eclass: 274, Cost: 4
+Node ID: 275, Op: !, Children: ["274"], Eclass: 275, Cost: 1
+Node ID: 276, Op: *, Children: ["265", "275"], Eclass: 276, Cost: 4
+Node ID: 277, Op: !, Children: ["125"], Eclass: 277, Cost: 1
+Node ID: 278, Op: !, Children: ["253"], Eclass: 278, Cost: 1
+Node ID: 279, Op: *, Children: ["277", "278"], Eclass: 279, Cost: 4
+Node ID: 280, Op: !, Children: ["279"], Eclass: 280, Cost: 1
+Node ID: 281, Op: !, Children: ["124"], Eclass: 281, Cost: 1
+Node ID: 282, Op: !, Children: ["252"], Eclass: 282, Cost: 1
+Node ID: 283, Op: *, Children: ["281", "282"], Eclass: 283, Cost: 4
+Node ID: 284, Op: !, Children: ["283"], Eclass: 284, Cost: 1
+Node ID: 285, Op: *, Children: ["123", "251"], Eclass: 285, Cost: 4
+Node ID: 286, Op: *, Children: ["284", "285"], Eclass: 286, Cost: 4
+Node ID: 287, Op: !, Children: ["286"], Eclass: 287, Cost: 1
+Node ID: 288, Op: *, Children: ["124", "252"], Eclass: 288, Cost: 4
+Node ID: 289, Op: !, Children: ["288"], Eclass: 289, Cost: 1
+Node ID: 290, Op: *, Children: ["287", "289"], Eclass: 290, Cost: 4
+Node ID: 291, Op: !, Children: ["290"], Eclass: 291, Cost: 1
+Node ID: 292, Op: *, Children: ["280", "291"], Eclass: 292, Cost: 4
+Node ID: 293, Op: !, Children: ["292"], Eclass: 293, Cost: 1
+Node ID: 294, Op: !, Children: ["123"], Eclass: 294, Cost: 1
+Node ID: 295, Op: !, Children: ["251"], Eclass: 295, Cost: 1
+Node ID: 296, Op: *, Children: ["294", "295"], Eclass: 296, Cost: 4
+Node ID: 297, Op: !, Children: ["296"], Eclass: 297, Cost: 1
+Node ID: 298, Op: *, Children: ["280", "297"], Eclass: 298, Cost: 4
+Node ID: 299, Op: *, Children: ["298", "284"], Eclass: 299, Cost: 4
+Node ID: 300, Op: !, Children: ["121"], Eclass: 300, Cost: 1
+Node ID: 301, Op: !, Children: ["249"], Eclass: 301, Cost: 1
+Node ID: 302, Op: *, Children: ["250", "122"], Eclass: 302, Cost: 4
+Node ID: 303, Op: !, Children: ["302"], Eclass: 303, Cost: 1
+Node ID: 304, Op: *, Children: ["301", "303"], Eclass: 304, Cost: 4
+Node ID: 305, Op: *, Children: ["121", "249"], Eclass: 305, Cost: 4
+Node ID: 306, Op: !, Children: ["305"], Eclass: 306, Cost: 1
+Node ID: 307, Op: *, Children: ["304", "306"], Eclass: 307, Cost: 4
+Node ID: 308, Op: *, Children: ["300", "307"], Eclass: 308, Cost: 4
+Node ID: 309, Op: !, Children: ["308"], Eclass: 309, Cost: 1
+Node ID: 310, Op: !, Children: ["122"], Eclass: 310, Cost: 1
+Node ID: 311, Op: !, Children: ["250"], Eclass: 311, Cost: 1
+Node ID: 312, Op: *, Children: ["310", "311"], Eclass: 312, Cost: 4
+Node ID: 313, Op: !, Children: ["312"], Eclass: 313, Cost: 1
+Node ID: 314, Op: *, Children: ["309", "313"], Eclass: 314, Cost: 4
+Node ID: 315, Op: *, Children: ["299", "314"], Eclass: 315, Cost: 4
+Node ID: 316, Op: !, Children: ["117"], Eclass: 316, Cost: 1
+Node ID: 317, Op: !, Children: ["245"], Eclass: 317, Cost: 1
+Node ID: 318, Op: *, Children: ["316", "317"], Eclass: 318, Cost: 4
+Node ID: 319, Op: !, Children: ["318"], Eclass: 319, Cost: 1
+Node ID: 320, Op: !, Children: ["116"], Eclass: 320, Cost: 1
+Node ID: 321, Op: !, Children: ["244"], Eclass: 321, Cost: 1
+Node ID: 322, Op: *, Children: ["320", "321"], Eclass: 322, Cost: 4
+Node ID: 323, Op: *, Children: ["117", "245"], Eclass: 323, Cost: 4
+Node ID: 324, Op: !, Children: ["323"], Eclass: 324, Cost: 1
+Node ID: 325, Op: *, Children: ["116", "244"], Eclass: 325, Cost: 4
+Node ID: 326, Op: !, Children: ["325"], Eclass: 326, Cost: 1
+Node ID: 327, Op: *, Children: ["324", "326"], Eclass: 327, Cost: 4
+Node ID: 328, Op: *, Children: ["322", "327"], Eclass: 328, Cost: 4
+Node ID: 329, Op: !, Children: ["328"], Eclass: 329, Cost: 1
+Node ID: 330, Op: *, Children: ["319", "329"], Eclass: 330, Cost: 4
+Node ID: 331, Op: !, Children: ["115"], Eclass: 331, Cost: 1
+Node ID: 332, Op: !, Children: ["243"], Eclass: 332, Cost: 1
+Node ID: 333, Op: *, Children: ["331", "332"], Eclass: 333, Cost: 4
+Node ID: 334, Op: !, Children: ["333"], Eclass: 334, Cost: 1
+Node ID: 335, Op: *, Children: ["114", "242"], Eclass: 335, Cost: 4
+Node ID: 336, Op: !, Children: ["335"], Eclass: 336, Cost: 1
+Node ID: 337, Op: !, Children: ["114"], Eclass: 337, Cost: 1
+Node ID: 338, Op: !, Children: ["242"], Eclass: 338, Cost: 1
+Node ID: 339, Op: *, Children: ["337", "338"], Eclass: 339, Cost: 4
+Node ID: 340, Op: !, Children: ["339"], Eclass: 340, Cost: 1
+Node ID: 341, Op: *, Children: ["113", "241"], Eclass: 341, Cost: 4
+Node ID: 342, Op: *, Children: ["340", "341"], Eclass: 342, Cost: 4
+Node ID: 343, Op: !, Children: ["342"], Eclass: 343, Cost: 1
+Node ID: 344, Op: *, Children: ["336", "343"], Eclass: 344, Cost: 4
+Node ID: 345, Op: !, Children: ["344"], Eclass: 345, Cost: 1
+Node ID: 346, Op: *, Children: ["334", "345"], Eclass: 346, Cost: 4
+Node ID: 347, Op: !, Children: ["346"], Eclass: 347, Cost: 1
+Node ID: 348, Op: *, Children: ["112", "240"], Eclass: 348, Cost: 4
+Node ID: 349, Op: !, Children: ["348"], Eclass: 349, Cost: 1
+Node ID: 350, Op: *, Children: ["111", "239"], Eclass: 350, Cost: 4
+Node ID: 351, Op: !, Children: ["350"], Eclass: 351, Cost: 1
+Node ID: 352, Op: *, Children: ["110", "238"], Eclass: 352, Cost: 4
+Node ID: 353, Op: !, Children: ["352"], Eclass: 353, Cost: 1
+Node ID: 354, Op: *, Children: ["351", "353"], Eclass: 354, Cost: 4
+Node ID: 355, Op: *, Children: ["349", "354"], Eclass: 355, Cost: 4
+Node ID: 356, Op: !, Children: ["110"], Eclass: 356, Cost: 1
+Node ID: 357, Op: !, Children: ["238"], Eclass: 357, Cost: 1
+Node ID: 358, Op: *, Children: ["356", "357"], Eclass: 358, Cost: 4
+Node ID: 359, Op: !, Children: ["358"], Eclass: 359, Cost: 1
+Node ID: 360, Op: *, Children: ["108", "236"], Eclass: 360, Cost: 4
+Node ID: 361, Op: !, Children: ["109"], Eclass: 361, Cost: 1
+Node ID: 362, Op: !, Children: ["237"], Eclass: 362, Cost: 1
+Node ID: 363, Op: *, Children: ["361", "362"], Eclass: 363, Cost: 4
+Node ID: 364, Op: !, Children: ["363"], Eclass: 364, Cost: 1
+Node ID: 365, Op: *, Children: ["360", "364"], Eclass: 365, Cost: 4
+Node ID: 366, Op: !, Children: ["365"], Eclass: 366, Cost: 1
+Node ID: 367, Op: *, Children: ["109", "237"], Eclass: 367, Cost: 4
+Node ID: 368, Op: !, Children: ["367"], Eclass: 368, Cost: 1
+Node ID: 369, Op: *, Children: ["366", "368"], Eclass: 369, Cost: 4
+Node ID: 370, Op: !, Children: ["369"], Eclass: 370, Cost: 1
+Node ID: 371, Op: *, Children: ["359", "370"], Eclass: 371, Cost: 4
+Node ID: 372, Op: !, Children: ["371"], Eclass: 372, Cost: 1
+Node ID: 373, Op: *, Children: ["355", "372"], Eclass: 373, Cost: 4
+Node ID: 374, Op: !, Children: ["105"], Eclass: 374, Cost: 1
+Node ID: 375, Op: !, Children: ["233"], Eclass: 375, Cost: 1
+Node ID: 376, Op: *, Children: ["374", "375"], Eclass: 376, Cost: 4
+Node ID: 377, Op: !, Children: ["376"], Eclass: 377, Cost: 1
+Node ID: 378, Op: !, Children: ["104"], Eclass: 378, Cost: 1
+Node ID: 379, Op: !, Children: ["232"], Eclass: 379, Cost: 1
+Node ID: 380, Op: *, Children: ["378", "379"], Eclass: 380, Cost: 4
+Node ID: 381, Op: !, Children: ["380"], Eclass: 381, Cost: 1
+Node ID: 382, Op: *, Children: ["377", "381"], Eclass: 382, Cost: 4
+Node ID: 383, Op: !, Children: ["231"], Eclass: 383, Cost: 1
+Node ID: 384, Op: !, Children: ["103"], Eclass: 384, Cost: 1
+Node ID: 385, Op: *, Children: ["383", "384"], Eclass: 385, Cost: 4
+Node ID: 386, Op: !, Children: ["385"], Eclass: 386, Cost: 1
+Node ID: 387, Op: *, Children: ["382", "386"], Eclass: 387, Cost: 4
+Node ID: 388, Op: *, Children: ["230", "102"], Eclass: 388, Cost: 4
+Node ID: 389, Op: !, Children: ["388"], Eclass: 389, Cost: 1
+Node ID: 390, Op: *, Children: ["101", "229"], Eclass: 390, Cost: 4
+Node ID: 391, Op: !, Children: ["390"], Eclass: 391, Cost: 1
+Node ID: 392, Op: *, Children: ["389", "391"], Eclass: 392, Cost: 4
+Node ID: 393, Op: !, Children: ["101"], Eclass: 393, Cost: 1
+Node ID: 394, Op: !, Children: ["229"], Eclass: 394, Cost: 1
+Node ID: 395, Op: *, Children: ["393", "394"], Eclass: 395, Cost: 4
+Node ID: 396, Op: *, Children: ["392", "395"], Eclass: 396, Cost: 4
+Node ID: 397, Op: !, Children: ["396"], Eclass: 397, Cost: 1
+Node ID: 398, Op: *, Children: ["387", "397"], Eclass: 398, Cost: 4
+Node ID: 399, Op: !, Children: ["102"], Eclass: 399, Cost: 1
+Node ID: 400, Op: !, Children: ["230"], Eclass: 400, Cost: 1
+Node ID: 401, Op: *, Children: ["399", "400"], Eclass: 401, Cost: 4
+Node ID: 402, Op: !, Children: ["401"], Eclass: 402, Cost: 1
+Node ID: 403, Op: *, Children: ["398", "402"], Eclass: 403, Cost: 4
+Node ID: 404, Op: *, Children: ["100", "228"], Eclass: 404, Cost: 4
+Node ID: 405, Op: !, Children: ["404"], Eclass: 405, Cost: 1
+Node ID: 406, Op: *, Children: ["405", "392"], Eclass: 406, Cost: 4
+Node ID: 407, Op: !, Children: ["224"], Eclass: 407, Cost: 1
+Node ID: 408, Op: !, Children: ["96"], Eclass: 408, Cost: 1
+Node ID: 409, Op: *, Children: ["224", "96"], Eclass: 409, Cost: 4
+Node ID: 410, Op: !, Children: ["409"], Eclass: 410, Cost: 1
+Node ID: 411, Op: *, Children: ["408", "410"], Eclass: 411, Cost: 4
+Node ID: 412, Op: *, Children: ["97", "225"], Eclass: 412, Cost: 4
+Node ID: 413, Op: !, Children: ["412"], Eclass: 413, Cost: 1
+Node ID: 414, Op: *, Children: ["411", "413"], Eclass: 414, Cost: 4
+Node ID: 415, Op: *, Children: ["407", "414"], Eclass: 415, Cost: 4
+Node ID: 416, Op: !, Children: ["415"], Eclass: 416, Cost: 1
+Node ID: 417, Op: !, Children: ["97"], Eclass: 417, Cost: 1
+Node ID: 418, Op: !, Children: ["225"], Eclass: 418, Cost: 1
+Node ID: 419, Op: *, Children: ["417", "418"], Eclass: 419, Cost: 4
+Node ID: 420, Op: !, Children: ["419"], Eclass: 420, Cost: 1
+Node ID: 421, Op: *, Children: ["416", "420"], Eclass: 421, Cost: 4
+Node ID: 422, Op: *, Children: ["95", "223"], Eclass: 422, Cost: 4
+Node ID: 423, Op: !, Children: ["422"], Eclass: 423, Cost: 1
+Node ID: 424, Op: *, Children: ["410", "423"], Eclass: 424, Cost: 4
+Node ID: 425, Op: !, Children: ["95"], Eclass: 425, Cost: 1
+Node ID: 426, Op: !, Children: ["223"], Eclass: 426, Cost: 1
+Node ID: 427, Op: *, Children: ["425", "426"], Eclass: 427, Cost: 4
+Node ID: 428, Op: !, Children: ["427"], Eclass: 428, Cost: 1
+Node ID: 429, Op: !, Children: ["94"], Eclass: 429, Cost: 1
+Node ID: 430, Op: !, Children: ["222"], Eclass: 430, Cost: 1
+Node ID: 431, Op: *, Children: ["429", "430"], Eclass: 431, Cost: 4
+Node ID: 432, Op: !, Children: ["431"], Eclass: 432, Cost: 1
+Node ID: 433, Op: *, Children: ["428", "432"], Eclass: 433, Cost: 4
+Node ID: 434, Op: !, Children: ["93"], Eclass: 434, Cost: 1
+Node ID: 435, Op: !, Children: ["221"], Eclass: 435, Cost: 1
+Node ID: 436, Op: *, Children: ["434", "435"], Eclass: 436, Cost: 4
+Node ID: 437, Op: !, Children: ["436"], Eclass: 437, Cost: 1
+Node ID: 438, Op: *, Children: ["433", "437"], Eclass: 438, Cost: 4
+Node ID: 439, Op: !, Children: ["219"], Eclass: 439, Cost: 1
+Node ID: 440, Op: !, Children: ["91"], Eclass: 440, Cost: 1
+Node ID: 441, Op: *, Children: ["92", "220"], Eclass: 441, Cost: 4
+Node ID: 442, Op: !, Children: ["441"], Eclass: 442, Cost: 1
+Node ID: 443, Op: *, Children: ["440", "442"], Eclass: 443, Cost: 4
+Node ID: 444, Op: *, Children: ["439", "443"], Eclass: 444, Cost: 4
+Node ID: 445, Op: *, Children: ["91", "219"], Eclass: 445, Cost: 4
+Node ID: 446, Op: !, Children: ["445"], Eclass: 446, Cost: 1
+Node ID: 447, Op: *, Children: ["444", "446"], Eclass: 447, Cost: 4
+Node ID: 448, Op: !, Children: ["447"], Eclass: 448, Cost: 1
+Node ID: 449, Op: !, Children: ["92"], Eclass: 449, Cost: 1
+Node ID: 450, Op: !, Children: ["220"], Eclass: 450, Cost: 1
+Node ID: 451, Op: *, Children: ["449", "450"], Eclass: 451, Cost: 4
+Node ID: 452, Op: !, Children: ["451"], Eclass: 452, Cost: 1
+Node ID: 453, Op: *, Children: ["448", "452"], Eclass: 453, Cost: 4
+Node ID: 454, Op: *, Children: ["438", "453"], Eclass: 454, Cost: 4
+Node ID: 455, Op: *, Children: ["90", "218"], Eclass: 455, Cost: 4
+Node ID: 456, Op: !, Children: ["455"], Eclass: 456, Cost: 1
+Node ID: 457, Op: *, Children: ["442", "456"], Eclass: 457, Cost: 4
+Node ID: 458, Op: *, Children: ["87", "215"], Eclass: 458, Cost: 4
+Node ID: 459, Op: !, Children: ["458"], Eclass: 459, Cost: 1
+Node ID: 460, Op: *, Children: ["86", "214"], Eclass: 460, Cost: 4
+Node ID: 461, Op: !, Children: ["460"], Eclass: 461, Cost: 1
+Node ID: 462, Op: !, Children: ["214"], Eclass: 462, Cost: 1
+Node ID: 463, Op: *, Children: ["461", "462"], Eclass: 463, Cost: 4
+Node ID: 464, Op: !, Children: ["86"], Eclass: 464, Cost: 1
+Node ID: 465, Op: *, Children: ["463", "464"], Eclass: 465, Cost: 4
+Node ID: 466, Op: *, Children: ["459", "465"], Eclass: 466, Cost: 4
+Node ID: 467, Op: !, Children: ["466"], Eclass: 467, Cost: 1
+Node ID: 468, Op: !, Children: ["215"], Eclass: 468, Cost: 1
+Node ID: 469, Op: !, Children: ["87"], Eclass: 469, Cost: 1
+Node ID: 470, Op: *, Children: ["468", "469"], Eclass: 470, Cost: 4
+Node ID: 471, Op: !, Children: ["470"], Eclass: 471, Cost: 1
+Node ID: 472, Op: *, Children: ["467", "471"], Eclass: 472, Cost: 4
+Node ID: 473, Op: !, Children: ["85"], Eclass: 473, Cost: 1
+Node ID: 474, Op: !, Children: ["213"], Eclass: 474, Cost: 1
+Node ID: 475, Op: *, Children: ["473", "474"], Eclass: 475, Cost: 4
+Node ID: 476, Op: !, Children: ["475"], Eclass: 476, Cost: 1
+Node ID: 477, Op: !, Children: ["83"], Eclass: 477, Cost: 1
+Node ID: 478, Op: !, Children: ["211"], Eclass: 478, Cost: 1
+Node ID: 479, Op: *, Children: ["477", "478"], Eclass: 479, Cost: 4
+Node ID: 480, Op: !, Children: ["479"], Eclass: 480, Cost: 1
+Node ID: 481, Op: *, Children: ["476", "480"], Eclass: 481, Cost: 4
+Node ID: 482, Op: !, Children: ["84"], Eclass: 482, Cost: 1
+Node ID: 483, Op: !, Children: ["212"], Eclass: 483, Cost: 1
+Node ID: 484, Op: *, Children: ["482", "483"], Eclass: 484, Cost: 4
+Node ID: 485, Op: !, Children: ["484"], Eclass: 485, Cost: 1
+Node ID: 486, Op: *, Children: ["481", "485"], Eclass: 486, Cost: 4
+Node ID: 487, Op: !, Children: ["80"], Eclass: 487, Cost: 1
+Node ID: 488, Op: !, Children: ["208"], Eclass: 488, Cost: 1
+Node ID: 489, Op: *, Children: ["487", "488"], Eclass: 489, Cost: 4
+Node ID: 490, Op: !, Children: ["489"], Eclass: 490, Cost: 1
+Node ID: 491, Op: !, Children: ["79"], Eclass: 491, Cost: 1
+Node ID: 492, Op: !, Children: ["207"], Eclass: 492, Cost: 1
+Node ID: 493, Op: *, Children: ["491", "492"], Eclass: 493, Cost: 4
+Node ID: 494, Op: !, Children: ["493"], Eclass: 494, Cost: 1
+Node ID: 495, Op: *, Children: ["78", "206"], Eclass: 495, Cost: 4
+Node ID: 496, Op: *, Children: ["494", "495"], Eclass: 496, Cost: 4
+Node ID: 497, Op: !, Children: ["496"], Eclass: 497, Cost: 1
+Node ID: 498, Op: *, Children: ["79", "207"], Eclass: 498, Cost: 4
+Node ID: 499, Op: !, Children: ["498"], Eclass: 499, Cost: 1
+Node ID: 500, Op: *, Children: ["497", "499"], Eclass: 500, Cost: 4
+Node ID: 501, Op: !, Children: ["500"], Eclass: 501, Cost: 1
+Node ID: 502, Op: *, Children: ["490", "501"], Eclass: 502, Cost: 4
+Node ID: 503, Op: !, Children: ["502"], Eclass: 503, Cost: 1
+Node ID: 504, Op: !, Children: ["204"], Eclass: 504, Cost: 1
+Node ID: 505, Op: !, Children: ["76"], Eclass: 505, Cost: 1
+Node ID: 506, Op: *, Children: ["205", "77"], Eclass: 506, Cost: 4
+Node ID: 507, Op: !, Children: ["506"], Eclass: 507, Cost: 1
+Node ID: 508, Op: *, Children: ["505", "507"], Eclass: 508, Cost: 4
+Node ID: 509, Op: *, Children: ["504", "508"], Eclass: 509, Cost: 4
+Node ID: 510, Op: *, Children: ["76", "204"], Eclass: 510, Cost: 4
+Node ID: 511, Op: !, Children: ["510"], Eclass: 511, Cost: 1
+Node ID: 512, Op: *, Children: ["509", "511"], Eclass: 512, Cost: 4
+Node ID: 513, Op: !, Children: ["512"], Eclass: 513, Cost: 1
+Node ID: 514, Op: !, Children: ["77"], Eclass: 514, Cost: 1
+Node ID: 515, Op: !, Children: ["205"], Eclass: 515, Cost: 1
+Node ID: 516, Op: *, Children: ["514", "515"], Eclass: 516, Cost: 4
+Node ID: 517, Op: !, Children: ["516"], Eclass: 517, Cost: 1
+Node ID: 518, Op: *, Children: ["513", "517"], Eclass: 518, Cost: 4
+Node ID: 519, Op: !, Children: ["75"], Eclass: 519, Cost: 1
+Node ID: 520, Op: !, Children: ["203"], Eclass: 520, Cost: 1
+Node ID: 521, Op: *, Children: ["519", "520"], Eclass: 521, Cost: 4
+Node ID: 522, Op: !, Children: ["521"], Eclass: 522, Cost: 1
+Node ID: 523, Op: !, Children: ["74"], Eclass: 523, Cost: 1
+Node ID: 524, Op: !, Children: ["202"], Eclass: 524, Cost: 1
+Node ID: 525, Op: *, Children: ["523", "524"], Eclass: 525, Cost: 4
+Node ID: 526, Op: !, Children: ["525"], Eclass: 526, Cost: 1
+Node ID: 527, Op: *, Children: ["201", "73"], Eclass: 527, Cost: 4
+Node ID: 528, Op: *, Children: ["526", "527"], Eclass: 528, Cost: 4
+Node ID: 529, Op: !, Children: ["528"], Eclass: 529, Cost: 1
+Node ID: 530, Op: *, Children: ["202", "74"], Eclass: 530, Cost: 4
+Node ID: 531, Op: !, Children: ["530"], Eclass: 531, Cost: 1
+Node ID: 532, Op: *, Children: ["529", "531"], Eclass: 532, Cost: 4
+Node ID: 533, Op: !, Children: ["532"], Eclass: 533, Cost: 1
+Node ID: 534, Op: *, Children: ["522", "533"], Eclass: 534, Cost: 4
+Node ID: 535, Op: !, Children: ["534"], Eclass: 535, Cost: 1
+Node ID: 536, Op: *, Children: ["522", "526"], Eclass: 536, Cost: 4
+Node ID: 537, Op: !, Children: ["201"], Eclass: 537, Cost: 1
+Node ID: 538, Op: !, Children: ["73"], Eclass: 538, Cost: 1
+Node ID: 539, Op: *, Children: ["537", "538"], Eclass: 539, Cost: 4
+Node ID: 540, Op: !, Children: ["539"], Eclass: 540, Cost: 1
+Node ID: 541, Op: *, Children: ["536", "540"], Eclass: 541, Cost: 4
+Node ID: 542, Op: *, Children: ["71", "199"], Eclass: 542, Cost: 4
+Node ID: 543, Op: !, Children: ["542"], Eclass: 543, Cost: 1
+Node ID: 544, Op: *, Children: ["72", "200"], Eclass: 544, Cost: 4
+Node ID: 545, Op: !, Children: ["544"], Eclass: 545, Cost: 1
+Node ID: 546, Op: !, Children: ["71"], Eclass: 546, Cost: 1
+Node ID: 547, Op: *, Children: ["545", "546"], Eclass: 547, Cost: 4
+Node ID: 548, Op: *, Children: ["543", "547"], Eclass: 548, Cost: 4
+Node ID: 549, Op: !, Children: ["199"], Eclass: 549, Cost: 1
+Node ID: 550, Op: *, Children: ["548", "549"], Eclass: 550, Cost: 4
+Node ID: 551, Op: !, Children: ["550"], Eclass: 551, Cost: 1
+Node ID: 552, Op: !, Children: ["72"], Eclass: 552, Cost: 1
+Node ID: 553, Op: !, Children: ["200"], Eclass: 553, Cost: 1
+Node ID: 554, Op: *, Children: ["552", "553"], Eclass: 554, Cost: 4
+Node ID: 555, Op: !, Children: ["554"], Eclass: 555, Cost: 1
+Node ID: 556, Op: *, Children: ["551", "555"], Eclass: 556, Cost: 4
+Node ID: 557, Op: !, Children: ["193"], Eclass: 557, Cost: 1
+Node ID: 558, Op: !, Children: ["65"], Eclass: 558, Cost: 1
+Node ID: 559, Op: *, Children: ["557", "558"], Eclass: 559, Cost: 4
+Node ID: 560, Op: !, Children: ["559"], Eclass: 560, Cost: 1
+Node ID: 561, Op: *, Children: ["63", "191"], Eclass: 561, Cost: 4
+Node ID: 562, Op: !, Children: ["64"], Eclass: 562, Cost: 1
+Node ID: 563, Op: !, Children: ["192"], Eclass: 563, Cost: 1
+Node ID: 564, Op: *, Children: ["562", "563"], Eclass: 564, Cost: 4
+Node ID: 565, Op: !, Children: ["564"], Eclass: 565, Cost: 1
+Node ID: 566, Op: *, Children: ["561", "565"], Eclass: 566, Cost: 4
+Node ID: 567, Op: !, Children: ["566"], Eclass: 567, Cost: 1
+Node ID: 568, Op: *, Children: ["64", "192"], Eclass: 568, Cost: 4
+Node ID: 569, Op: !, Children: ["568"], Eclass: 569, Cost: 1
+Node ID: 570, Op: *, Children: ["567", "569"], Eclass: 570, Cost: 4
+Node ID: 571, Op: !, Children: ["570"], Eclass: 571, Cost: 1
+Node ID: 572, Op: *, Children: ["560", "571"], Eclass: 572, Cost: 4
+Node ID: 573, Op: !, Children: ["572"], Eclass: 573, Cost: 1
+Node ID: 574, Op: *, Children: ["560", "565"], Eclass: 574, Cost: 4
+Node ID: 575, Op: !, Children: ["63"], Eclass: 575, Cost: 1
+Node ID: 576, Op: !, Children: ["191"], Eclass: 576, Cost: 1
+Node ID: 577, Op: *, Children: ["575", "576"], Eclass: 577, Cost: 4
+Node ID: 578, Op: !, Children: ["577"], Eclass: 578, Cost: 1
+Node ID: 579, Op: *, Children: ["574", "578"], Eclass: 579, Cost: 4
+Node ID: 580, Op: !, Children: ["190"], Eclass: 580, Cost: 1
+Node ID: 581, Op: !, Children: ["62"], Eclass: 581, Cost: 1
+Node ID: 582, Op: *, Children: ["580", "581"], Eclass: 582, Cost: 4
+Node ID: 583, Op: !, Children: ["582"], Eclass: 583, Cost: 1
+Node ID: 584, Op: *, Children: ["579", "583"], Eclass: 584, Cost: 4
+Node ID: 585, Op: *, Children: ["61", "189"], Eclass: 585, Cost: 4
+Node ID: 586, Op: !, Children: ["585"], Eclass: 586, Cost: 1
+Node ID: 587, Op: *, Children: ["190", "62"], Eclass: 587, Cost: 4
+Node ID: 588, Op: !, Children: ["587"], Eclass: 588, Cost: 1
+Node ID: 589, Op: !, Children: ["189"], Eclass: 589, Cost: 1
+Node ID: 590, Op: *, Children: ["588", "589"], Eclass: 590, Cost: 4
+Node ID: 591, Op: *, Children: ["586", "590"], Eclass: 591, Cost: 4
+Node ID: 592, Op: !, Children: ["61"], Eclass: 592, Cost: 1
+Node ID: 593, Op: *, Children: ["591", "592"], Eclass: 593, Cost: 4
+Node ID: 594, Op: !, Children: ["593"], Eclass: 594, Cost: 1
+Node ID: 595, Op: *, Children: ["584", "594"], Eclass: 595, Cost: 4
+Node ID: 596, Op: !, Children: ["188"], Eclass: 596, Cost: 1
+Node ID: 597, Op: !, Children: ["60"], Eclass: 597, Cost: 1
+Node ID: 598, Op: *, Children: ["596", "597"], Eclass: 598, Cost: 4
+Node ID: 599, Op: !, Children: ["598"], Eclass: 599, Cost: 1
+Node ID: 600, Op: !, Children: ["59"], Eclass: 600, Cost: 1
+Node ID: 601, Op: !, Children: ["187"], Eclass: 601, Cost: 1
+Node ID: 602, Op: *, Children: ["600", "601"], Eclass: 602, Cost: 4
+Node ID: 603, Op: !, Children: ["602"], Eclass: 603, Cost: 1
+Node ID: 604, Op: *, Children: ["603", "58"], Eclass: 604, Cost: 4
+Node ID: 605, Op: *, Children: ["604", "186"], Eclass: 605, Cost: 4
+Node ID: 606, Op: !, Children: ["605"], Eclass: 606, Cost: 1
+Node ID: 607, Op: *, Children: ["59", "187"], Eclass: 607, Cost: 4
+Node ID: 608, Op: !, Children: ["607"], Eclass: 608, Cost: 1
+Node ID: 609, Op: *, Children: ["606", "608"], Eclass: 609, Cost: 4
+Node ID: 610, Op: !, Children: ["609"], Eclass: 610, Cost: 1
+Node ID: 611, Op: *, Children: ["599", "610"], Eclass: 611, Cost: 4
+Node ID: 612, Op: !, Children: ["611"], Eclass: 612, Cost: 1
+Node ID: 613, Op: !, Children: ["58"], Eclass: 613, Cost: 1
+Node ID: 614, Op: !, Children: ["186"], Eclass: 614, Cost: 1
+Node ID: 615, Op: *, Children: ["613", "614"], Eclass: 615, Cost: 4
+Node ID: 616, Op: !, Children: ["615"], Eclass: 616, Cost: 1
+Node ID: 617, Op: *, Children: ["616", "603"], Eclass: 617, Cost: 4
+Node ID: 618, Op: *, Children: ["599", "617"], Eclass: 618, Cost: 4
+Node ID: 619, Op: *, Children: ["55", "183"], Eclass: 619, Cost: 4
+Node ID: 620, Op: !, Children: ["619"], Eclass: 620, Cost: 1
+Node ID: 621, Op: *, Children: ["57", "185"], Eclass: 621, Cost: 4
+Node ID: 622, Op: !, Children: ["621"], Eclass: 622, Cost: 1
+Node ID: 623, Op: *, Children: ["620", "622"], Eclass: 623, Cost: 4
+Node ID: 624, Op: *, Children: ["184", "56"], Eclass: 624, Cost: 4
+Node ID: 625, Op: !, Children: ["624"], Eclass: 625, Cost: 1
+Node ID: 626, Op: *, Children: ["623", "625"], Eclass: 626, Cost: 4
+Node ID: 627, Op: !, Children: ["55"], Eclass: 627, Cost: 1
+Node ID: 628, Op: !, Children: ["183"], Eclass: 628, Cost: 1
+Node ID: 629, Op: *, Children: ["627", "628"], Eclass: 629, Cost: 4
+Node ID: 630, Op: !, Children: ["629"], Eclass: 630, Cost: 1
+Node ID: 631, Op: !, Children: ["54"], Eclass: 631, Cost: 1
+Node ID: 632, Op: !, Children: ["182"], Eclass: 632, Cost: 1
+Node ID: 633, Op: *, Children: ["631", "632"], Eclass: 633, Cost: 4
+Node ID: 634, Op: !, Children: ["633"], Eclass: 634, Cost: 1
+Node ID: 635, Op: *, Children: ["53", "181"], Eclass: 635, Cost: 4
+Node ID: 636, Op: *, Children: ["634", "635"], Eclass: 636, Cost: 4
+Node ID: 637, Op: !, Children: ["636"], Eclass: 637, Cost: 1
+Node ID: 638, Op: *, Children: ["182", "54"], Eclass: 638, Cost: 4
+Node ID: 639, Op: !, Children: ["638"], Eclass: 639, Cost: 1
+Node ID: 640, Op: *, Children: ["637", "639"], Eclass: 640, Cost: 4
+Node ID: 641, Op: !, Children: ["640"], Eclass: 641, Cost: 1
+Node ID: 642, Op: *, Children: ["630", "641"], Eclass: 642, Cost: 4
+Node ID: 643, Op: !, Children: ["642"], Eclass: 643, Cost: 1
+Node ID: 644, Op: *, Children: ["626", "643"], Eclass: 644, Cost: 4
+Node ID: 645, Op: *, Children: ["52", "180"], Eclass: 645, Cost: 4
+Node ID: 646, Op: !, Children: ["645"], Eclass: 646, Cost: 1
+Node ID: 647, Op: !, Children: ["180"], Eclass: 647, Cost: 1
+Node ID: 648, Op: !, Children: ["52"], Eclass: 648, Cost: 1
+Node ID: 649, Op: *, Children: ["647", "648"], Eclass: 649, Cost: 4
+Node ID: 650, Op: !, Children: ["649"], Eclass: 650, Cost: 1
+Node ID: 651, Op: *, Children: ["51", "179"], Eclass: 651, Cost: 4
+Node ID: 652, Op: !, Children: ["651"], Eclass: 652, Cost: 1
+Node ID: 653, Op: !, Children: ["51"], Eclass: 653, Cost: 1
+Node ID: 654, Op: *, Children: ["652", "653"], Eclass: 654, Cost: 4
+Node ID: 655, Op: !, Children: ["179"], Eclass: 655, Cost: 1
+Node ID: 656, Op: *, Children: ["654", "655"], Eclass: 656, Cost: 4
+Node ID: 657, Op: !, Children: ["656"], Eclass: 657, Cost: 1
+Node ID: 658, Op: *, Children: ["650", "657"], Eclass: 658, Cost: 4
+Node ID: 659, Op: !, Children: ["658"], Eclass: 659, Cost: 1
+Node ID: 660, Op: *, Children: ["646", "659"], Eclass: 660, Cost: 4
+Node ID: 661, Op: !, Children: ["660"], Eclass: 661, Cost: 1
+Node ID: 662, Op: !, Children: ["45"], Eclass: 662, Cost: 1
+Node ID: 663, Op: !, Children: ["173"], Eclass: 663, Cost: 1
+Node ID: 664, Op: *, Children: ["662", "663"], Eclass: 664, Cost: 4
+Node ID: 665, Op: !, Children: ["664"], Eclass: 665, Cost: 1
+Node ID: 666, Op: !, Children: ["43"], Eclass: 666, Cost: 1
+Node ID: 667, Op: !, Children: ["171"], Eclass: 667, Cost: 1
+Node ID: 668, Op: *, Children: ["666", "667"], Eclass: 668, Cost: 4
+Node ID: 669, Op: !, Children: ["668"], Eclass: 669, Cost: 1
+Node ID: 670, Op: *, Children: ["665", "669"], Eclass: 670, Cost: 4
+Node ID: 671, Op: !, Children: ["172"], Eclass: 671, Cost: 1
+Node ID: 672, Op: !, Children: ["44"], Eclass: 672, Cost: 1
+Node ID: 673, Op: *, Children: ["671", "672"], Eclass: 673, Cost: 4
+Node ID: 674, Op: !, Children: ["673"], Eclass: 674, Cost: 1
+Node ID: 675, Op: *, Children: ["670", "674"], Eclass: 675, Cost: 4
+Node ID: 676, Op: *, Children: ["169", "41"], Eclass: 676, Cost: 4
+Node ID: 677, Op: !, Children: ["676"], Eclass: 677, Cost: 1
+Node ID: 678, Op: *, Children: ["170", "42"], Eclass: 678, Cost: 4
+Node ID: 679, Op: !, Children: ["678"], Eclass: 679, Cost: 1
+Node ID: 680, Op: *, Children: ["40", "168"], Eclass: 680, Cost: 4
+Node ID: 681, Op: !, Children: ["680"], Eclass: 681, Cost: 1
+Node ID: 682, Op: *, Children: ["679", "681"], Eclass: 682, Cost: 4
+Node ID: 683, Op: *, Children: ["37", "165"], Eclass: 683, Cost: 4
+Node ID: 684, Op: !, Children: ["683"], Eclass: 684, Cost: 1
+Node ID: 685, Op: *, Children: ["36", "164"], Eclass: 685, Cost: 4
+Node ID: 686, Op: !, Children: ["685"], Eclass: 686, Cost: 1
+Node ID: 687, Op: *, Children: ["684", "686"], Eclass: 687, Cost: 4
+Node ID: 688, Op: *, Children: ["35", "163"], Eclass: 688, Cost: 4
+Node ID: 689, Op: !, Children: ["688"], Eclass: 689, Cost: 1
+Node ID: 690, Op: *, Children: ["687", "689"], Eclass: 690, Cost: 4
+Node ID: 691, Op: *, Children: ["32", "160"], Eclass: 691, Cost: 4
+Node ID: 692, Op: !, Children: ["691"], Eclass: 692, Cost: 1
+Node ID: 693, Op: *, Children: ["31", "159"], Eclass: 693, Cost: 4
+Node ID: 694, Op: !, Children: ["693"], Eclass: 694, Cost: 1
+Node ID: 695, Op: *, Children: ["692", "694"], Eclass: 695, Cost: 4
+Node ID: 696, Op: *, Children: ["30", "158"], Eclass: 696, Cost: 4
+Node ID: 697, Op: !, Children: ["696"], Eclass: 697, Cost: 1
+Node ID: 698, Op: *, Children: ["695", "697"], Eclass: 698, Cost: 4
+Node ID: 699, Op: !, Children: ["30"], Eclass: 699, Cost: 1
+Node ID: 700, Op: !, Children: ["158"], Eclass: 700, Cost: 1
+Node ID: 701, Op: *, Children: ["699", "700"], Eclass: 701, Cost: 4
+Node ID: 702, Op: !, Children: ["701"], Eclass: 702, Cost: 1
+Node ID: 703, Op: !, Children: ["29"], Eclass: 703, Cost: 1
+Node ID: 704, Op: !, Children: ["157"], Eclass: 704, Cost: 1
+Node ID: 705, Op: *, Children: ["703", "704"], Eclass: 705, Cost: 4
+Node ID: 706, Op: !, Children: ["705"], Eclass: 706, Cost: 1
+Node ID: 707, Op: *, Children: ["706", "28"], Eclass: 707, Cost: 4
+Node ID: 708, Op: *, Children: ["707", "156"], Eclass: 708, Cost: 4
+Node ID: 709, Op: !, Children: ["708"], Eclass: 709, Cost: 1
+Node ID: 710, Op: *, Children: ["29", "157"], Eclass: 710, Cost: 4
+Node ID: 711, Op: !, Children: ["710"], Eclass: 711, Cost: 1
+Node ID: 712, Op: *, Children: ["709", "711"], Eclass: 712, Cost: 4
+Node ID: 713, Op: !, Children: ["712"], Eclass: 713, Cost: 1
+Node ID: 714, Op: *, Children: ["702", "713"], Eclass: 714, Cost: 4
+Node ID: 715, Op: !, Children: ["714"], Eclass: 715, Cost: 1
+Node ID: 716, Op: *, Children: ["698", "715"], Eclass: 716, Cost: 4
+Node ID: 717, Op: !, Children: ["28"], Eclass: 717, Cost: 1
+Node ID: 718, Op: !, Children: ["156"], Eclass: 718, Cost: 1
+Node ID: 719, Op: *, Children: ["717", "718"], Eclass: 719, Cost: 4
+Node ID: 720, Op: !, Children: ["719"], Eclass: 720, Cost: 1
+Node ID: 721, Op: *, Children: ["720", "706"], Eclass: 721, Cost: 4
+Node ID: 722, Op: *, Children: ["721", "702"], Eclass: 722, Cost: 4
+Node ID: 723, Op: !, Children: ["26"], Eclass: 723, Cost: 1
+Node ID: 724, Op: !, Children: ["154"], Eclass: 724, Cost: 1
+Node ID: 725, Op: *, Children: ["723", "724"], Eclass: 725, Cost: 4
+Node ID: 726, Op: *, Children: ["27", "155"], Eclass: 726, Cost: 4
+Node ID: 727, Op: !, Children: ["726"], Eclass: 727, Cost: 1
+Node ID: 728, Op: *, Children: ["725", "727"], Eclass: 728, Cost: 4
+Node ID: 729, Op: *, Children: ["154", "26"], Eclass: 729, Cost: 4
+Node ID: 730, Op: !, Children: ["729"], Eclass: 730, Cost: 1
+Node ID: 731, Op: *, Children: ["728", "730"], Eclass: 731, Cost: 4
+Node ID: 732, Op: !, Children: ["731"], Eclass: 732, Cost: 1
+Node ID: 733, Op: *, Children: ["722", "732"], Eclass: 733, Cost: 4
+Node ID: 734, Op: !, Children: ["27"], Eclass: 734, Cost: 1
+Node ID: 735, Op: !, Children: ["155"], Eclass: 735, Cost: 1
+Node ID: 736, Op: *, Children: ["734", "735"], Eclass: 736, Cost: 4
+Node ID: 737, Op: !, Children: ["736"], Eclass: 737, Cost: 1
+Node ID: 738, Op: *, Children: ["733", "737"], Eclass: 738, Cost: 4
+Node ID: 739, Op: *, Children: ["730", "727"], Eclass: 739, Cost: 4
+Node ID: 740, Op: *, Children: ["25", "153"], Eclass: 740, Cost: 4
+Node ID: 741, Op: !, Children: ["740"], Eclass: 741, Cost: 1
+Node ID: 742, Op: *, Children: ["22", "150"], Eclass: 742, Cost: 4
+Node ID: 743, Op: !, Children: ["742"], Eclass: 743, Cost: 1
+Node ID: 744, Op: *, Children: ["21", "149"], Eclass: 744, Cost: 4
+Node ID: 745, Op: !, Children: ["744"], Eclass: 745, Cost: 1
+Node ID: 746, Op: *, Children: ["20", "148"], Eclass: 746, Cost: 4
+Node ID: 747, Op: !, Children: ["746"], Eclass: 747, Cost: 1
+Node ID: 748, Op: *, Children: ["745", "747"], Eclass: 748, Cost: 4
+Node ID: 749, Op: *, Children: ["743", "748"], Eclass: 749, Cost: 4
+Node ID: 750, Op: !, Children: ["148"], Eclass: 750, Cost: 1
+Node ID: 751, Op: !, Children: ["20"], Eclass: 751, Cost: 1
+Node ID: 752, Op: *, Children: ["750", "751"], Eclass: 752, Cost: 4
+Node ID: 753, Op: !, Children: ["752"], Eclass: 753, Cost: 1
+Node ID: 754, Op: !, Children: ["19"], Eclass: 754, Cost: 1
+Node ID: 755, Op: !, Children: ["147"], Eclass: 755, Cost: 1
+Node ID: 756, Op: *, Children: ["754", "755"], Eclass: 756, Cost: 4
+Node ID: 757, Op: !, Children: ["756"], Eclass: 757, Cost: 1
+Node ID: 758, Op: *, Children: ["753", "757"], Eclass: 758, Cost: 4
+Node ID: 759, Op: !, Children: ["18"], Eclass: 759, Cost: 1
+Node ID: 760, Op: !, Children: ["146"], Eclass: 760, Cost: 1
+Node ID: 761, Op: *, Children: ["759", "760"], Eclass: 761, Cost: 4
+Node ID: 762, Op: !, Children: ["761"], Eclass: 762, Cost: 1
+Node ID: 763, Op: *, Children: ["758", "762"], Eclass: 763, Cost: 4
+Node ID: 764, Op: !, Children: ["10"], Eclass: 764, Cost: 1
+Node ID: 765, Op: !, Children: ["138"], Eclass: 765, Cost: 1
+Node ID: 766, Op: *, Children: ["764", "765"], Eclass: 766, Cost: 4
+Node ID: 767, Op: !, Children: ["766"], Eclass: 767, Cost: 1
+Node ID: 768, Op: !, Children: ["137"], Eclass: 768, Cost: 1
+Node ID: 769, Op: !, Children: ["9"], Eclass: 769, Cost: 1
+Node ID: 770, Op: *, Children: ["768", "769"], Eclass: 770, Cost: 4
+Node ID: 771, Op: !, Children: ["770"], Eclass: 771, Cost: 1
+Node ID: 772, Op: *, Children: ["771", "136"], Eclass: 772, Cost: 4
+Node ID: 773, Op: *, Children: ["772", "8"], Eclass: 773, Cost: 4
+Node ID: 774, Op: !, Children: ["773"], Eclass: 774, Cost: 1
+Node ID: 775, Op: *, Children: ["9", "137"], Eclass: 775, Cost: 4
+Node ID: 776, Op: !, Children: ["775"], Eclass: 776, Cost: 1
+Node ID: 777, Op: *, Children: ["774", "776"], Eclass: 777, Cost: 4
+Node ID: 778, Op: !, Children: ["777"], Eclass: 778, Cost: 1
+Node ID: 779, Op: *, Children: ["767", "778"], Eclass: 779, Cost: 4
+Node ID: 780, Op: !, Children: ["779"], Eclass: 780, Cost: 1
+Node ID: 781, Op: !, Children: ["7"], Eclass: 781, Cost: 1
+Node ID: 782, Op: !, Children: ["135"], Eclass: 782, Cost: 1
+Node ID: 783, Op: *, Children: ["781", "782"], Eclass: 783, Cost: 4
+Node ID: 784, Op: !, Children: ["783"], Eclass: 784, Cost: 1
+Node ID: 785, Op: !, Children: ["134"], Eclass: 785, Cost: 1
+Node ID: 786, Op: !, Children: ["6"], Eclass: 786, Cost: 1
+Node ID: 787, Op: *, Children: ["6", "134"], Eclass: 787, Cost: 4
+Node ID: 788, Op: !, Children: ["787"], Eclass: 788, Cost: 1
+Node ID: 789, Op: *, Children: ["786", "788"], Eclass: 789, Cost: 4
+Node ID: 790, Op: *, Children: ["785", "789"], Eclass: 790, Cost: 4
+Node ID: 791, Op: *, Children: ["135", "7"], Eclass: 791, Cost: 4
+Node ID: 792, Op: !, Children: ["791"], Eclass: 792, Cost: 1
+Node ID: 793, Op: *, Children: ["790", "792"], Eclass: 793, Cost: 4
+Node ID: 794, Op: !, Children: ["793"], Eclass: 794, Cost: 1
+Node ID: 795, Op: *, Children: ["784", "794"], Eclass: 795, Cost: 4
+Node ID: 796, Op: *, Children: ["5", "133"], Eclass: 796, Cost: 4
+Node ID: 797, Op: !, Children: ["796"], Eclass: 797, Cost: 1
+Node ID: 798, Op: *, Children: ["797", "788"], Eclass: 798, Cost: 4
+Node ID: 799, Op: !, Children: ["130"], Eclass: 799, Cost: 1
+Node ID: 800, Op: !, Children: ["2"], Eclass: 800, Cost: 1
+Node ID: 801, Op: *, Children: ["799", "800"], Eclass: 801, Cost: 4
+Node ID: 802, Op: !, Children: ["801"], Eclass: 802, Cost: 1
+Node ID: 803, Op: *, Children: ["129", "1"], Eclass: 803, Cost: 4
+Node ID: 804, Op: *, Children: ["802", "803"], Eclass: 804, Cost: 4
+Node ID: 805, Op: !, Children: ["804"], Eclass: 805, Cost: 1
+Node ID: 806, Op: *, Children: ["130", "2"], Eclass: 806, Cost: 4
+Node ID: 807, Op: !, Children: ["806"], Eclass: 807, Cost: 1
+Node ID: 808, Op: *, Children: ["805", "807"], Eclass: 808, Cost: 4
+Node ID: 809, Op: !, Children: ["808"], Eclass: 809, Cost: 1
+Node ID: 810, Op: !, Children: ["131"], Eclass: 810, Cost: 1
+Node ID: 811, Op: !, Children: ["3"], Eclass: 811, Cost: 1
+Node ID: 812, Op: *, Children: ["810", "811"], Eclass: 812, Cost: 4
+Node ID: 813, Op: !, Children: ["812"], Eclass: 813, Cost: 1
+Node ID: 814, Op: *, Children: ["809", "813"], Eclass: 814, Cost: 4
+Node ID: 815, Op: !, Children: ["4"], Eclass: 815, Cost: 1
+Node ID: 816, Op: !, Children: ["132"], Eclass: 816, Cost: 1
+Node ID: 817, Op: *, Children: ["815", "816"], Eclass: 817, Cost: 4
+Node ID: 818, Op: !, Children: ["817"], Eclass: 818, Cost: 1
+Node ID: 819, Op: *, Children: ["814", "818"], Eclass: 819, Cost: 4
+Node ID: 820, Op: !, Children: ["5"], Eclass: 820, Cost: 1
+Node ID: 821, Op: !, Children: ["133"], Eclass: 821, Cost: 1
+Node ID: 822, Op: *, Children: ["820", "821"], Eclass: 822, Cost: 4
+Node ID: 823, Op: !, Children: ["822"], Eclass: 823, Cost: 1
+Node ID: 824, Op: *, Children: ["819", "823"], Eclass: 824, Cost: 4
+Node ID: 825, Op: !, Children: ["824"], Eclass: 825, Cost: 1
+Node ID: 826, Op: *, Children: ["4", "132"], Eclass: 826, Cost: 4
+Node ID: 827, Op: !, Children: ["826"], Eclass: 827, Cost: 1
+Node ID: 828, Op: *, Children: ["3", "131"], Eclass: 828, Cost: 4
+Node ID: 829, Op: *, Children: ["828", "818"], Eclass: 829, Cost: 4
+Node ID: 830, Op: !, Children: ["829"], Eclass: 830, Cost: 1
+Node ID: 831, Op: *, Children: ["827", "830"], Eclass: 831, Cost: 4
+Node ID: 832, Op: !, Children: ["831"], Eclass: 832, Cost: 1
+Node ID: 833, Op: *, Children: ["823", "832"], Eclass: 833, Cost: 4
+Node ID: 834, Op: !, Children: ["833"], Eclass: 834, Cost: 1
+Node ID: 835, Op: *, Children: ["825", "834"], Eclass: 835, Cost: 4
+Node ID: 836, Op: *, Children: ["792", "835"], Eclass: 836, Cost: 4
+Node ID: 837, Op: *, Children: ["798", "836"], Eclass: 837, Cost: 4
+Node ID: 838, Op: !, Children: ["837"], Eclass: 838, Cost: 1
+Node ID: 839, Op: *, Children: ["795", "838"], Eclass: 839, Cost: 4
+Node ID: 840, Op: *, Children: ["839", "767"], Eclass: 840, Cost: 4
+Node ID: 841, Op: *, Children: ["840", "771"], Eclass: 841, Cost: 4
+Node ID: 842, Op: !, Children: ["8"], Eclass: 842, Cost: 1
+Node ID: 843, Op: !, Children: ["136"], Eclass: 843, Cost: 1
+Node ID: 844, Op: *, Children: ["842", "843"], Eclass: 844, Cost: 4
+Node ID: 845, Op: !, Children: ["844"], Eclass: 845, Cost: 1
+Node ID: 846, Op: *, Children: ["841", "845"], Eclass: 846, Cost: 4
+Node ID: 847, Op: !, Children: ["846"], Eclass: 847, Cost: 1
+Node ID: 848, Op: *, Children: ["780", "847"], Eclass: 848, Cost: 4
+Node ID: 849, Op: *, Children: ["12", "140"], Eclass: 849, Cost: 4
+Node ID: 850, Op: !, Children: ["849"], Eclass: 850, Cost: 1
+Node ID: 851, Op: *, Children: ["11", "139"], Eclass: 851, Cost: 4
+Node ID: 852, Op: !, Children: ["851"], Eclass: 852, Cost: 1
+Node ID: 853, Op: *, Children: ["850", "852"], Eclass: 853, Cost: 4
+Node ID: 854, Op: *, Children: ["848", "853"], Eclass: 854, Cost: 4
+Node ID: 855, Op: *, Children: ["138", "10"], Eclass: 855, Cost: 4
+Node ID: 856, Op: !, Children: ["855"], Eclass: 856, Cost: 1
+Node ID: 857, Op: *, Children: ["854", "856"], Eclass: 857, Cost: 4
+Node ID: 858, Op: !, Children: ["857"], Eclass: 858, Cost: 1
+Node ID: 859, Op: !, Children: ["11"], Eclass: 859, Cost: 1
+Node ID: 860, Op: *, Children: ["852", "859"], Eclass: 860, Cost: 4
+Node ID: 861, Op: !, Children: ["139"], Eclass: 861, Cost: 1
+Node ID: 862, Op: *, Children: ["860", "861"], Eclass: 862, Cost: 4
+Node ID: 863, Op: !, Children: ["862"], Eclass: 863, Cost: 1
+Node ID: 864, Op: !, Children: ["12"], Eclass: 864, Cost: 1
+Node ID: 865, Op: !, Children: ["140"], Eclass: 865, Cost: 1
+Node ID: 866, Op: *, Children: ["864", "865"], Eclass: 866, Cost: 4
+Node ID: 867, Op: !, Children: ["866"], Eclass: 867, Cost: 1
+Node ID: 868, Op: *, Children: ["863", "867"], Eclass: 868, Cost: 4
+Node ID: 869, Op: !, Children: ["868"], Eclass: 869, Cost: 1
+Node ID: 870, Op: *, Children: ["850", "869"], Eclass: 870, Cost: 4
+Node ID: 871, Op: !, Children: ["870"], Eclass: 871, Cost: 1
+Node ID: 872, Op: !, Children: ["143"], Eclass: 872, Cost: 1
+Node ID: 873, Op: !, Children: ["15"], Eclass: 873, Cost: 1
+Node ID: 874, Op: *, Children: ["872", "873"], Eclass: 874, Cost: 4
+Node ID: 875, Op: !, Children: ["874"], Eclass: 875, Cost: 1
+Node ID: 876, Op: !, Children: ["13"], Eclass: 876, Cost: 1
+Node ID: 877, Op: !, Children: ["141"], Eclass: 877, Cost: 1
+Node ID: 878, Op: *, Children: ["876", "877"], Eclass: 878, Cost: 4
+Node ID: 879, Op: !, Children: ["878"], Eclass: 879, Cost: 1
+Node ID: 880, Op: *, Children: ["875", "879"], Eclass: 880, Cost: 4
+Node ID: 881, Op: *, Children: ["871", "880"], Eclass: 881, Cost: 4
+Node ID: 882, Op: *, Children: ["858", "881"], Eclass: 882, Cost: 4
+Node ID: 883, Op: !, Children: ["14"], Eclass: 883, Cost: 1
+Node ID: 884, Op: !, Children: ["142"], Eclass: 884, Cost: 1
+Node ID: 885, Op: *, Children: ["883", "884"], Eclass: 885, Cost: 4
+Node ID: 886, Op: !, Children: ["885"], Eclass: 886, Cost: 1
+Node ID: 887, Op: *, Children: ["882", "886"], Eclass: 887, Cost: 4
+Node ID: 888, Op: !, Children: ["887"], Eclass: 888, Cost: 1
+Node ID: 889, Op: *, Children: ["14", "142"], Eclass: 889, Cost: 4
+Node ID: 890, Op: !, Children: ["889"], Eclass: 890, Cost: 1
+Node ID: 891, Op: *, Children: ["13", "141"], Eclass: 891, Cost: 4
+Node ID: 892, Op: *, Children: ["886", "891"], Eclass: 892, Cost: 4
+Node ID: 893, Op: !, Children: ["892"], Eclass: 893, Cost: 1
+Node ID: 894, Op: *, Children: ["890", "893"], Eclass: 894, Cost: 4
+Node ID: 895, Op: !, Children: ["894"], Eclass: 895, Cost: 1
+Node ID: 896, Op: *, Children: ["875", "895"], Eclass: 896, Cost: 4
+Node ID: 897, Op: !, Children: ["896"], Eclass: 897, Cost: 1
+Node ID: 898, Op: *, Children: ["17", "145"], Eclass: 898, Cost: 4
+Node ID: 899, Op: !, Children: ["898"], Eclass: 899, Cost: 1
+Node ID: 900, Op: *, Children: ["16", "144"], Eclass: 900, Cost: 4
+Node ID: 901, Op: !, Children: ["900"], Eclass: 901, Cost: 1
+Node ID: 902, Op: *, Children: ["15", "143"], Eclass: 902, Cost: 4
+Node ID: 903, Op: !, Children: ["902"], Eclass: 903, Cost: 1
+Node ID: 904, Op: *, Children: ["901", "903"], Eclass: 904, Cost: 4
+Node ID: 905, Op: *, Children: ["899", "904"], Eclass: 905, Cost: 4
+Node ID: 906, Op: *, Children: ["897", "905"], Eclass: 906, Cost: 4
+Node ID: 907, Op: *, Children: ["888", "906"], Eclass: 907, Cost: 4
+Node ID: 908, Op: !, Children: ["907"], Eclass: 908, Cost: 1
+Node ID: 909, Op: !, Children: ["16"], Eclass: 909, Cost: 1
+Node ID: 910, Op: *, Children: ["901", "909"], Eclass: 910, Cost: 4
+Node ID: 911, Op: *, Children: ["899", "910"], Eclass: 911, Cost: 4
+Node ID: 912, Op: !, Children: ["144"], Eclass: 912, Cost: 1
+Node ID: 913, Op: *, Children: ["911", "912"], Eclass: 913, Cost: 4
+Node ID: 914, Op: !, Children: ["913"], Eclass: 914, Cost: 1
+Node ID: 915, Op: !, Children: ["17"], Eclass: 915, Cost: 1
+Node ID: 916, Op: !, Children: ["145"], Eclass: 916, Cost: 1
+Node ID: 917, Op: *, Children: ["915", "916"], Eclass: 917, Cost: 4
+Node ID: 918, Op: !, Children: ["917"], Eclass: 918, Cost: 1
+Node ID: 919, Op: *, Children: ["914", "918"], Eclass: 919, Cost: 4
+Node ID: 920, Op: *, Children: ["908", "919"], Eclass: 920, Cost: 4
+Node ID: 921, Op: *, Children: ["763", "920"], Eclass: 921, Cost: 4
+Node ID: 922, Op: !, Children: ["921"], Eclass: 922, Cost: 1
+Node ID: 923, Op: *, Children: ["749", "922"], Eclass: 923, Cost: 4
+Node ID: 924, Op: *, Children: ["18", "146"], Eclass: 924, Cost: 4
+Node ID: 925, Op: *, Children: ["757", "924"], Eclass: 925, Cost: 4
+Node ID: 926, Op: !, Children: ["925"], Eclass: 926, Cost: 1
+Node ID: 927, Op: *, Children: ["19", "147"], Eclass: 927, Cost: 4
+Node ID: 928, Op: !, Children: ["927"], Eclass: 928, Cost: 1
+Node ID: 929, Op: *, Children: ["926", "928"], Eclass: 929, Cost: 4
+Node ID: 930, Op: !, Children: ["929"], Eclass: 930, Cost: 1
+Node ID: 931, Op: *, Children: ["753", "930"], Eclass: 931, Cost: 4
+Node ID: 932, Op: !, Children: ["931"], Eclass: 932, Cost: 1
+Node ID: 933, Op: *, Children: ["923", "932"], Eclass: 933, Cost: 4
+Node ID: 934, Op: !, Children: ["933"], Eclass: 934, Cost: 1
+Node ID: 935, Op: !, Children: ["21"], Eclass: 935, Cost: 1
+Node ID: 936, Op: *, Children: ["745", "935"], Eclass: 936, Cost: 4
+Node ID: 937, Op: !, Children: ["149"], Eclass: 937, Cost: 1
+Node ID: 938, Op: *, Children: ["936", "937"], Eclass: 938, Cost: 4
+Node ID: 939, Op: !, Children: ["938"], Eclass: 939, Cost: 1
+Node ID: 940, Op: !, Children: ["22"], Eclass: 940, Cost: 1
+Node ID: 941, Op: !, Children: ["150"], Eclass: 941, Cost: 1
+Node ID: 942, Op: *, Children: ["940", "941"], Eclass: 942, Cost: 4
+Node ID: 943, Op: !, Children: ["942"], Eclass: 943, Cost: 1
+Node ID: 944, Op: *, Children: ["939", "943"], Eclass: 944, Cost: 4
+Node ID: 945, Op: !, Children: ["944"], Eclass: 945, Cost: 1
+Node ID: 946, Op: *, Children: ["743", "945"], Eclass: 946, Cost: 4
+Node ID: 947, Op: !, Children: ["946"], Eclass: 947, Cost: 1
+Node ID: 948, Op: *, Children: ["934", "947"], Eclass: 948, Cost: 4
+Node ID: 949, Op: !, Children: ["153"], Eclass: 949, Cost: 1
+Node ID: 950, Op: !, Children: ["25"], Eclass: 950, Cost: 1
+Node ID: 951, Op: *, Children: ["949", "950"], Eclass: 951, Cost: 4
+Node ID: 952, Op: !, Children: ["951"], Eclass: 952, Cost: 1
+Node ID: 953, Op: *, Children: ["948", "952"], Eclass: 953, Cost: 4
+Node ID: 954, Op: !, Children: ["23"], Eclass: 954, Cost: 1
+Node ID: 955, Op: !, Children: ["151"], Eclass: 955, Cost: 1
+Node ID: 956, Op: *, Children: ["954", "955"], Eclass: 956, Cost: 4
+Node ID: 957, Op: !, Children: ["956"], Eclass: 957, Cost: 1
+Node ID: 958, Op: !, Children: ["24"], Eclass: 958, Cost: 1
+Node ID: 959, Op: !, Children: ["152"], Eclass: 959, Cost: 1
+Node ID: 960, Op: *, Children: ["958", "959"], Eclass: 960, Cost: 4
+Node ID: 961, Op: !, Children: ["960"], Eclass: 961, Cost: 1
+Node ID: 962, Op: *, Children: ["957", "961"], Eclass: 962, Cost: 4
+Node ID: 963, Op: *, Children: ["953", "962"], Eclass: 963, Cost: 4
+Node ID: 964, Op: !, Children: ["963"], Eclass: 964, Cost: 1
+Node ID: 965, Op: *, Children: ["151", "23"], Eclass: 965, Cost: 4
+Node ID: 966, Op: *, Children: ["961", "965"], Eclass: 966, Cost: 4
+Node ID: 967, Op: !, Children: ["966"], Eclass: 967, Cost: 1
+Node ID: 968, Op: *, Children: ["24", "152"], Eclass: 968, Cost: 4
+Node ID: 969, Op: !, Children: ["968"], Eclass: 969, Cost: 1
+Node ID: 970, Op: *, Children: ["967", "969"], Eclass: 970, Cost: 4
+Node ID: 971, Op: !, Children: ["970"], Eclass: 971, Cost: 1
+Node ID: 972, Op: *, Children: ["952", "971"], Eclass: 972, Cost: 4
+Node ID: 973, Op: !, Children: ["972"], Eclass: 973, Cost: 1
+Node ID: 974, Op: *, Children: ["964", "973"], Eclass: 974, Cost: 4
+Node ID: 975, Op: *, Children: ["741", "974"], Eclass: 975, Cost: 4
+Node ID: 976, Op: *, Children: ["739", "975"], Eclass: 976, Cost: 4
+Node ID: 977, Op: !, Children: ["976"], Eclass: 977, Cost: 1
+Node ID: 978, Op: *, Children: ["738", "977"], Eclass: 978, Cost: 4
+Node ID: 979, Op: !, Children: ["978"], Eclass: 979, Cost: 1
+Node ID: 980, Op: *, Children: ["716", "979"], Eclass: 980, Cost: 4
+Node ID: 981, Op: !, Children: ["980"], Eclass: 981, Cost: 1
+Node ID: 982, Op: !, Children: ["32"], Eclass: 982, Cost: 1
+Node ID: 983, Op: !, Children: ["160"], Eclass: 983, Cost: 1
+Node ID: 984, Op: *, Children: ["982", "983"], Eclass: 984, Cost: 4
+Node ID: 985, Op: !, Children: ["984"], Eclass: 985, Cost: 1
+Node ID: 986, Op: !, Children: ["31"], Eclass: 986, Cost: 1
+Node ID: 987, Op: *, Children: ["694", "986"], Eclass: 987, Cost: 4
+Node ID: 988, Op: *, Children: ["692", "987"], Eclass: 988, Cost: 4
+Node ID: 989, Op: !, Children: ["159"], Eclass: 989, Cost: 1
+Node ID: 990, Op: *, Children: ["988", "989"], Eclass: 990, Cost: 4
+Node ID: 991, Op: !, Children: ["990"], Eclass: 991, Cost: 1
+Node ID: 992, Op: *, Children: ["985", "991"], Eclass: 992, Cost: 4
+Node ID: 993, Op: !, Children: ["35"], Eclass: 993, Cost: 1
+Node ID: 994, Op: !, Children: ["163"], Eclass: 994, Cost: 1
+Node ID: 995, Op: *, Children: ["993", "994"], Eclass: 995, Cost: 4
+Node ID: 996, Op: !, Children: ["995"], Eclass: 996, Cost: 1
+Node ID: 997, Op: *, Children: ["992", "996"], Eclass: 997, Cost: 4
+Node ID: 998, Op: *, Children: ["981", "997"], Eclass: 998, Cost: 4
+Node ID: 999, Op: !, Children: ["33"], Eclass: 999, Cost: 1
+Node ID: 1000, Op: !, Children: ["161"], Eclass: 1000, Cost: 1
+Node ID: 1001, Op: *, Children: ["999", "1000"], Eclass: 1001, Cost: 4
+Node ID: 1002, Op: !, Children: ["1001"], Eclass: 1002, Cost: 1
+Node ID: 1003, Op: !, Children: ["34"], Eclass: 1003, Cost: 1
+Node ID: 1004, Op: !, Children: ["162"], Eclass: 1004, Cost: 1
+Node ID: 1005, Op: *, Children: ["1003", "1004"], Eclass: 1005, Cost: 4
+Node ID: 1006, Op: !, Children: ["1005"], Eclass: 1006, Cost: 1
+Node ID: 1007, Op: *, Children: ["1002", "1006"], Eclass: 1007, Cost: 4
+Node ID: 1008, Op: *, Children: ["998", "1007"], Eclass: 1008, Cost: 4
+Node ID: 1009, Op: !, Children: ["1008"], Eclass: 1009, Cost: 1
+Node ID: 1010, Op: *, Children: ["34", "162"], Eclass: 1010, Cost: 4
+Node ID: 1011, Op: !, Children: ["1010"], Eclass: 1011, Cost: 1
+Node ID: 1012, Op: *, Children: ["1006", "33"], Eclass: 1012, Cost: 4
+Node ID: 1013, Op: *, Children: ["1012", "161"], Eclass: 1013, Cost: 4
+Node ID: 1014, Op: !, Children: ["1013"], Eclass: 1014, Cost: 1
+Node ID: 1015, Op: *, Children: ["1011", "1014"], Eclass: 1015, Cost: 4
+Node ID: 1016, Op: !, Children: ["1015"], Eclass: 1016, Cost: 1
+Node ID: 1017, Op: *, Children: ["996", "1016"], Eclass: 1017, Cost: 4
+Node ID: 1018, Op: !, Children: ["1017"], Eclass: 1018, Cost: 1
+Node ID: 1019, Op: *, Children: ["1009", "1018"], Eclass: 1019, Cost: 4
+Node ID: 1020, Op: *, Children: ["690", "1019"], Eclass: 1020, Cost: 4
+Node ID: 1021, Op: !, Children: ["1020"], Eclass: 1021, Cost: 1
+Node ID: 1022, Op: !, Children: ["165"], Eclass: 1022, Cost: 1
+Node ID: 1023, Op: !, Children: ["37"], Eclass: 1023, Cost: 1
+Node ID: 1024, Op: *, Children: ["1022", "1023"], Eclass: 1024, Cost: 4
+Node ID: 1025, Op: !, Children: ["1024"], Eclass: 1025, Cost: 1
+Node ID: 1026, Op: *, Children: ["1021", "1025"], Eclass: 1026, Cost: 4
+Node ID: 1027, Op: !, Children: ["36"], Eclass: 1027, Cost: 1
+Node ID: 1028, Op: !, Children: ["164"], Eclass: 1028, Cost: 1
+Node ID: 1029, Op: *, Children: ["1027", "1028"], Eclass: 1029, Cost: 4
+Node ID: 1030, Op: *, Children: ["1029", "687"], Eclass: 1030, Cost: 4
+Node ID: 1031, Op: !, Children: ["1030"], Eclass: 1031, Cost: 1
+Node ID: 1032, Op: *, Children: ["1026", "1031"], Eclass: 1032, Cost: 4
+Node ID: 1033, Op: !, Children: ["38"], Eclass: 1033, Cost: 1
+Node ID: 1034, Op: !, Children: ["166"], Eclass: 1034, Cost: 1
+Node ID: 1035, Op: *, Children: ["1033", "1034"], Eclass: 1035, Cost: 4
+Node ID: 1036, Op: !, Children: ["1035"], Eclass: 1036, Cost: 1
+Node ID: 1037, Op: *, Children: ["1032", "1036"], Eclass: 1037, Cost: 4
+Node ID: 1038, Op: !, Children: ["39"], Eclass: 1038, Cost: 1
+Node ID: 1039, Op: !, Children: ["167"], Eclass: 1039, Cost: 1
+Node ID: 1040, Op: *, Children: ["1038", "1039"], Eclass: 1040, Cost: 4
+Node ID: 1041, Op: !, Children: ["1040"], Eclass: 1041, Cost: 1
+Node ID: 1042, Op: *, Children: ["1037", "1041"], Eclass: 1042, Cost: 4
+Node ID: 1043, Op: !, Children: ["40"], Eclass: 1043, Cost: 1
+Node ID: 1044, Op: !, Children: ["168"], Eclass: 1044, Cost: 1
+Node ID: 1045, Op: *, Children: ["1043", "1044"], Eclass: 1045, Cost: 4
+Node ID: 1046, Op: !, Children: ["1045"], Eclass: 1046, Cost: 1
+Node ID: 1047, Op: *, Children: ["1042", "1046"], Eclass: 1047, Cost: 4
+Node ID: 1048, Op: !, Children: ["1047"], Eclass: 1048, Cost: 1
+Node ID: 1049, Op: *, Children: ["166", "38"], Eclass: 1049, Cost: 4
+Node ID: 1050, Op: *, Children: ["1041", "1049"], Eclass: 1050, Cost: 4
+Node ID: 1051, Op: !, Children: ["1050"], Eclass: 1051, Cost: 1
+Node ID: 1052, Op: *, Children: ["39", "167"], Eclass: 1052, Cost: 4
+Node ID: 1053, Op: !, Children: ["1052"], Eclass: 1053, Cost: 1
+Node ID: 1054, Op: *, Children: ["1051", "1053"], Eclass: 1054, Cost: 4
+Node ID: 1055, Op: !, Children: ["1054"], Eclass: 1055, Cost: 1
+Node ID: 1056, Op: *, Children: ["1046", "1055"], Eclass: 1056, Cost: 4
+Node ID: 1057, Op: !, Children: ["1056"], Eclass: 1057, Cost: 1
+Node ID: 1058, Op: *, Children: ["1048", "1057"], Eclass: 1058, Cost: 4
+Node ID: 1059, Op: *, Children: ["682", "1058"], Eclass: 1059, Cost: 4
+Node ID: 1060, Op: *, Children: ["677", "1059"], Eclass: 1060, Cost: 4
+Node ID: 1061, Op: !, Children: ["1060"], Eclass: 1061, Cost: 1
+Node ID: 1062, Op: *, Children: ["675", "1061"], Eclass: 1062, Cost: 4
+Node ID: 1063, Op: !, Children: ["42"], Eclass: 1063, Cost: 1
+Node ID: 1064, Op: !, Children: ["170"], Eclass: 1064, Cost: 1
+Node ID: 1065, Op: *, Children: ["1063", "1064"], Eclass: 1065, Cost: 4
+Node ID: 1066, Op: !, Children: ["1065"], Eclass: 1066, Cost: 1
+Node ID: 1067, Op: *, Children: ["1062", "1066"], Eclass: 1067, Cost: 4
+Node ID: 1068, Op: !, Children: ["41"], Eclass: 1068, Cost: 1
+Node ID: 1069, Op: *, Children: ["679", "1068"], Eclass: 1069, Cost: 4
+Node ID: 1070, Op: *, Children: ["677", "1069"], Eclass: 1070, Cost: 4
+Node ID: 1071, Op: !, Children: ["169"], Eclass: 1071, Cost: 1
+Node ID: 1072, Op: *, Children: ["1070", "1071"], Eclass: 1072, Cost: 4
+Node ID: 1073, Op: !, Children: ["1072"], Eclass: 1073, Cost: 1
+Node ID: 1074, Op: *, Children: ["1067", "1073"], Eclass: 1074, Cost: 4
+Node ID: 1075, Op: !, Children: ["1074"], Eclass: 1075, Cost: 1
+Node ID: 1076, Op: *, Children: ["43", "171"], Eclass: 1076, Cost: 4
+Node ID: 1077, Op: *, Children: ["674", "1076"], Eclass: 1077, Cost: 4
+Node ID: 1078, Op: !, Children: ["1077"], Eclass: 1078, Cost: 1
+Node ID: 1079, Op: *, Children: ["44", "172"], Eclass: 1079, Cost: 4
+Node ID: 1080, Op: !, Children: ["1079"], Eclass: 1080, Cost: 1
+Node ID: 1081, Op: *, Children: ["1078", "1080"], Eclass: 1081, Cost: 4
+Node ID: 1082, Op: !, Children: ["1081"], Eclass: 1082, Cost: 1
+Node ID: 1083, Op: *, Children: ["665", "1082"], Eclass: 1083, Cost: 4
+Node ID: 1084, Op: !, Children: ["1083"], Eclass: 1084, Cost: 1
+Node ID: 1085, Op: *, Children: ["1075", "1084"], Eclass: 1085, Cost: 4
+Node ID: 1086, Op: *, Children: ["45", "173"], Eclass: 1086, Cost: 4
+Node ID: 1087, Op: !, Children: ["1086"], Eclass: 1087, Cost: 1
+Node ID: 1088, Op: *, Children: ["1085", "1087"], Eclass: 1088, Cost: 4
+Node ID: 1089, Op: *, Children: ["46", "174"], Eclass: 1089, Cost: 4
+Node ID: 1090, Op: !, Children: ["1089"], Eclass: 1090, Cost: 1
+Node ID: 1091, Op: *, Children: ["47", "175"], Eclass: 1091, Cost: 4
+Node ID: 1092, Op: !, Children: ["1091"], Eclass: 1092, Cost: 1
+Node ID: 1093, Op: *, Children: ["1090", "1092"], Eclass: 1093, Cost: 4
+Node ID: 1094, Op: *, Children: ["1088", "1093"], Eclass: 1094, Cost: 4
+Node ID: 1095, Op: !, Children: ["1094"], Eclass: 1095, Cost: 1
+Node ID: 1096, Op: !, Children: ["47"], Eclass: 1096, Cost: 1
+Node ID: 1097, Op: !, Children: ["175"], Eclass: 1097, Cost: 1
+Node ID: 1098, Op: *, Children: ["1096", "1097"], Eclass: 1098, Cost: 4
+Node ID: 1099, Op: !, Children: ["1098"], Eclass: 1099, Cost: 1
+Node ID: 1100, Op: !, Children: ["46"], Eclass: 1100, Cost: 1
+Node ID: 1101, Op: *, Children: ["1090", "1100"], Eclass: 1101, Cost: 4
+Node ID: 1102, Op: !, Children: ["174"], Eclass: 1102, Cost: 1
+Node ID: 1103, Op: *, Children: ["1101", "1102"], Eclass: 1103, Cost: 4
+Node ID: 1104, Op: !, Children: ["1103"], Eclass: 1104, Cost: 1
+Node ID: 1105, Op: *, Children: ["1099", "1104"], Eclass: 1105, Cost: 4
+Node ID: 1106, Op: !, Children: ["1105"], Eclass: 1106, Cost: 1
+Node ID: 1107, Op: *, Children: ["1092", "1106"], Eclass: 1107, Cost: 4
+Node ID: 1108, Op: !, Children: ["1107"], Eclass: 1108, Cost: 1
+Node ID: 1109, Op: !, Children: ["50"], Eclass: 1109, Cost: 1
+Node ID: 1110, Op: !, Children: ["178"], Eclass: 1110, Cost: 1
+Node ID: 1111, Op: *, Children: ["1109", "1110"], Eclass: 1111, Cost: 4
+Node ID: 1112, Op: !, Children: ["1111"], Eclass: 1112, Cost: 1
+Node ID: 1113, Op: !, Children: ["48"], Eclass: 1113, Cost: 1
+Node ID: 1114, Op: !, Children: ["176"], Eclass: 1114, Cost: 1
+Node ID: 1115, Op: *, Children: ["1113", "1114"], Eclass: 1115, Cost: 4
+Node ID: 1116, Op: !, Children: ["1115"], Eclass: 1116, Cost: 1
+Node ID: 1117, Op: *, Children: ["1112", "1116"], Eclass: 1117, Cost: 4
+Node ID: 1118, Op: *, Children: ["1108", "1117"], Eclass: 1118, Cost: 4
+Node ID: 1119, Op: !, Children: ["49"], Eclass: 1119, Cost: 1
+Node ID: 1120, Op: !, Children: ["177"], Eclass: 1120, Cost: 1
+Node ID: 1121, Op: *, Children: ["1119", "1120"], Eclass: 1121, Cost: 4
+Node ID: 1122, Op: !, Children: ["1121"], Eclass: 1122, Cost: 1
+Node ID: 1123, Op: *, Children: ["1118", "1122"], Eclass: 1123, Cost: 4
+Node ID: 1124, Op: *, Children: ["1095", "1123"], Eclass: 1124, Cost: 4
+Node ID: 1125, Op: !, Children: ["1124"], Eclass: 1125, Cost: 1
+Node ID: 1126, Op: *, Children: ["49", "177"], Eclass: 1126, Cost: 4
+Node ID: 1127, Op: !, Children: ["1126"], Eclass: 1127, Cost: 1
+Node ID: 1128, Op: *, Children: ["1122", "176"], Eclass: 1128, Cost: 4
+Node ID: 1129, Op: *, Children: ["1128", "48"], Eclass: 1129, Cost: 4
+Node ID: 1130, Op: !, Children: ["1129"], Eclass: 1130, Cost: 1
+Node ID: 1131, Op: *, Children: ["1127", "1130"], Eclass: 1131, Cost: 4
+Node ID: 1132, Op: !, Children: ["1131"], Eclass: 1132, Cost: 1
+Node ID: 1133, Op: *, Children: ["1112", "1132"], Eclass: 1133, Cost: 4
+Node ID: 1134, Op: !, Children: ["1133"], Eclass: 1134, Cost: 1
+Node ID: 1135, Op: *, Children: ["1125", "1134"], Eclass: 1135, Cost: 4
+Node ID: 1136, Op: *, Children: ["178", "50"], Eclass: 1136, Cost: 4
+Node ID: 1137, Op: !, Children: ["1136"], Eclass: 1137, Cost: 1
+Node ID: 1138, Op: *, Children: ["1135", "1137"], Eclass: 1138, Cost: 4
+Node ID: 1139, Op: *, Children: ["1138", "646"], Eclass: 1139, Cost: 4
+Node ID: 1140, Op: *, Children: ["1139", "652"], Eclass: 1140, Cost: 4
+Node ID: 1141, Op: !, Children: ["1140"], Eclass: 1141, Cost: 1
+Node ID: 1142, Op: *, Children: ["661", "1141"], Eclass: 1142, Cost: 4
+Node ID: 1143, Op: *, Children: ["630", "634"], Eclass: 1143, Cost: 4
+Node ID: 1144, Op: *, Children: ["1142", "1143"], Eclass: 1144, Cost: 4
+Node ID: 1145, Op: !, Children: ["53"], Eclass: 1145, Cost: 1
+Node ID: 1146, Op: !, Children: ["181"], Eclass: 1146, Cost: 1
+Node ID: 1147, Op: *, Children: ["1145", "1146"], Eclass: 1147, Cost: 4
+Node ID: 1148, Op: !, Children: ["1147"], Eclass: 1148, Cost: 1
+Node ID: 1149, Op: *, Children: ["1144", "1148"], Eclass: 1149, Cost: 4
+Node ID: 1150, Op: !, Children: ["1149"], Eclass: 1150, Cost: 1
+Node ID: 1151, Op: *, Children: ["644", "1150"], Eclass: 1151, Cost: 4
+Node ID: 1152, Op: !, Children: ["1151"], Eclass: 1152, Cost: 1
+Node ID: 1153, Op: *, Children: ["618", "1152"], Eclass: 1153, Cost: 4
+Node ID: 1154, Op: !, Children: ["57"], Eclass: 1154, Cost: 1
+Node ID: 1155, Op: !, Children: ["185"], Eclass: 1155, Cost: 1
+Node ID: 1156, Op: *, Children: ["1154", "1155"], Eclass: 1156, Cost: 4
+Node ID: 1157, Op: !, Children: ["1156"], Eclass: 1157, Cost: 1
+Node ID: 1158, Op: !, Children: ["184"], Eclass: 1158, Cost: 1
+Node ID: 1159, Op: !, Children: ["56"], Eclass: 1159, Cost: 1
+Node ID: 1160, Op: *, Children: ["1158", "1159"], Eclass: 1160, Cost: 4
+Node ID: 1161, Op: *, Children: ["622", "625"], Eclass: 1161, Cost: 4
+Node ID: 1162, Op: *, Children: ["1160", "1161"], Eclass: 1162, Cost: 4
+Node ID: 1163, Op: !, Children: ["1162"], Eclass: 1163, Cost: 1
+Node ID: 1164, Op: *, Children: ["1157", "1163"], Eclass: 1164, Cost: 4
+Node ID: 1165, Op: *, Children: ["1153", "1164"], Eclass: 1165, Cost: 4
+Node ID: 1166, Op: !, Children: ["1165"], Eclass: 1166, Cost: 1
+Node ID: 1167, Op: *, Children: ["612", "1166"], Eclass: 1167, Cost: 4
+Node ID: 1168, Op: *, Children: ["588", "586"], Eclass: 1168, Cost: 4
+Node ID: 1169, Op: *, Children: ["1167", "1168"], Eclass: 1169, Cost: 4
+Node ID: 1170, Op: *, Children: ["188", "60"], Eclass: 1170, Cost: 4
+Node ID: 1171, Op: !, Children: ["1170"], Eclass: 1171, Cost: 1
+Node ID: 1172, Op: *, Children: ["1169", "1171"], Eclass: 1172, Cost: 4
+Node ID: 1173, Op: !, Children: ["1172"], Eclass: 1173, Cost: 1
+Node ID: 1174, Op: *, Children: ["595", "1173"], Eclass: 1174, Cost: 4
+Node ID: 1175, Op: !, Children: ["1174"], Eclass: 1175, Cost: 1
+Node ID: 1176, Op: *, Children: ["573", "1175"], Eclass: 1176, Cost: 4
+Node ID: 1177, Op: *, Children: ["195", "67"], Eclass: 1177, Cost: 4
+Node ID: 1178, Op: !, Children: ["1177"], Eclass: 1178, Cost: 1
+Node ID: 1179, Op: *, Children: ["1176", "1178"], Eclass: 1179, Cost: 4
+Node ID: 1180, Op: *, Children: ["66", "194"], Eclass: 1180, Cost: 4
+Node ID: 1181, Op: !, Children: ["1180"], Eclass: 1181, Cost: 1
+Node ID: 1182, Op: *, Children: ["65", "193"], Eclass: 1182, Cost: 4
+Node ID: 1183, Op: !, Children: ["1182"], Eclass: 1183, Cost: 1
+Node ID: 1184, Op: *, Children: ["1181", "1183"], Eclass: 1184, Cost: 4
+Node ID: 1185, Op: *, Children: ["1179", "1184"], Eclass: 1185, Cost: 4
+Node ID: 1186, Op: !, Children: ["1185"], Eclass: 1186, Cost: 1
+Node ID: 1187, Op: !, Children: ["66"], Eclass: 1187, Cost: 1
+Node ID: 1188, Op: !, Children: ["194"], Eclass: 1188, Cost: 1
+Node ID: 1189, Op: *, Children: ["1188", "1181"], Eclass: 1189, Cost: 4
+Node ID: 1190, Op: *, Children: ["1189", "1178"], Eclass: 1190, Cost: 4
+Node ID: 1191, Op: *, Children: ["1187", "1190"], Eclass: 1191, Cost: 4
+Node ID: 1192, Op: !, Children: ["1191"], Eclass: 1192, Cost: 1
+Node ID: 1193, Op: !, Children: ["67"], Eclass: 1193, Cost: 1
+Node ID: 1194, Op: !, Children: ["195"], Eclass: 1194, Cost: 1
+Node ID: 1195, Op: *, Children: ["1193", "1194"], Eclass: 1195, Cost: 4
+Node ID: 1196, Op: !, Children: ["1195"], Eclass: 1196, Cost: 1
+Node ID: 1197, Op: *, Children: ["1192", "1196"], Eclass: 1197, Cost: 4
+Node ID: 1198, Op: !, Children: ["70"], Eclass: 1198, Cost: 1
+Node ID: 1199, Op: !, Children: ["198"], Eclass: 1199, Cost: 1
+Node ID: 1200, Op: *, Children: ["1198", "1199"], Eclass: 1200, Cost: 4
+Node ID: 1201, Op: !, Children: ["1200"], Eclass: 1201, Cost: 1
+Node ID: 1202, Op: *, Children: ["1197", "1201"], Eclass: 1202, Cost: 4
+Node ID: 1203, Op: *, Children: ["1186", "1202"], Eclass: 1203, Cost: 4
+Node ID: 1204, Op: !, Children: ["69"], Eclass: 1204, Cost: 1
+Node ID: 1205, Op: !, Children: ["197"], Eclass: 1205, Cost: 1
+Node ID: 1206, Op: *, Children: ["1204", "1205"], Eclass: 1206, Cost: 4
+Node ID: 1207, Op: !, Children: ["1206"], Eclass: 1207, Cost: 1
+Node ID: 1208, Op: !, Children: ["68"], Eclass: 1208, Cost: 1
+Node ID: 1209, Op: !, Children: ["196"], Eclass: 1209, Cost: 1
+Node ID: 1210, Op: *, Children: ["1208", "1209"], Eclass: 1210, Cost: 4
+Node ID: 1211, Op: !, Children: ["1210"], Eclass: 1211, Cost: 1
+Node ID: 1212, Op: *, Children: ["1207", "1211"], Eclass: 1212, Cost: 4
+Node ID: 1213, Op: *, Children: ["1203", "1212"], Eclass: 1213, Cost: 4
+Node ID: 1214, Op: !, Children: ["1213"], Eclass: 1214, Cost: 1
+Node ID: 1215, Op: *, Children: ["68", "196"], Eclass: 1215, Cost: 4
+Node ID: 1216, Op: *, Children: ["1207", "1215"], Eclass: 1216, Cost: 4
+Node ID: 1217, Op: !, Children: ["1216"], Eclass: 1217, Cost: 1
+Node ID: 1218, Op: *, Children: ["69", "197"], Eclass: 1218, Cost: 4
+Node ID: 1219, Op: !, Children: ["1218"], Eclass: 1219, Cost: 1
+Node ID: 1220, Op: *, Children: ["1217", "1219"], Eclass: 1220, Cost: 4
+Node ID: 1221, Op: !, Children: ["1220"], Eclass: 1221, Cost: 1
+Node ID: 1222, Op: *, Children: ["1201", "1221"], Eclass: 1222, Cost: 4
+Node ID: 1223, Op: !, Children: ["1222"], Eclass: 1223, Cost: 1
+Node ID: 1224, Op: *, Children: ["1214", "1223"], Eclass: 1224, Cost: 4
+Node ID: 1225, Op: *, Children: ["70", "198"], Eclass: 1225, Cost: 4
+Node ID: 1226, Op: !, Children: ["1225"], Eclass: 1226, Cost: 1
+Node ID: 1227, Op: *, Children: ["1224", "1226"], Eclass: 1227, Cost: 4
+Node ID: 1228, Op: *, Children: ["1227", "543"], Eclass: 1228, Cost: 4
+Node ID: 1229, Op: *, Children: ["1228", "545"], Eclass: 1229, Cost: 4
+Node ID: 1230, Op: !, Children: ["1229"], Eclass: 1230, Cost: 1
+Node ID: 1231, Op: *, Children: ["556", "1230"], Eclass: 1231, Cost: 4
+Node ID: 1232, Op: *, Children: ["541", "1231"], Eclass: 1232, Cost: 4
+Node ID: 1233, Op: !, Children: ["1232"], Eclass: 1233, Cost: 1
+Node ID: 1234, Op: *, Children: ["535", "1233"], Eclass: 1234, Cost: 4
+Node ID: 1235, Op: *, Children: ["203", "75"], Eclass: 1235, Cost: 4
+Node ID: 1236, Op: !, Children: ["1235"], Eclass: 1236, Cost: 1
+Node ID: 1237, Op: *, Children: ["1236", "507"], Eclass: 1237, Cost: 4
+Node ID: 1238, Op: *, Children: ["1234", "1237"], Eclass: 1238, Cost: 4
+Node ID: 1239, Op: *, Children: ["1238", "511"], Eclass: 1239, Cost: 4
+Node ID: 1240, Op: !, Children: ["1239"], Eclass: 1240, Cost: 1
+Node ID: 1241, Op: *, Children: ["518", "1240"], Eclass: 1241, Cost: 4
+Node ID: 1242, Op: !, Children: ["206"], Eclass: 1242, Cost: 1
+Node ID: 1243, Op: !, Children: ["78"], Eclass: 1243, Cost: 1
+Node ID: 1244, Op: *, Children: ["1242", "1243"], Eclass: 1244, Cost: 4
+Node ID: 1245, Op: !, Children: ["1244"], Eclass: 1245, Cost: 1
+Node ID: 1246, Op: *, Children: ["490", "1245"], Eclass: 1246, Cost: 4
+Node ID: 1247, Op: *, Children: ["1246", "494"], Eclass: 1247, Cost: 4
+Node ID: 1248, Op: *, Children: ["1241", "1247"], Eclass: 1248, Cost: 4
+Node ID: 1249, Op: !, Children: ["1248"], Eclass: 1249, Cost: 1
+Node ID: 1250, Op: *, Children: ["503", "1249"], Eclass: 1250, Cost: 4
+Node ID: 1251, Op: *, Children: ["80", "208"], Eclass: 1251, Cost: 4
+Node ID: 1252, Op: !, Children: ["1251"], Eclass: 1252, Cost: 1
+Node ID: 1253, Op: *, Children: ["1250", "1252"], Eclass: 1253, Cost: 4
+Node ID: 1254, Op: *, Children: ["82", "210"], Eclass: 1254, Cost: 4
+Node ID: 1255, Op: !, Children: ["1254"], Eclass: 1255, Cost: 1
+Node ID: 1256, Op: *, Children: ["81", "209"], Eclass: 1256, Cost: 4
+Node ID: 1257, Op: !, Children: ["1256"], Eclass: 1257, Cost: 1
+Node ID: 1258, Op: *, Children: ["1255", "1257"], Eclass: 1258, Cost: 4
+Node ID: 1259, Op: *, Children: ["1253", "1258"], Eclass: 1259, Cost: 4
+Node ID: 1260, Op: !, Children: ["1259"], Eclass: 1260, Cost: 1
+Node ID: 1261, Op: *, Children: ["486", "1260"], Eclass: 1261, Cost: 4
+Node ID: 1262, Op: !, Children: ["210"], Eclass: 1262, Cost: 1
+Node ID: 1263, Op: !, Children: ["82"], Eclass: 1263, Cost: 1
+Node ID: 1264, Op: *, Children: ["1262", "1263"], Eclass: 1264, Cost: 4
+Node ID: 1265, Op: !, Children: ["1264"], Eclass: 1265, Cost: 1
+Node ID: 1266, Op: !, Children: ["81"], Eclass: 1266, Cost: 1
+Node ID: 1267, Op: *, Children: ["1257", "1266"], Eclass: 1267, Cost: 4
+Node ID: 1268, Op: *, Children: ["1255", "1267"], Eclass: 1268, Cost: 4
+Node ID: 1269, Op: !, Children: ["209"], Eclass: 1269, Cost: 1
+Node ID: 1270, Op: *, Children: ["1268", "1269"], Eclass: 1270, Cost: 4
+Node ID: 1271, Op: !, Children: ["1270"], Eclass: 1271, Cost: 1
+Node ID: 1272, Op: *, Children: ["1265", "1271"], Eclass: 1272, Cost: 4
+Node ID: 1273, Op: *, Children: ["1261", "1272"], Eclass: 1273, Cost: 4
+Node ID: 1274, Op: !, Children: ["1273"], Eclass: 1274, Cost: 1
+Node ID: 1275, Op: *, Children: ["485", "211"], Eclass: 1275, Cost: 4
+Node ID: 1276, Op: *, Children: ["1275", "83"], Eclass: 1276, Cost: 4
+Node ID: 1277, Op: !, Children: ["1276"], Eclass: 1277, Cost: 1
+Node ID: 1278, Op: *, Children: ["84", "212"], Eclass: 1278, Cost: 4
+Node ID: 1279, Op: !, Children: ["1278"], Eclass: 1279, Cost: 1
+Node ID: 1280, Op: *, Children: ["1277", "1279"], Eclass: 1280, Cost: 4
+Node ID: 1281, Op: !, Children: ["1280"], Eclass: 1281, Cost: 1
+Node ID: 1282, Op: *, Children: ["476", "1281"], Eclass: 1282, Cost: 4
+Node ID: 1283, Op: !, Children: ["1282"], Eclass: 1283, Cost: 1
+Node ID: 1284, Op: *, Children: ["1274", "1283"], Eclass: 1284, Cost: 4
+Node ID: 1285, Op: *, Children: ["85", "213"], Eclass: 1285, Cost: 4
+Node ID: 1286, Op: !, Children: ["1285"], Eclass: 1286, Cost: 1
+Node ID: 1287, Op: *, Children: ["1286", "459"], Eclass: 1287, Cost: 4
+Node ID: 1288, Op: *, Children: ["1284", "1287"], Eclass: 1288, Cost: 4
+Node ID: 1289, Op: *, Children: ["1288", "461"], Eclass: 1289, Cost: 4
+Node ID: 1290, Op: !, Children: ["1289"], Eclass: 1290, Cost: 1
+Node ID: 1291, Op: *, Children: ["472", "1290"], Eclass: 1291, Cost: 4
+Node ID: 1292, Op: !, Children: ["90"], Eclass: 1292, Cost: 1
+Node ID: 1293, Op: !, Children: ["218"], Eclass: 1293, Cost: 1
+Node ID: 1294, Op: *, Children: ["1292", "1293"], Eclass: 1294, Cost: 4
+Node ID: 1295, Op: !, Children: ["1294"], Eclass: 1295, Cost: 1
+Node ID: 1296, Op: *, Children: ["1291", "1295"], Eclass: 1296, Cost: 4
+Node ID: 1297, Op: !, Children: ["88"], Eclass: 1297, Cost: 1
+Node ID: 1298, Op: !, Children: ["216"], Eclass: 1298, Cost: 1
+Node ID: 1299, Op: *, Children: ["1297", "1298"], Eclass: 1299, Cost: 4
+Node ID: 1300, Op: !, Children: ["1299"], Eclass: 1300, Cost: 1
+Node ID: 1301, Op: *, Children: ["1296", "1300"], Eclass: 1301, Cost: 4
+Node ID: 1302, Op: !, Children: ["89"], Eclass: 1302, Cost: 1
+Node ID: 1303, Op: !, Children: ["217"], Eclass: 1303, Cost: 1
+Node ID: 1304, Op: *, Children: ["1302", "1303"], Eclass: 1304, Cost: 4
+Node ID: 1305, Op: !, Children: ["1304"], Eclass: 1305, Cost: 1
+Node ID: 1306, Op: *, Children: ["1301", "1305"], Eclass: 1306, Cost: 4
+Node ID: 1307, Op: !, Children: ["1306"], Eclass: 1307, Cost: 1
+Node ID: 1308, Op: *, Children: ["1305", "88"], Eclass: 1308, Cost: 4
+Node ID: 1309, Op: *, Children: ["1308", "216"], Eclass: 1309, Cost: 4
+Node ID: 1310, Op: !, Children: ["1309"], Eclass: 1310, Cost: 1
+Node ID: 1311, Op: *, Children: ["89", "217"], Eclass: 1311, Cost: 4
+Node ID: 1312, Op: !, Children: ["1311"], Eclass: 1312, Cost: 1
+Node ID: 1313, Op: *, Children: ["1310", "1312"], Eclass: 1313, Cost: 4
+Node ID: 1314, Op: !, Children: ["1313"], Eclass: 1314, Cost: 1
+Node ID: 1315, Op: *, Children: ["1295", "1314"], Eclass: 1315, Cost: 4
+Node ID: 1316, Op: !, Children: ["1315"], Eclass: 1316, Cost: 1
+Node ID: 1317, Op: *, Children: ["1307", "1316"], Eclass: 1317, Cost: 4
+Node ID: 1318, Op: *, Children: ["457", "1317"], Eclass: 1318, Cost: 4
+Node ID: 1319, Op: *, Children: ["446", "1318"], Eclass: 1319, Cost: 4
+Node ID: 1320, Op: !, Children: ["1319"], Eclass: 1320, Cost: 1
+Node ID: 1321, Op: *, Children: ["454", "1320"], Eclass: 1321, Cost: 4
+Node ID: 1322, Op: !, Children: ["1321"], Eclass: 1322, Cost: 1
+Node ID: 1323, Op: *, Children: ["94", "222"], Eclass: 1323, Cost: 4
+Node ID: 1324, Op: !, Children: ["1323"], Eclass: 1324, Cost: 1
+Node ID: 1325, Op: *, Children: ["432", "221"], Eclass: 1325, Cost: 4
+Node ID: 1326, Op: *, Children: ["1325", "93"], Eclass: 1326, Cost: 4
+Node ID: 1327, Op: !, Children: ["1326"], Eclass: 1327, Cost: 1
+Node ID: 1328, Op: *, Children: ["1324", "1327"], Eclass: 1328, Cost: 4
+Node ID: 1329, Op: !, Children: ["1328"], Eclass: 1329, Cost: 1
+Node ID: 1330, Op: *, Children: ["428", "1329"], Eclass: 1330, Cost: 4
+Node ID: 1331, Op: !, Children: ["1330"], Eclass: 1331, Cost: 1
+Node ID: 1332, Op: *, Children: ["1322", "1331"], Eclass: 1332, Cost: 4
+Node ID: 1333, Op: *, Children: ["424", "1332"], Eclass: 1333, Cost: 4
+Node ID: 1334, Op: *, Children: ["413", "1333"], Eclass: 1334, Cost: 4
+Node ID: 1335, Op: !, Children: ["1334"], Eclass: 1335, Cost: 1
+Node ID: 1336, Op: *, Children: ["421", "1335"], Eclass: 1336, Cost: 4
+Node ID: 1337, Op: !, Children: ["228"], Eclass: 1337, Cost: 1
+Node ID: 1338, Op: !, Children: ["100"], Eclass: 1338, Cost: 1
+Node ID: 1339, Op: *, Children: ["1337", "1338"], Eclass: 1339, Cost: 4
+Node ID: 1340, Op: !, Children: ["1339"], Eclass: 1340, Cost: 1
+Node ID: 1341, Op: !, Children: ["99"], Eclass: 1341, Cost: 1
+Node ID: 1342, Op: !, Children: ["227"], Eclass: 1342, Cost: 1
+Node ID: 1343, Op: *, Children: ["1341", "1342"], Eclass: 1343, Cost: 4
+Node ID: 1344, Op: !, Children: ["1343"], Eclass: 1344, Cost: 1
+Node ID: 1345, Op: *, Children: ["1340", "1344"], Eclass: 1345, Cost: 4
+Node ID: 1346, Op: *, Children: ["1336", "1345"], Eclass: 1346, Cost: 4
+Node ID: 1347, Op: !, Children: ["98"], Eclass: 1347, Cost: 1
+Node ID: 1348, Op: !, Children: ["226"], Eclass: 1348, Cost: 1
+Node ID: 1349, Op: *, Children: ["1347", "1348"], Eclass: 1349, Cost: 4
+Node ID: 1350, Op: !, Children: ["1349"], Eclass: 1350, Cost: 1
+Node ID: 1351, Op: *, Children: ["1346", "1350"], Eclass: 1351, Cost: 4
+Node ID: 1352, Op: !, Children: ["1351"], Eclass: 1352, Cost: 1
+Node ID: 1353, Op: *, Children: ["98", "226"], Eclass: 1353, Cost: 4
+Node ID: 1354, Op: *, Children: ["1353", "1344"], Eclass: 1354, Cost: 4
+Node ID: 1355, Op: !, Children: ["1354"], Eclass: 1355, Cost: 1
+Node ID: 1356, Op: *, Children: ["99", "227"], Eclass: 1356, Cost: 4
+Node ID: 1357, Op: !, Children: ["1356"], Eclass: 1357, Cost: 1
+Node ID: 1358, Op: *, Children: ["1355", "1357"], Eclass: 1358, Cost: 4
+Node ID: 1359, Op: !, Children: ["1358"], Eclass: 1359, Cost: 1
+Node ID: 1360, Op: *, Children: ["1340", "1359"], Eclass: 1360, Cost: 4
+Node ID: 1361, Op: !, Children: ["1360"], Eclass: 1361, Cost: 1
+Node ID: 1362, Op: *, Children: ["1352", "1361"], Eclass: 1362, Cost: 4
+Node ID: 1363, Op: *, Children: ["406", "1362"], Eclass: 1363, Cost: 4
+Node ID: 1364, Op: !, Children: ["1363"], Eclass: 1364, Cost: 1
+Node ID: 1365, Op: *, Children: ["403", "1364"], Eclass: 1365, Cost: 4
+Node ID: 1366, Op: !, Children: ["1365"], Eclass: 1366, Cost: 1
+Node ID: 1367, Op: *, Children: ["103", "231"], Eclass: 1367, Cost: 4
+Node ID: 1368, Op: *, Children: ["1367", "381"], Eclass: 1368, Cost: 4
+Node ID: 1369, Op: !, Children: ["1368"], Eclass: 1369, Cost: 1
+Node ID: 1370, Op: *, Children: ["104", "232"], Eclass: 1370, Cost: 4
+Node ID: 1371, Op: !, Children: ["1370"], Eclass: 1371, Cost: 1
+Node ID: 1372, Op: *, Children: ["1369", "1371"], Eclass: 1372, Cost: 4
+Node ID: 1373, Op: !, Children: ["1372"], Eclass: 1373, Cost: 1
+Node ID: 1374, Op: *, Children: ["377", "1373"], Eclass: 1374, Cost: 4
+Node ID: 1375, Op: !, Children: ["1374"], Eclass: 1375, Cost: 1
+Node ID: 1376, Op: *, Children: ["105", "233"], Eclass: 1376, Cost: 4
+Node ID: 1377, Op: !, Children: ["1376"], Eclass: 1377, Cost: 1
+Node ID: 1378, Op: *, Children: ["235", "107"], Eclass: 1378, Cost: 4
+Node ID: 1379, Op: !, Children: ["1378"], Eclass: 1379, Cost: 1
+Node ID: 1380, Op: *, Children: ["1377", "1379"], Eclass: 1380, Cost: 4
+Node ID: 1381, Op: *, Children: ["106", "234"], Eclass: 1381, Cost: 4
+Node ID: 1382, Op: !, Children: ["1381"], Eclass: 1382, Cost: 1
+Node ID: 1383, Op: *, Children: ["1380", "1382"], Eclass: 1383, Cost: 4
+Node ID: 1384, Op: *, Children: ["1375", "1383"], Eclass: 1384, Cost: 4
+Node ID: 1385, Op: *, Children: ["1366", "1384"], Eclass: 1385, Cost: 4
+Node ID: 1386, Op: !, Children: ["1385"], Eclass: 1386, Cost: 1
+Node ID: 1387, Op: !, Children: ["107"], Eclass: 1387, Cost: 1
+Node ID: 1388, Op: !, Children: ["235"], Eclass: 1388, Cost: 1
+Node ID: 1389, Op: *, Children: ["1387", "1388"], Eclass: 1389, Cost: 4
+Node ID: 1390, Op: !, Children: ["1389"], Eclass: 1390, Cost: 1
+Node ID: 1391, Op: *, Children: ["1379", "1382"], Eclass: 1391, Cost: 4
+Node ID: 1392, Op: !, Children: ["234"], Eclass: 1392, Cost: 1
+Node ID: 1393, Op: *, Children: ["1391", "1392"], Eclass: 1393, Cost: 4
+Node ID: 1394, Op: !, Children: ["106"], Eclass: 1394, Cost: 1
+Node ID: 1395, Op: *, Children: ["1393", "1394"], Eclass: 1395, Cost: 4
+Node ID: 1396, Op: !, Children: ["1395"], Eclass: 1396, Cost: 1
+Node ID: 1397, Op: *, Children: ["1390", "1396"], Eclass: 1397, Cost: 4
+Node ID: 1398, Op: *, Children: ["1397", "359"], Eclass: 1398, Cost: 4
+Node ID: 1399, Op: !, Children: ["108"], Eclass: 1399, Cost: 1
+Node ID: 1400, Op: !, Children: ["236"], Eclass: 1400, Cost: 1
+Node ID: 1401, Op: *, Children: ["1399", "1400"], Eclass: 1401, Cost: 4
+Node ID: 1402, Op: !, Children: ["1401"], Eclass: 1402, Cost: 1
+Node ID: 1403, Op: *, Children: ["1398", "1402"], Eclass: 1403, Cost: 4
+Node ID: 1404, Op: *, Children: ["1386", "1403"], Eclass: 1404, Cost: 4
+Node ID: 1405, Op: *, Children: ["1404", "364"], Eclass: 1405, Cost: 4
+Node ID: 1406, Op: !, Children: ["1405"], Eclass: 1406, Cost: 1
+Node ID: 1407, Op: *, Children: ["373", "1406"], Eclass: 1407, Cost: 4
+Node ID: 1408, Op: !, Children: ["1407"], Eclass: 1408, Cost: 1
+Node ID: 1409, Op: !, Children: ["111"], Eclass: 1409, Cost: 1
+Node ID: 1410, Op: !, Children: ["239"], Eclass: 1410, Cost: 1
+Node ID: 1411, Op: *, Children: ["1409", "1410"], Eclass: 1411, Cost: 4
+Node ID: 1412, Op: *, Children: ["351", "1411"], Eclass: 1412, Cost: 4
+Node ID: 1413, Op: !, Children: ["1412"], Eclass: 1413, Cost: 1
+Node ID: 1414, Op: !, Children: ["112"], Eclass: 1414, Cost: 1
+Node ID: 1415, Op: !, Children: ["240"], Eclass: 1415, Cost: 1
+Node ID: 1416, Op: *, Children: ["1414", "1415"], Eclass: 1416, Cost: 4
+Node ID: 1417, Op: !, Children: ["1416"], Eclass: 1417, Cost: 1
+Node ID: 1418, Op: *, Children: ["1413", "1417"], Eclass: 1418, Cost: 4
+Node ID: 1419, Op: !, Children: ["1418"], Eclass: 1419, Cost: 1
+Node ID: 1420, Op: *, Children: ["349", "1419"], Eclass: 1420, Cost: 4
+Node ID: 1421, Op: !, Children: ["1420"], Eclass: 1421, Cost: 1
+Node ID: 1422, Op: *, Children: ["1421", "334"], Eclass: 1422, Cost: 4
+Node ID: 1423, Op: *, Children: ["1422", "340"], Eclass: 1423, Cost: 4
+Node ID: 1424, Op: !, Children: ["113"], Eclass: 1424, Cost: 1
+Node ID: 1425, Op: !, Children: ["241"], Eclass: 1425, Cost: 1
+Node ID: 1426, Op: *, Children: ["1424", "1425"], Eclass: 1426, Cost: 4
+Node ID: 1427, Op: !, Children: ["1426"], Eclass: 1427, Cost: 1
+Node ID: 1428, Op: *, Children: ["1423", "1427"], Eclass: 1428, Cost: 4
+Node ID: 1429, Op: *, Children: ["1408", "1428"], Eclass: 1429, Cost: 4
+Node ID: 1430, Op: !, Children: ["1429"], Eclass: 1430, Cost: 1
+Node ID: 1431, Op: *, Children: ["347", "1430"], Eclass: 1431, Cost: 4
+Node ID: 1432, Op: *, Children: ["115", "243"], Eclass: 1432, Cost: 4
+Node ID: 1433, Op: !, Children: ["1432"], Eclass: 1433, Cost: 1
+Node ID: 1434, Op: *, Children: ["1431", "1433"], Eclass: 1434, Cost: 4
+Node ID: 1435, Op: *, Children: ["1434", "326"], Eclass: 1435, Cost: 4
+Node ID: 1436, Op: *, Children: ["1435", "324"], Eclass: 1436, Cost: 4
+Node ID: 1437, Op: !, Children: ["1436"], Eclass: 1437, Cost: 1
+Node ID: 1438, Op: *, Children: ["330", "1437"], Eclass: 1438, Cost: 4
+Node ID: 1439, Op: !, Children: ["247"], Eclass: 1439, Cost: 1
+Node ID: 1440, Op: !, Children: ["119"], Eclass: 1440, Cost: 1
+Node ID: 1441, Op: *, Children: ["1439", "1440"], Eclass: 1441, Cost: 4
+Node ID: 1442, Op: !, Children: ["1441"], Eclass: 1442, Cost: 1
+Node ID: 1443, Op: *, Children: ["1438", "1442"], Eclass: 1443, Cost: 4
+Node ID: 1444, Op: !, Children: ["118"], Eclass: 1444, Cost: 1
+Node ID: 1445, Op: !, Children: ["246"], Eclass: 1445, Cost: 1
+Node ID: 1446, Op: *, Children: ["1444", "1445"], Eclass: 1446, Cost: 4
+Node ID: 1447, Op: !, Children: ["1446"], Eclass: 1447, Cost: 1
+Node ID: 1448, Op: *, Children: ["1443", "1447"], Eclass: 1448, Cost: 4
+Node ID: 1449, Op: !, Children: ["248"], Eclass: 1449, Cost: 1
+Node ID: 1450, Op: !, Children: ["120"], Eclass: 1450, Cost: 1
+Node ID: 1451, Op: *, Children: ["1449", "1450"], Eclass: 1451, Cost: 4
+Node ID: 1452, Op: !, Children: ["1451"], Eclass: 1452, Cost: 1
+Node ID: 1453, Op: *, Children: ["1448", "1452"], Eclass: 1453, Cost: 4
+Node ID: 1454, Op: !, Children: ["1453"], Eclass: 1454, Cost: 1
+Node ID: 1455, Op: *, Children: ["1442", "118"], Eclass: 1455, Cost: 4
+Node ID: 1456, Op: *, Children: ["1455", "246"], Eclass: 1456, Cost: 4
+Node ID: 1457, Op: !, Children: ["1456"], Eclass: 1457, Cost: 1
+Node ID: 1458, Op: *, Children: ["119", "247"], Eclass: 1458, Cost: 4
+Node ID: 1459, Op: !, Children: ["1458"], Eclass: 1459, Cost: 1
+Node ID: 1460, Op: *, Children: ["1457", "1459"], Eclass: 1460, Cost: 4
+Node ID: 1461, Op: !, Children: ["1460"], Eclass: 1461, Cost: 1
+Node ID: 1462, Op: *, Children: ["1452", "1461"], Eclass: 1462, Cost: 4
+Node ID: 1463, Op: !, Children: ["1462"], Eclass: 1463, Cost: 1
+Node ID: 1464, Op: *, Children: ["1454", "1463"], Eclass: 1464, Cost: 4
+Node ID: 1465, Op: *, Children: ["120", "248"], Eclass: 1465, Cost: 4
+Node ID: 1466, Op: !, Children: ["1465"], Eclass: 1466, Cost: 1
+Node ID: 1467, Op: *, Children: ["1464", "1466"], Eclass: 1467, Cost: 4
+Node ID: 1468, Op: *, Children: ["303", "306"], Eclass: 1468, Cost: 4
+Node ID: 1469, Op: *, Children: ["1467", "1468"], Eclass: 1469, Cost: 4
+Node ID: 1470, Op: !, Children: ["1469"], Eclass: 1470, Cost: 1
+Node ID: 1471, Op: *, Children: ["315", "1470"], Eclass: 1471, Cost: 4
+Node ID: 1472, Op: !, Children: ["1471"], Eclass: 1472, Cost: 1
+Node ID: 1473, Op: *, Children: ["293", "1472"], Eclass: 1473, Cost: 4
+Node ID: 1474, Op: *, Children: ["125", "253"], Eclass: 1474, Cost: 4
+Node ID: 1475, Op: !, Children: ["1474"], Eclass: 1475, Cost: 1
+Node ID: 1476, Op: *, Children: ["1473", "1475"], Eclass: 1476, Cost: 4
+Node ID: 1477, Op: *, Children: ["1476", "269"], Eclass: 1477, Cost: 4
+Node ID: 1478, Op: *, Children: ["1477", "267"], Eclass: 1478, Cost: 4
+Node ID: 1479, Op: !, Children: ["1478"], Eclass: 1479, Cost: 1
+Node ID: 1480, Op: *, Children: ["276", "1479"], Eclass: 1480, Cost: 4
+
+Filtered Order (excluding nodes with `op = "!"`):
+Order: 1, Node ID: 1, Op: pi000, Children: [], Eclass: 1, Cost: 1
+Order: 2, Node ID: 2, Op: pi001, Children: [], Eclass: 2, Cost: 1
+Order: 3, Node ID: 3, Op: pi002, Children: [], Eclass: 3, Cost: 1
+Order: 4, Node ID: 4, Op: pi003, Children: [], Eclass: 4, Cost: 1
+Order: 5, Node ID: 5, Op: pi004, Children: [], Eclass: 5, Cost: 1
+Order: 6, Node ID: 6, Op: pi005, Children: [], Eclass: 6, Cost: 1
+Order: 7, Node ID: 7, Op: pi006, Children: [], Eclass: 7, Cost: 1
+Order: 8, Node ID: 8, Op: pi007, Children: [], Eclass: 8, Cost: 1
+Order: 9, Node ID: 9, Op: pi008, Children: [], Eclass: 9, Cost: 1
+Order: 10, Node ID: 10, Op: pi009, Children: [], Eclass: 10, Cost: 1
+Order: 11, Node ID: 11, Op: pi010, Children: [], Eclass: 11, Cost: 1
+Order: 12, Node ID: 12, Op: pi011, Children: [], Eclass: 12, Cost: 1
+Order: 13, Node ID: 13, Op: pi012, Children: [], Eclass: 13, Cost: 1
+Order: 14, Node ID: 14, Op: pi013, Children: [], Eclass: 14, Cost: 1
+Order: 15, Node ID: 15, Op: pi014, Children: [], Eclass: 15, Cost: 1
+Order: 16, Node ID: 16, Op: pi015, Children: [], Eclass: 16, Cost: 1
+Order: 17, Node ID: 17, Op: pi016, Children: [], Eclass: 17, Cost: 1
+Order: 18, Node ID: 18, Op: pi017, Children: [], Eclass: 18, Cost: 1
+Order: 19, Node ID: 19, Op: pi018, Children: [], Eclass: 19, Cost: 1
+Order: 20, Node ID: 20, Op: pi019, Children: [], Eclass: 20, Cost: 1
+Order: 21, Node ID: 21, Op: pi020, Children: [], Eclass: 21, Cost: 1
+Order: 22, Node ID: 22, Op: pi021, Children: [], Eclass: 22, Cost: 1
+Order: 23, Node ID: 23, Op: pi022, Children: [], Eclass: 23, Cost: 1
+Order: 24, Node ID: 24, Op: pi023, Children: [], Eclass: 24, Cost: 1
+Order: 25, Node ID: 25, Op: pi024, Children: [], Eclass: 25, Cost: 1
+Order: 26, Node ID: 26, Op: pi025, Children: [], Eclass: 26, Cost: 1
+Order: 27, Node ID: 27, Op: pi026, Children: [], Eclass: 27, Cost: 1
+Order: 28, Node ID: 28, Op: pi027, Children: [], Eclass: 28, Cost: 1
+Order: 29, Node ID: 29, Op: pi028, Children: [], Eclass: 29, Cost: 1
+Order: 30, Node ID: 30, Op: pi029, Children: [], Eclass: 30, Cost: 1
+Order: 31, Node ID: 31, Op: pi030, Children: [], Eclass: 31, Cost: 1
+Order: 32, Node ID: 32, Op: pi031, Children: [], Eclass: 32, Cost: 1
+Order: 33, Node ID: 33, Op: pi032, Children: [], Eclass: 33, Cost: 1
+Order: 34, Node ID: 34, Op: pi033, Children: [], Eclass: 34, Cost: 1
+Order: 35, Node ID: 35, Op: pi034, Children: [], Eclass: 35, Cost: 1
+Order: 36, Node ID: 36, Op: pi035, Children: [], Eclass: 36, Cost: 1
+Order: 37, Node ID: 37, Op: pi036, Children: [], Eclass: 37, Cost: 1
+Order: 38, Node ID: 38, Op: pi037, Children: [], Eclass: 38, Cost: 1
+Order: 39, Node ID: 39, Op: pi038, Children: [], Eclass: 39, Cost: 1
+Order: 40, Node ID: 40, Op: pi039, Children: [], Eclass: 40, Cost: 1
+Order: 41, Node ID: 41, Op: pi040, Children: [], Eclass: 41, Cost: 1
+Order: 42, Node ID: 42, Op: pi041, Children: [], Eclass: 42, Cost: 1
+Order: 43, Node ID: 43, Op: pi042, Children: [], Eclass: 43, Cost: 1
+Order: 44, Node ID: 44, Op: pi043, Children: [], Eclass: 44, Cost: 1
+Order: 45, Node ID: 45, Op: pi044, Children: [], Eclass: 45, Cost: 1
+Order: 46, Node ID: 46, Op: pi045, Children: [], Eclass: 46, Cost: 1
+Order: 47, Node ID: 47, Op: pi046, Children: [], Eclass: 47, Cost: 1
+Order: 48, Node ID: 48, Op: pi047, Children: [], Eclass: 48, Cost: 1
+Order: 49, Node ID: 49, Op: pi048, Children: [], Eclass: 49, Cost: 1
+Order: 50, Node ID: 50, Op: pi049, Children: [], Eclass: 50, Cost: 1
+Order: 51, Node ID: 51, Op: pi050, Children: [], Eclass: 51, Cost: 1
+Order: 52, Node ID: 52, Op: pi051, Children: [], Eclass: 52, Cost: 1
+Order: 53, Node ID: 53, Op: pi052, Children: [], Eclass: 53, Cost: 1
+Order: 54, Node ID: 54, Op: pi053, Children: [], Eclass: 54, Cost: 1
+Order: 55, Node ID: 55, Op: pi054, Children: [], Eclass: 55, Cost: 1
+Order: 56, Node ID: 56, Op: pi055, Children: [], Eclass: 56, Cost: 1
+Order: 57, Node ID: 57, Op: pi056, Children: [], Eclass: 57, Cost: 1
+Order: 58, Node ID: 58, Op: pi057, Children: [], Eclass: 58, Cost: 1
+Order: 59, Node ID: 59, Op: pi058, Children: [], Eclass: 59, Cost: 1
+Order: 60, Node ID: 60, Op: pi059, Children: [], Eclass: 60, Cost: 1
+Order: 61, Node ID: 61, Op: pi060, Children: [], Eclass: 61, Cost: 1
+Order: 62, Node ID: 62, Op: pi061, Children: [], Eclass: 62, Cost: 1
+Order: 63, Node ID: 63, Op: pi062, Children: [], Eclass: 63, Cost: 1
+Order: 64, Node ID: 64, Op: pi063, Children: [], Eclass: 64, Cost: 1
+Order: 65, Node ID: 65, Op: pi064, Children: [], Eclass: 65, Cost: 1
+Order: 66, Node ID: 66, Op: pi065, Children: [], Eclass: 66, Cost: 1
+Order: 67, Node ID: 67, Op: pi066, Children: [], Eclass: 67, Cost: 1
+Order: 68, Node ID: 68, Op: pi067, Children: [], Eclass: 68, Cost: 1
+Order: 69, Node ID: 69, Op: pi068, Children: [], Eclass: 69, Cost: 1
+Order: 70, Node ID: 70, Op: pi069, Children: [], Eclass: 70, Cost: 1
+Order: 71, Node ID: 71, Op: pi070, Children: [], Eclass: 71, Cost: 1
+Order: 72, Node ID: 72, Op: pi071, Children: [], Eclass: 72, Cost: 1
+Order: 73, Node ID: 73, Op: pi072, Children: [], Eclass: 73, Cost: 1
+Order: 74, Node ID: 74, Op: pi073, Children: [], Eclass: 74, Cost: 1
+Order: 75, Node ID: 75, Op: pi074, Children: [], Eclass: 75, Cost: 1
+Order: 76, Node ID: 76, Op: pi075, Children: [], Eclass: 76, Cost: 1
+Order: 77, Node ID: 77, Op: pi076, Children: [], Eclass: 77, Cost: 1
+Order: 78, Node ID: 78, Op: pi077, Children: [], Eclass: 78, Cost: 1
+Order: 79, Node ID: 79, Op: pi078, Children: [], Eclass: 79, Cost: 1
+Order: 80, Node ID: 80, Op: pi079, Children: [], Eclass: 80, Cost: 1
+Order: 81, Node ID: 81, Op: pi080, Children: [], Eclass: 81, Cost: 1
+Order: 82, Node ID: 82, Op: pi081, Children: [], Eclass: 82, Cost: 1
+Order: 83, Node ID: 83, Op: pi082, Children: [], Eclass: 83, Cost: 1
+Order: 84, Node ID: 84, Op: pi083, Children: [], Eclass: 84, Cost: 1
+Order: 85, Node ID: 85, Op: pi084, Children: [], Eclass: 85, Cost: 1
+Order: 86, Node ID: 86, Op: pi085, Children: [], Eclass: 86, Cost: 1
+Order: 87, Node ID: 87, Op: pi086, Children: [], Eclass: 87, Cost: 1
+Order: 88, Node ID: 88, Op: pi087, Children: [], Eclass: 88, Cost: 1
+Order: 89, Node ID: 89, Op: pi088, Children: [], Eclass: 89, Cost: 1
+Order: 90, Node ID: 90, Op: pi089, Children: [], Eclass: 90, Cost: 1
+Order: 91, Node ID: 91, Op: pi090, Children: [], Eclass: 91, Cost: 1
+Order: 92, Node ID: 92, Op: pi091, Children: [], Eclass: 92, Cost: 1
+Order: 93, Node ID: 93, Op: pi092, Children: [], Eclass: 93, Cost: 1
+Order: 94, Node ID: 94, Op: pi093, Children: [], Eclass: 94, Cost: 1
+Order: 95, Node ID: 95, Op: pi094, Children: [], Eclass: 95, Cost: 1
+Order: 96, Node ID: 96, Op: pi095, Children: [], Eclass: 96, Cost: 1
+Order: 97, Node ID: 97, Op: pi096, Children: [], Eclass: 97, Cost: 1
+Order: 98, Node ID: 98, Op: pi097, Children: [], Eclass: 98, Cost: 1
+Order: 99, Node ID: 99, Op: pi098, Children: [], Eclass: 99, Cost: 1
+Order: 100, Node ID: 100, Op: pi099, Children: [], Eclass: 100, Cost: 1
+Order: 101, Node ID: 101, Op: pi100, Children: [], Eclass: 101, Cost: 1
+Order: 102, Node ID: 102, Op: pi101, Children: [], Eclass: 102, Cost: 1
+Order: 103, Node ID: 103, Op: pi102, Children: [], Eclass: 103, Cost: 1
+Order: 104, Node ID: 104, Op: pi103, Children: [], Eclass: 104, Cost: 1
+Order: 105, Node ID: 105, Op: pi104, Children: [], Eclass: 105, Cost: 1
+Order: 106, Node ID: 106, Op: pi105, Children: [], Eclass: 106, Cost: 1
+Order: 107, Node ID: 107, Op: pi106, Children: [], Eclass: 107, Cost: 1
+Order: 108, Node ID: 108, Op: pi107, Children: [], Eclass: 108, Cost: 1
+Order: 109, Node ID: 109, Op: pi108, Children: [], Eclass: 109, Cost: 1
+Order: 110, Node ID: 110, Op: pi109, Children: [], Eclass: 110, Cost: 1
+Order: 111, Node ID: 111, Op: pi110, Children: [], Eclass: 111, Cost: 1
+Order: 112, Node ID: 112, Op: pi111, Children: [], Eclass: 112, Cost: 1
+Order: 113, Node ID: 113, Op: pi112, Children: [], Eclass: 113, Cost: 1
+Order: 114, Node ID: 114, Op: pi113, Children: [], Eclass: 114, Cost: 1
+Order: 115, Node ID: 115, Op: pi114, Children: [], Eclass: 115, Cost: 1
+Order: 116, Node ID: 116, Op: pi115, Children: [], Eclass: 116, Cost: 1
+Order: 117, Node ID: 117, Op: pi116, Children: [], Eclass: 117, Cost: 1
+Order: 118, Node ID: 118, Op: pi117, Children: [], Eclass: 118, Cost: 1
+Order: 119, Node ID: 119, Op: pi118, Children: [], Eclass: 119, Cost: 1
+Order: 120, Node ID: 120, Op: pi119, Children: [], Eclass: 120, Cost: 1
+Order: 121, Node ID: 121, Op: pi120, Children: [], Eclass: 121, Cost: 1
+Order: 122, Node ID: 122, Op: pi121, Children: [], Eclass: 122, Cost: 1
+Order: 123, Node ID: 123, Op: pi122, Children: [], Eclass: 123, Cost: 1
+Order: 124, Node ID: 124, Op: pi123, Children: [], Eclass: 124, Cost: 1
+Order: 125, Node ID: 125, Op: pi124, Children: [], Eclass: 125, Cost: 1
+Order: 126, Node ID: 126, Op: pi125, Children: [], Eclass: 126, Cost: 1
+Order: 127, Node ID: 127, Op: pi126, Children: [], Eclass: 127, Cost: 1
+Order: 128, Node ID: 128, Op: pi127, Children: [], Eclass: 128, Cost: 1
+Order: 129, Node ID: 129, Op: pi128, Children: [], Eclass: 129, Cost: 1
+Order: 130, Node ID: 130, Op: pi129, Children: [], Eclass: 130, Cost: 1
+Order: 131, Node ID: 131, Op: pi130, Children: [], Eclass: 131, Cost: 1
+Order: 132, Node ID: 132, Op: pi131, Children: [], Eclass: 132, Cost: 1
+Order: 133, Node ID: 133, Op: pi132, Children: [], Eclass: 133, Cost: 1
+Order: 134, Node ID: 134, Op: pi133, Children: [], Eclass: 134, Cost: 1
+Order: 135, Node ID: 135, Op: pi134, Children: [], Eclass: 135, Cost: 1
+Order: 136, Node ID: 136, Op: pi135, Children: [], Eclass: 136, Cost: 1
+Order: 137, Node ID: 137, Op: pi136, Children: [], Eclass: 137, Cost: 1
+Order: 138, Node ID: 138, Op: pi137, Children: [], Eclass: 138, Cost: 1
+Order: 139, Node ID: 139, Op: pi138, Children: [], Eclass: 139, Cost: 1
+Order: 140, Node ID: 140, Op: pi139, Children: [], Eclass: 140, Cost: 1
+Order: 141, Node ID: 141, Op: pi140, Children: [], Eclass: 141, Cost: 1
+Order: 142, Node ID: 142, Op: pi141, Children: [], Eclass: 142, Cost: 1
+Order: 143, Node ID: 143, Op: pi142, Children: [], Eclass: 143, Cost: 1
+Order: 144, Node ID: 144, Op: pi143, Children: [], Eclass: 144, Cost: 1
+Order: 145, Node ID: 145, Op: pi144, Children: [], Eclass: 145, Cost: 1
+Order: 146, Node ID: 146, Op: pi145, Children: [], Eclass: 146, Cost: 1
+Order: 147, Node ID: 147, Op: pi146, Children: [], Eclass: 147, Cost: 1
+Order: 148, Node ID: 148, Op: pi147, Children: [], Eclass: 148, Cost: 1
+Order: 149, Node ID: 149, Op: pi148, Children: [], Eclass: 149, Cost: 1
+Order: 150, Node ID: 150, Op: pi149, Children: [], Eclass: 150, Cost: 1
+Order: 151, Node ID: 151, Op: pi150, Children: [], Eclass: 151, Cost: 1
+Order: 152, Node ID: 152, Op: pi151, Children: [], Eclass: 152, Cost: 1
+Order: 153, Node ID: 153, Op: pi152, Children: [], Eclass: 153, Cost: 1
+Order: 154, Node ID: 154, Op: pi153, Children: [], Eclass: 154, Cost: 1
+Order: 155, Node ID: 155, Op: pi154, Children: [], Eclass: 155, Cost: 1
+Order: 156, Node ID: 156, Op: pi155, Children: [], Eclass: 156, Cost: 1
+Order: 157, Node ID: 157, Op: pi156, Children: [], Eclass: 157, Cost: 1
+Order: 158, Node ID: 158, Op: pi157, Children: [], Eclass: 158, Cost: 1
+Order: 159, Node ID: 159, Op: pi158, Children: [], Eclass: 159, Cost: 1
+Order: 160, Node ID: 160, Op: pi159, Children: [], Eclass: 160, Cost: 1
+Order: 161, Node ID: 161, Op: pi160, Children: [], Eclass: 161, Cost: 1
+Order: 162, Node ID: 162, Op: pi161, Children: [], Eclass: 162, Cost: 1
+Order: 163, Node ID: 163, Op: pi162, Children: [], Eclass: 163, Cost: 1
+Order: 164, Node ID: 164, Op: pi163, Children: [], Eclass: 164, Cost: 1
+Order: 165, Node ID: 165, Op: pi164, Children: [], Eclass: 165, Cost: 1
+Order: 166, Node ID: 166, Op: pi165, Children: [], Eclass: 166, Cost: 1
+Order: 167, Node ID: 167, Op: pi166, Children: [], Eclass: 167, Cost: 1
+Order: 168, Node ID: 168, Op: pi167, Children: [], Eclass: 168, Cost: 1
+Order: 169, Node ID: 169, Op: pi168, Children: [], Eclass: 169, Cost: 1
+Order: 170, Node ID: 170, Op: pi169, Children: [], Eclass: 170, Cost: 1
+Order: 171, Node ID: 171, Op: pi170, Children: [], Eclass: 171, Cost: 1
+Order: 172, Node ID: 172, Op: pi171, Children: [], Eclass: 172, Cost: 1
+Order: 173, Node ID: 173, Op: pi172, Children: [], Eclass: 173, Cost: 1
+Order: 174, Node ID: 174, Op: pi173, Children: [], Eclass: 174, Cost: 1
+Order: 175, Node ID: 175, Op: pi174, Children: [], Eclass: 175, Cost: 1
+Order: 176, Node ID: 176, Op: pi175, Children: [], Eclass: 176, Cost: 1
+Order: 177, Node ID: 177, Op: pi176, Children: [], Eclass: 177, Cost: 1
+Order: 178, Node ID: 178, Op: pi177, Children: [], Eclass: 178, Cost: 1
+Order: 179, Node ID: 179, Op: pi178, Children: [], Eclass: 179, Cost: 1
+Order: 180, Node ID: 180, Op: pi179, Children: [], Eclass: 180, Cost: 1
+Order: 181, Node ID: 181, Op: pi180, Children: [], Eclass: 181, Cost: 1
+Order: 182, Node ID: 182, Op: pi181, Children: [], Eclass: 182, Cost: 1
+Order: 183, Node ID: 183, Op: pi182, Children: [], Eclass: 183, Cost: 1
+Order: 184, Node ID: 184, Op: pi183, Children: [], Eclass: 184, Cost: 1
+Order: 185, Node ID: 185, Op: pi184, Children: [], Eclass: 185, Cost: 1
+Order: 186, Node ID: 186, Op: pi185, Children: [], Eclass: 186, Cost: 1
+Order: 187, Node ID: 187, Op: pi186, Children: [], Eclass: 187, Cost: 1
+Order: 188, Node ID: 188, Op: pi187, Children: [], Eclass: 188, Cost: 1
+Order: 189, Node ID: 189, Op: pi188, Children: [], Eclass: 189, Cost: 1
+Order: 190, Node ID: 190, Op: pi189, Children: [], Eclass: 190, Cost: 1
+Order: 191, Node ID: 191, Op: pi190, Children: [], Eclass: 191, Cost: 1
+Order: 192, Node ID: 192, Op: pi191, Children: [], Eclass: 192, Cost: 1
+Order: 193, Node ID: 193, Op: pi192, Children: [], Eclass: 193, Cost: 1
+Order: 194, Node ID: 194, Op: pi193, Children: [], Eclass: 194, Cost: 1
+Order: 195, Node ID: 195, Op: pi194, Children: [], Eclass: 195, Cost: 1
+Order: 196, Node ID: 196, Op: pi195, Children: [], Eclass: 196, Cost: 1
+Order: 197, Node ID: 197, Op: pi196, Children: [], Eclass: 197, Cost: 1
+Order: 198, Node ID: 198, Op: pi197, Children: [], Eclass: 198, Cost: 1
+Order: 199, Node ID: 199, Op: pi198, Children: [], Eclass: 199, Cost: 1
+Order: 200, Node ID: 200, Op: pi199, Children: [], Eclass: 200, Cost: 1
+Order: 201, Node ID: 201, Op: pi200, Children: [], Eclass: 201, Cost: 1
+Order: 202, Node ID: 202, Op: pi201, Children: [], Eclass: 202, Cost: 1
+Order: 203, Node ID: 203, Op: pi202, Children: [], Eclass: 203, Cost: 1
+Order: 204, Node ID: 204, Op: pi203, Children: [], Eclass: 204, Cost: 1
+Order: 205, Node ID: 205, Op: pi204, Children: [], Eclass: 205, Cost: 1
+Order: 206, Node ID: 206, Op: pi205, Children: [], Eclass: 206, Cost: 1
+Order: 207, Node ID: 207, Op: pi206, Children: [], Eclass: 207, Cost: 1
+Order: 208, Node ID: 208, Op: pi207, Children: [], Eclass: 208, Cost: 1
+Order: 209, Node ID: 209, Op: pi208, Children: [], Eclass: 209, Cost: 1
+Order: 210, Node ID: 210, Op: pi209, Children: [], Eclass: 210, Cost: 1
+Order: 211, Node ID: 211, Op: pi210, Children: [], Eclass: 211, Cost: 1
+Order: 212, Node ID: 212, Op: pi211, Children: [], Eclass: 212, Cost: 1
+Order: 213, Node ID: 213, Op: pi212, Children: [], Eclass: 213, Cost: 1
+Order: 214, Node ID: 214, Op: pi213, Children: [], Eclass: 214, Cost: 1
+Order: 215, Node ID: 215, Op: pi214, Children: [], Eclass: 215, Cost: 1
+Order: 216, Node ID: 216, Op: pi215, Children: [], Eclass: 216, Cost: 1
+Order: 217, Node ID: 217, Op: pi216, Children: [], Eclass: 217, Cost: 1
+Order: 218, Node ID: 218, Op: pi217, Children: [], Eclass: 218, Cost: 1
+Order: 219, Node ID: 219, Op: pi218, Children: [], Eclass: 219, Cost: 1
+Order: 220, Node ID: 220, Op: pi219, Children: [], Eclass: 220, Cost: 1
+Order: 221, Node ID: 221, Op: pi220, Children: [], Eclass: 221, Cost: 1
+Order: 222, Node ID: 222, Op: pi221, Children: [], Eclass: 222, Cost: 1
+Order: 223, Node ID: 223, Op: pi222, Children: [], Eclass: 223, Cost: 1
+Order: 224, Node ID: 224, Op: pi223, Children: [], Eclass: 224, Cost: 1
+Order: 225, Node ID: 225, Op: pi224, Children: [], Eclass: 225, Cost: 1
+Order: 226, Node ID: 226, Op: pi225, Children: [], Eclass: 226, Cost: 1
+Order: 227, Node ID: 227, Op: pi226, Children: [], Eclass: 227, Cost: 1
+Order: 228, Node ID: 228, Op: pi227, Children: [], Eclass: 228, Cost: 1
+Order: 229, Node ID: 229, Op: pi228, Children: [], Eclass: 229, Cost: 1
+Order: 230, Node ID: 230, Op: pi229, Children: [], Eclass: 230, Cost: 1
+Order: 231, Node ID: 231, Op: pi230, Children: [], Eclass: 231, Cost: 1
+Order: 232, Node ID: 232, Op: pi231, Children: [], Eclass: 232, Cost: 1
+Order: 233, Node ID: 233, Op: pi232, Children: [], Eclass: 233, Cost: 1
+Order: 234, Node ID: 234, Op: pi233, Children: [], Eclass: 234, Cost: 1
+Order: 235, Node ID: 235, Op: pi234, Children: [], Eclass: 235, Cost: 1
+Order: 236, Node ID: 236, Op: pi235, Children: [], Eclass: 236, Cost: 1
+Order: 237, Node ID: 237, Op: pi236, Children: [], Eclass: 237, Cost: 1
+Order: 238, Node ID: 238, Op: pi237, Children: [], Eclass: 238, Cost: 1
+Order: 239, Node ID: 239, Op: pi238, Children: [], Eclass: 239, Cost: 1
+Order: 240, Node ID: 240, Op: pi239, Children: [], Eclass: 240, Cost: 1
+Order: 241, Node ID: 241, Op: pi240, Children: [], Eclass: 241, Cost: 1
+Order: 242, Node ID: 242, Op: pi241, Children: [], Eclass: 242, Cost: 1
+Order: 243, Node ID: 243, Op: pi242, Children: [], Eclass: 243, Cost: 1
+Order: 244, Node ID: 244, Op: pi243, Children: [], Eclass: 244, Cost: 1
+Order: 245, Node ID: 245, Op: pi244, Children: [], Eclass: 245, Cost: 1
+Order: 246, Node ID: 246, Op: pi245, Children: [], Eclass: 246, Cost: 1
+Order: 247, Node ID: 247, Op: pi246, Children: [], Eclass: 247, Cost: 1
+Order: 248, Node ID: 248, Op: pi247, Children: [], Eclass: 248, Cost: 1
+Order: 249, Node ID: 249, Op: pi248, Children: [], Eclass: 249, Cost: 1
+Order: 250, Node ID: 250, Op: pi249, Children: [], Eclass: 250, Cost: 1
+Order: 251, Node ID: 251, Op: pi250, Children: [], Eclass: 251, Cost: 1
+Order: 252, Node ID: 252, Op: pi251, Children: [], Eclass: 252, Cost: 1
+Order: 253, Node ID: 253, Op: pi252, Children: [], Eclass: 253, Cost: 1
+Order: 254, Node ID: 254, Op: pi253, Children: [], Eclass: 254, Cost: 1
+Order: 255, Node ID: 255, Op: pi254, Children: [], Eclass: 255, Cost: 1
+Order: 256, Node ID: 256, Op: pi255, Children: [], Eclass: 256, Cost: 1
+Order: 257, Node ID: 259, Op: *, Children: ["257", "258"], Eclass: 259, Cost: 4
+Order: 258, Node ID: 263, Op: *, Children: ["261", "262"], Eclass: 263, Cost: 4
+Order: 259, Node ID: 265, Op: *, Children: ["260", "264"], Eclass: 265, Cost: 4
+Order: 260, Node ID: 266, Op: *, Children: ["127", "255"], Eclass: 266, Cost: 4
+Order: 261, Node ID: 268, Op: *, Children: ["254", "126"], Eclass: 268, Cost: 4
+Order: 262, Node ID: 271, Op: *, Children: ["269", "270"], Eclass: 271, Cost: 4
+Order: 263, Node ID: 273, Op: *, Children: ["271", "272"], Eclass: 273, Cost: 4
+Order: 264, Node ID: 274, Op: *, Children: ["267", "273"], Eclass: 274, Cost: 4
+Order: 265, Node ID: 276, Op: *, Children: ["265", "275"], Eclass: 276, Cost: 4
+Order: 266, Node ID: 279, Op: *, Children: ["277", "278"], Eclass: 279, Cost: 4
+Order: 267, Node ID: 283, Op: *, Children: ["281", "282"], Eclass: 283, Cost: 4
+Order: 268, Node ID: 285, Op: *, Children: ["123", "251"], Eclass: 285, Cost: 4
+Order: 269, Node ID: 286, Op: *, Children: ["284", "285"], Eclass: 286, Cost: 4
+Order: 270, Node ID: 288, Op: *, Children: ["124", "252"], Eclass: 288, Cost: 4
+Order: 271, Node ID: 290, Op: *, Children: ["287", "289"], Eclass: 290, Cost: 4
+Order: 272, Node ID: 292, Op: *, Children: ["280", "291"], Eclass: 292, Cost: 4
+Order: 273, Node ID: 296, Op: *, Children: ["294", "295"], Eclass: 296, Cost: 4
+Order: 274, Node ID: 298, Op: *, Children: ["280", "297"], Eclass: 298, Cost: 4
+Order: 275, Node ID: 299, Op: *, Children: ["298", "284"], Eclass: 299, Cost: 4
+Order: 276, Node ID: 302, Op: *, Children: ["250", "122"], Eclass: 302, Cost: 4
+Order: 277, Node ID: 304, Op: *, Children: ["301", "303"], Eclass: 304, Cost: 4
+Order: 278, Node ID: 305, Op: *, Children: ["121", "249"], Eclass: 305, Cost: 4
+Order: 279, Node ID: 307, Op: *, Children: ["304", "306"], Eclass: 307, Cost: 4
+Order: 280, Node ID: 308, Op: *, Children: ["300", "307"], Eclass: 308, Cost: 4
+Order: 281, Node ID: 312, Op: *, Children: ["310", "311"], Eclass: 312, Cost: 4
+Order: 282, Node ID: 314, Op: *, Children: ["309", "313"], Eclass: 314, Cost: 4
+Order: 283, Node ID: 315, Op: *, Children: ["299", "314"], Eclass: 315, Cost: 4
+Order: 284, Node ID: 318, Op: *, Children: ["316", "317"], Eclass: 318, Cost: 4
+Order: 285, Node ID: 322, Op: *, Children: ["320", "321"], Eclass: 322, Cost: 4
+Order: 286, Node ID: 323, Op: *, Children: ["117", "245"], Eclass: 323, Cost: 4
+Order: 287, Node ID: 325, Op: *, Children: ["116", "244"], Eclass: 325, Cost: 4
+Order: 288, Node ID: 327, Op: *, Children: ["324", "326"], Eclass: 327, Cost: 4
+Order: 289, Node ID: 328, Op: *, Children: ["322", "327"], Eclass: 328, Cost: 4
+Order: 290, Node ID: 330, Op: *, Children: ["319", "329"], Eclass: 330, Cost: 4
+Order: 291, Node ID: 333, Op: *, Children: ["331", "332"], Eclass: 333, Cost: 4
+Order: 292, Node ID: 335, Op: *, Children: ["114", "242"], Eclass: 335, Cost: 4
+Order: 293, Node ID: 339, Op: *, Children: ["337", "338"], Eclass: 339, Cost: 4
+Order: 294, Node ID: 341, Op: *, Children: ["113", "241"], Eclass: 341, Cost: 4
+Order: 295, Node ID: 342, Op: *, Children: ["340", "341"], Eclass: 342, Cost: 4
+Order: 296, Node ID: 344, Op: *, Children: ["336", "343"], Eclass: 344, Cost: 4
+Order: 297, Node ID: 346, Op: *, Children: ["334", "345"], Eclass: 346, Cost: 4
+Order: 298, Node ID: 348, Op: *, Children: ["112", "240"], Eclass: 348, Cost: 4
+Order: 299, Node ID: 350, Op: *, Children: ["111", "239"], Eclass: 350, Cost: 4
+Order: 300, Node ID: 352, Op: *, Children: ["110", "238"], Eclass: 352, Cost: 4
+Order: 301, Node ID: 354, Op: *, Children: ["351", "353"], Eclass: 354, Cost: 4
+Order: 302, Node ID: 355, Op: *, Children: ["349", "354"], Eclass: 355, Cost: 4
+Order: 303, Node ID: 358, Op: *, Children: ["356", "357"], Eclass: 358, Cost: 4
+Order: 304, Node ID: 360, Op: *, Children: ["108", "236"], Eclass: 360, Cost: 4
+Order: 305, Node ID: 363, Op: *, Children: ["361", "362"], Eclass: 363, Cost: 4
+Order: 306, Node ID: 365, Op: *, Children: ["360", "364"], Eclass: 365, Cost: 4
+Order: 307, Node ID: 367, Op: *, Children: ["109", "237"], Eclass: 367, Cost: 4
+Order: 308, Node ID: 369, Op: *, Children: ["366", "368"], Eclass: 369, Cost: 4
+Order: 309, Node ID: 371, Op: *, Children: ["359", "370"], Eclass: 371, Cost: 4
+Order: 310, Node ID: 373, Op: *, Children: ["355", "372"], Eclass: 373, Cost: 4
+Order: 311, Node ID: 376, Op: *, Children: ["374", "375"], Eclass: 376, Cost: 4
+Order: 312, Node ID: 380, Op: *, Children: ["378", "379"], Eclass: 380, Cost: 4
+Order: 313, Node ID: 382, Op: *, Children: ["377", "381"], Eclass: 382, Cost: 4
+Order: 314, Node ID: 385, Op: *, Children: ["383", "384"], Eclass: 385, Cost: 4
+Order: 315, Node ID: 387, Op: *, Children: ["382", "386"], Eclass: 387, Cost: 4
+Order: 316, Node ID: 388, Op: *, Children: ["230", "102"], Eclass: 388, Cost: 4
+Order: 317, Node ID: 390, Op: *, Children: ["101", "229"], Eclass: 390, Cost: 4
+Order: 318, Node ID: 392, Op: *, Children: ["389", "391"], Eclass: 392, Cost: 4
+Order: 319, Node ID: 395, Op: *, Children: ["393", "394"], Eclass: 395, Cost: 4
+Order: 320, Node ID: 396, Op: *, Children: ["392", "395"], Eclass: 396, Cost: 4
+Order: 321, Node ID: 398, Op: *, Children: ["387", "397"], Eclass: 398, Cost: 4
+Order: 322, Node ID: 401, Op: *, Children: ["399", "400"], Eclass: 401, Cost: 4
+Order: 323, Node ID: 403, Op: *, Children: ["398", "402"], Eclass: 403, Cost: 4
+Order: 324, Node ID: 404, Op: *, Children: ["100", "228"], Eclass: 404, Cost: 4
+Order: 325, Node ID: 406, Op: *, Children: ["405", "392"], Eclass: 406, Cost: 4
+Order: 326, Node ID: 409, Op: *, Children: ["224", "96"], Eclass: 409, Cost: 4
+Order: 327, Node ID: 411, Op: *, Children: ["408", "410"], Eclass: 411, Cost: 4
+Order: 328, Node ID: 412, Op: *, Children: ["97", "225"], Eclass: 412, Cost: 4
+Order: 329, Node ID: 414, Op: *, Children: ["411", "413"], Eclass: 414, Cost: 4
+Order: 330, Node ID: 415, Op: *, Children: ["407", "414"], Eclass: 415, Cost: 4
+Order: 331, Node ID: 419, Op: *, Children: ["417", "418"], Eclass: 419, Cost: 4
+Order: 332, Node ID: 421, Op: *, Children: ["416", "420"], Eclass: 421, Cost: 4
+Order: 333, Node ID: 422, Op: *, Children: ["95", "223"], Eclass: 422, Cost: 4
+Order: 334, Node ID: 424, Op: *, Children: ["410", "423"], Eclass: 424, Cost: 4
+Order: 335, Node ID: 427, Op: *, Children: ["425", "426"], Eclass: 427, Cost: 4
+Order: 336, Node ID: 431, Op: *, Children: ["429", "430"], Eclass: 431, Cost: 4
+Order: 337, Node ID: 433, Op: *, Children: ["428", "432"], Eclass: 433, Cost: 4
+Order: 338, Node ID: 436, Op: *, Children: ["434", "435"], Eclass: 436, Cost: 4
+Order: 339, Node ID: 438, Op: *, Children: ["433", "437"], Eclass: 438, Cost: 4
+Order: 340, Node ID: 441, Op: *, Children: ["92", "220"], Eclass: 441, Cost: 4
+Order: 341, Node ID: 443, Op: *, Children: ["440", "442"], Eclass: 443, Cost: 4
+Order: 342, Node ID: 444, Op: *, Children: ["439", "443"], Eclass: 444, Cost: 4
+Order: 343, Node ID: 445, Op: *, Children: ["91", "219"], Eclass: 445, Cost: 4
+Order: 344, Node ID: 447, Op: *, Children: ["444", "446"], Eclass: 447, Cost: 4
+Order: 345, Node ID: 451, Op: *, Children: ["449", "450"], Eclass: 451, Cost: 4
+Order: 346, Node ID: 453, Op: *, Children: ["448", "452"], Eclass: 453, Cost: 4
+Order: 347, Node ID: 454, Op: *, Children: ["438", "453"], Eclass: 454, Cost: 4
+Order: 348, Node ID: 455, Op: *, Children: ["90", "218"], Eclass: 455, Cost: 4
+Order: 349, Node ID: 457, Op: *, Children: ["442", "456"], Eclass: 457, Cost: 4
+Order: 350, Node ID: 458, Op: *, Children: ["87", "215"], Eclass: 458, Cost: 4
+Order: 351, Node ID: 460, Op: *, Children: ["86", "214"], Eclass: 460, Cost: 4
+Order: 352, Node ID: 463, Op: *, Children: ["461", "462"], Eclass: 463, Cost: 4
+Order: 353, Node ID: 465, Op: *, Children: ["463", "464"], Eclass: 465, Cost: 4
+Order: 354, Node ID: 466, Op: *, Children: ["459", "465"], Eclass: 466, Cost: 4
+Order: 355, Node ID: 470, Op: *, Children: ["468", "469"], Eclass: 470, Cost: 4
+Order: 356, Node ID: 472, Op: *, Children: ["467", "471"], Eclass: 472, Cost: 4
+Order: 357, Node ID: 475, Op: *, Children: ["473", "474"], Eclass: 475, Cost: 4
+Order: 358, Node ID: 479, Op: *, Children: ["477", "478"], Eclass: 479, Cost: 4
+Order: 359, Node ID: 481, Op: *, Children: ["476", "480"], Eclass: 481, Cost: 4
+Order: 360, Node ID: 484, Op: *, Children: ["482", "483"], Eclass: 484, Cost: 4
+Order: 361, Node ID: 486, Op: *, Children: ["481", "485"], Eclass: 486, Cost: 4
+Order: 362, Node ID: 489, Op: *, Children: ["487", "488"], Eclass: 489, Cost: 4
+Order: 363, Node ID: 493, Op: *, Children: ["491", "492"], Eclass: 493, Cost: 4
+Order: 364, Node ID: 495, Op: *, Children: ["78", "206"], Eclass: 495, Cost: 4
+Order: 365, Node ID: 496, Op: *, Children: ["494", "495"], Eclass: 496, Cost: 4
+Order: 366, Node ID: 498, Op: *, Children: ["79", "207"], Eclass: 498, Cost: 4
+Order: 367, Node ID: 500, Op: *, Children: ["497", "499"], Eclass: 500, Cost: 4
+Order: 368, Node ID: 502, Op: *, Children: ["490", "501"], Eclass: 502, Cost: 4
+Order: 369, Node ID: 506, Op: *, Children: ["205", "77"], Eclass: 506, Cost: 4
+Order: 370, Node ID: 508, Op: *, Children: ["505", "507"], Eclass: 508, Cost: 4
+Order: 371, Node ID: 509, Op: *, Children: ["504", "508"], Eclass: 509, Cost: 4
+Order: 372, Node ID: 510, Op: *, Children: ["76", "204"], Eclass: 510, Cost: 4
+Order: 373, Node ID: 512, Op: *, Children: ["509", "511"], Eclass: 512, Cost: 4
+Order: 374, Node ID: 516, Op: *, Children: ["514", "515"], Eclass: 516, Cost: 4
+Order: 375, Node ID: 518, Op: *, Children: ["513", "517"], Eclass: 518, Cost: 4
+Order: 376, Node ID: 521, Op: *, Children: ["519", "520"], Eclass: 521, Cost: 4
+Order: 377, Node ID: 525, Op: *, Children: ["523", "524"], Eclass: 525, Cost: 4
+Order: 378, Node ID: 527, Op: *, Children: ["201", "73"], Eclass: 527, Cost: 4
+Order: 379, Node ID: 528, Op: *, Children: ["526", "527"], Eclass: 528, Cost: 4
+Order: 380, Node ID: 530, Op: *, Children: ["202", "74"], Eclass: 530, Cost: 4
+Order: 381, Node ID: 532, Op: *, Children: ["529", "531"], Eclass: 532, Cost: 4
+Order: 382, Node ID: 534, Op: *, Children: ["522", "533"], Eclass: 534, Cost: 4
+Order: 383, Node ID: 536, Op: *, Children: ["522", "526"], Eclass: 536, Cost: 4
+Order: 384, Node ID: 539, Op: *, Children: ["537", "538"], Eclass: 539, Cost: 4
+Order: 385, Node ID: 541, Op: *, Children: ["536", "540"], Eclass: 541, Cost: 4
+Order: 386, Node ID: 542, Op: *, Children: ["71", "199"], Eclass: 542, Cost: 4
+Order: 387, Node ID: 544, Op: *, Children: ["72", "200"], Eclass: 544, Cost: 4
+Order: 388, Node ID: 547, Op: *, Children: ["545", "546"], Eclass: 547, Cost: 4
+Order: 389, Node ID: 548, Op: *, Children: ["543", "547"], Eclass: 548, Cost: 4
+Order: 390, Node ID: 550, Op: *, Children: ["548", "549"], Eclass: 550, Cost: 4
+Order: 391, Node ID: 554, Op: *, Children: ["552", "553"], Eclass: 554, Cost: 4
+Order: 392, Node ID: 556, Op: *, Children: ["551", "555"], Eclass: 556, Cost: 4
+Order: 393, Node ID: 559, Op: *, Children: ["557", "558"], Eclass: 559, Cost: 4
+Order: 394, Node ID: 561, Op: *, Children: ["63", "191"], Eclass: 561, Cost: 4
+Order: 395, Node ID: 564, Op: *, Children: ["562", "563"], Eclass: 564, Cost: 4
+Order: 396, Node ID: 566, Op: *, Children: ["561", "565"], Eclass: 566, Cost: 4
+Order: 397, Node ID: 568, Op: *, Children: ["64", "192"], Eclass: 568, Cost: 4
+Order: 398, Node ID: 570, Op: *, Children: ["567", "569"], Eclass: 570, Cost: 4
+Order: 399, Node ID: 572, Op: *, Children: ["560", "571"], Eclass: 572, Cost: 4
+Order: 400, Node ID: 574, Op: *, Children: ["560", "565"], Eclass: 574, Cost: 4
+Order: 401, Node ID: 577, Op: *, Children: ["575", "576"], Eclass: 577, Cost: 4
+Order: 402, Node ID: 579, Op: *, Children: ["574", "578"], Eclass: 579, Cost: 4
+Order: 403, Node ID: 582, Op: *, Children: ["580", "581"], Eclass: 582, Cost: 4
+Order: 404, Node ID: 584, Op: *, Children: ["579", "583"], Eclass: 584, Cost: 4
+Order: 405, Node ID: 585, Op: *, Children: ["61", "189"], Eclass: 585, Cost: 4
+Order: 406, Node ID: 587, Op: *, Children: ["190", "62"], Eclass: 587, Cost: 4
+Order: 407, Node ID: 590, Op: *, Children: ["588", "589"], Eclass: 590, Cost: 4
+Order: 408, Node ID: 591, Op: *, Children: ["586", "590"], Eclass: 591, Cost: 4
+Order: 409, Node ID: 593, Op: *, Children: ["591", "592"], Eclass: 593, Cost: 4
+Order: 410, Node ID: 595, Op: *, Children: ["584", "594"], Eclass: 595, Cost: 4
+Order: 411, Node ID: 598, Op: *, Children: ["596", "597"], Eclass: 598, Cost: 4
+Order: 412, Node ID: 602, Op: *, Children: ["600", "601"], Eclass: 602, Cost: 4
+Order: 413, Node ID: 604, Op: *, Children: ["603", "58"], Eclass: 604, Cost: 4
+Order: 414, Node ID: 605, Op: *, Children: ["604", "186"], Eclass: 605, Cost: 4
+Order: 415, Node ID: 607, Op: *, Children: ["59", "187"], Eclass: 607, Cost: 4
+Order: 416, Node ID: 609, Op: *, Children: ["606", "608"], Eclass: 609, Cost: 4
+Order: 417, Node ID: 611, Op: *, Children: ["599", "610"], Eclass: 611, Cost: 4
+Order: 418, Node ID: 615, Op: *, Children: ["613", "614"], Eclass: 615, Cost: 4
+Order: 419, Node ID: 617, Op: *, Children: ["616", "603"], Eclass: 617, Cost: 4
+Order: 420, Node ID: 618, Op: *, Children: ["599", "617"], Eclass: 618, Cost: 4
+Order: 421, Node ID: 619, Op: *, Children: ["55", "183"], Eclass: 619, Cost: 4
+Order: 422, Node ID: 621, Op: *, Children: ["57", "185"], Eclass: 621, Cost: 4
+Order: 423, Node ID: 623, Op: *, Children: ["620", "622"], Eclass: 623, Cost: 4
+Order: 424, Node ID: 624, Op: *, Children: ["184", "56"], Eclass: 624, Cost: 4
+Order: 425, Node ID: 626, Op: *, Children: ["623", "625"], Eclass: 626, Cost: 4
+Order: 426, Node ID: 629, Op: *, Children: ["627", "628"], Eclass: 629, Cost: 4
+Order: 427, Node ID: 633, Op: *, Children: ["631", "632"], Eclass: 633, Cost: 4
+Order: 428, Node ID: 635, Op: *, Children: ["53", "181"], Eclass: 635, Cost: 4
+Order: 429, Node ID: 636, Op: *, Children: ["634", "635"], Eclass: 636, Cost: 4
+Order: 430, Node ID: 638, Op: *, Children: ["182", "54"], Eclass: 638, Cost: 4
+Order: 431, Node ID: 640, Op: *, Children: ["637", "639"], Eclass: 640, Cost: 4
+Order: 432, Node ID: 642, Op: *, Children: ["630", "641"], Eclass: 642, Cost: 4
+Order: 433, Node ID: 644, Op: *, Children: ["626", "643"], Eclass: 644, Cost: 4
+Order: 434, Node ID: 645, Op: *, Children: ["52", "180"], Eclass: 645, Cost: 4
+Order: 435, Node ID: 649, Op: *, Children: ["647", "648"], Eclass: 649, Cost: 4
+Order: 436, Node ID: 651, Op: *, Children: ["51", "179"], Eclass: 651, Cost: 4
+Order: 437, Node ID: 654, Op: *, Children: ["652", "653"], Eclass: 654, Cost: 4
+Order: 438, Node ID: 656, Op: *, Children: ["654", "655"], Eclass: 656, Cost: 4
+Order: 439, Node ID: 658, Op: *, Children: ["650", "657"], Eclass: 658, Cost: 4
+Order: 440, Node ID: 660, Op: *, Children: ["646", "659"], Eclass: 660, Cost: 4
+Order: 441, Node ID: 664, Op: *, Children: ["662", "663"], Eclass: 664, Cost: 4
+Order: 442, Node ID: 668, Op: *, Children: ["666", "667"], Eclass: 668, Cost: 4
+Order: 443, Node ID: 670, Op: *, Children: ["665", "669"], Eclass: 670, Cost: 4
+Order: 444, Node ID: 673, Op: *, Children: ["671", "672"], Eclass: 673, Cost: 4
+Order: 445, Node ID: 675, Op: *, Children: ["670", "674"], Eclass: 675, Cost: 4
+Order: 446, Node ID: 676, Op: *, Children: ["169", "41"], Eclass: 676, Cost: 4
+Order: 447, Node ID: 678, Op: *, Children: ["170", "42"], Eclass: 678, Cost: 4
+Order: 448, Node ID: 680, Op: *, Children: ["40", "168"], Eclass: 680, Cost: 4
+Order: 449, Node ID: 682, Op: *, Children: ["679", "681"], Eclass: 682, Cost: 4
+Order: 450, Node ID: 683, Op: *, Children: ["37", "165"], Eclass: 683, Cost: 4
+Order: 451, Node ID: 685, Op: *, Children: ["36", "164"], Eclass: 685, Cost: 4
+Order: 452, Node ID: 687, Op: *, Children: ["684", "686"], Eclass: 687, Cost: 4
+Order: 453, Node ID: 688, Op: *, Children: ["35", "163"], Eclass: 688, Cost: 4
+Order: 454, Node ID: 690, Op: *, Children: ["687", "689"], Eclass: 690, Cost: 4
+Order: 455, Node ID: 691, Op: *, Children: ["32", "160"], Eclass: 691, Cost: 4
+Order: 456, Node ID: 693, Op: *, Children: ["31", "159"], Eclass: 693, Cost: 4
+Order: 457, Node ID: 695, Op: *, Children: ["692", "694"], Eclass: 695, Cost: 4
+Order: 458, Node ID: 696, Op: *, Children: ["30", "158"], Eclass: 696, Cost: 4
+Order: 459, Node ID: 698, Op: *, Children: ["695", "697"], Eclass: 698, Cost: 4
+Order: 460, Node ID: 701, Op: *, Children: ["699", "700"], Eclass: 701, Cost: 4
+Order: 461, Node ID: 705, Op: *, Children: ["703", "704"], Eclass: 705, Cost: 4
+Order: 462, Node ID: 707, Op: *, Children: ["706", "28"], Eclass: 707, Cost: 4
+Order: 463, Node ID: 708, Op: *, Children: ["707", "156"], Eclass: 708, Cost: 4
+Order: 464, Node ID: 710, Op: *, Children: ["29", "157"], Eclass: 710, Cost: 4
+Order: 465, Node ID: 712, Op: *, Children: ["709", "711"], Eclass: 712, Cost: 4
+Order: 466, Node ID: 714, Op: *, Children: ["702", "713"], Eclass: 714, Cost: 4
+Order: 467, Node ID: 716, Op: *, Children: ["698", "715"], Eclass: 716, Cost: 4
+Order: 468, Node ID: 719, Op: *, Children: ["717", "718"], Eclass: 719, Cost: 4
+Order: 469, Node ID: 721, Op: *, Children: ["720", "706"], Eclass: 721, Cost: 4
+Order: 470, Node ID: 722, Op: *, Children: ["721", "702"], Eclass: 722, Cost: 4
+Order: 471, Node ID: 725, Op: *, Children: ["723", "724"], Eclass: 725, Cost: 4
+Order: 472, Node ID: 726, Op: *, Children: ["27", "155"], Eclass: 726, Cost: 4
+Order: 473, Node ID: 728, Op: *, Children: ["725", "727"], Eclass: 728, Cost: 4
+Order: 474, Node ID: 729, Op: *, Children: ["154", "26"], Eclass: 729, Cost: 4
+Order: 475, Node ID: 731, Op: *, Children: ["728", "730"], Eclass: 731, Cost: 4
+Order: 476, Node ID: 733, Op: *, Children: ["722", "732"], Eclass: 733, Cost: 4
+Order: 477, Node ID: 736, Op: *, Children: ["734", "735"], Eclass: 736, Cost: 4
+Order: 478, Node ID: 738, Op: *, Children: ["733", "737"], Eclass: 738, Cost: 4
+Order: 479, Node ID: 739, Op: *, Children: ["730", "727"], Eclass: 739, Cost: 4
+Order: 480, Node ID: 740, Op: *, Children: ["25", "153"], Eclass: 740, Cost: 4
+Order: 481, Node ID: 742, Op: *, Children: ["22", "150"], Eclass: 742, Cost: 4
+Order: 482, Node ID: 744, Op: *, Children: ["21", "149"], Eclass: 744, Cost: 4
+Order: 483, Node ID: 746, Op: *, Children: ["20", "148"], Eclass: 746, Cost: 4
+Order: 484, Node ID: 748, Op: *, Children: ["745", "747"], Eclass: 748, Cost: 4
+Order: 485, Node ID: 749, Op: *, Children: ["743", "748"], Eclass: 749, Cost: 4
+Order: 486, Node ID: 752, Op: *, Children: ["750", "751"], Eclass: 752, Cost: 4
+Order: 487, Node ID: 756, Op: *, Children: ["754", "755"], Eclass: 756, Cost: 4
+Order: 488, Node ID: 758, Op: *, Children: ["753", "757"], Eclass: 758, Cost: 4
+Order: 489, Node ID: 761, Op: *, Children: ["759", "760"], Eclass: 761, Cost: 4
+Order: 490, Node ID: 763, Op: *, Children: ["758", "762"], Eclass: 763, Cost: 4
+Order: 491, Node ID: 766, Op: *, Children: ["764", "765"], Eclass: 766, Cost: 4
+Order: 492, Node ID: 770, Op: *, Children: ["768", "769"], Eclass: 770, Cost: 4
+Order: 493, Node ID: 772, Op: *, Children: ["771", "136"], Eclass: 772, Cost: 4
+Order: 494, Node ID: 773, Op: *, Children: ["772", "8"], Eclass: 773, Cost: 4
+Order: 495, Node ID: 775, Op: *, Children: ["9", "137"], Eclass: 775, Cost: 4
+Order: 496, Node ID: 777, Op: *, Children: ["774", "776"], Eclass: 777, Cost: 4
+Order: 497, Node ID: 779, Op: *, Children: ["767", "778"], Eclass: 779, Cost: 4
+Order: 498, Node ID: 783, Op: *, Children: ["781", "782"], Eclass: 783, Cost: 4
+Order: 499, Node ID: 787, Op: *, Children: ["6", "134"], Eclass: 787, Cost: 4
+Order: 500, Node ID: 789, Op: *, Children: ["786", "788"], Eclass: 789, Cost: 4
+Order: 501, Node ID: 790, Op: *, Children: ["785", "789"], Eclass: 790, Cost: 4
+Order: 502, Node ID: 791, Op: *, Children: ["135", "7"], Eclass: 791, Cost: 4
+Order: 503, Node ID: 793, Op: *, Children: ["790", "792"], Eclass: 793, Cost: 4
+Order: 504, Node ID: 795, Op: *, Children: ["784", "794"], Eclass: 795, Cost: 4
+Order: 505, Node ID: 796, Op: *, Children: ["5", "133"], Eclass: 796, Cost: 4
+Order: 506, Node ID: 798, Op: *, Children: ["797", "788"], Eclass: 798, Cost: 4
+Order: 507, Node ID: 801, Op: *, Children: ["799", "800"], Eclass: 801, Cost: 4
+Order: 508, Node ID: 803, Op: *, Children: ["129", "1"], Eclass: 803, Cost: 4
+Order: 509, Node ID: 804, Op: *, Children: ["802", "803"], Eclass: 804, Cost: 4
+Order: 510, Node ID: 806, Op: *, Children: ["130", "2"], Eclass: 806, Cost: 4
+Order: 511, Node ID: 808, Op: *, Children: ["805", "807"], Eclass: 808, Cost: 4
+Order: 512, Node ID: 812, Op: *, Children: ["810", "811"], Eclass: 812, Cost: 4
+Order: 513, Node ID: 814, Op: *, Children: ["809", "813"], Eclass: 814, Cost: 4
+Order: 514, Node ID: 817, Op: *, Children: ["815", "816"], Eclass: 817, Cost: 4
+Order: 515, Node ID: 819, Op: *, Children: ["814", "818"], Eclass: 819, Cost: 4
+Order: 516, Node ID: 822, Op: *, Children: ["820", "821"], Eclass: 822, Cost: 4
+Order: 517, Node ID: 824, Op: *, Children: ["819", "823"], Eclass: 824, Cost: 4
+Order: 518, Node ID: 826, Op: *, Children: ["4", "132"], Eclass: 826, Cost: 4
+Order: 519, Node ID: 828, Op: *, Children: ["3", "131"], Eclass: 828, Cost: 4
+Order: 520, Node ID: 829, Op: *, Children: ["828", "818"], Eclass: 829, Cost: 4
+Order: 521, Node ID: 831, Op: *, Children: ["827", "830"], Eclass: 831, Cost: 4
+Order: 522, Node ID: 833, Op: *, Children: ["823", "832"], Eclass: 833, Cost: 4
+Order: 523, Node ID: 835, Op: *, Children: ["825", "834"], Eclass: 835, Cost: 4
+Order: 524, Node ID: 836, Op: *, Children: ["792", "835"], Eclass: 836, Cost: 4
+Order: 525, Node ID: 837, Op: *, Children: ["798", "836"], Eclass: 837, Cost: 4
+Order: 526, Node ID: 839, Op: *, Children: ["795", "838"], Eclass: 839, Cost: 4
+Order: 527, Node ID: 840, Op: *, Children: ["839", "767"], Eclass: 840, Cost: 4
+Order: 528, Node ID: 841, Op: *, Children: ["840", "771"], Eclass: 841, Cost: 4
+Order: 529, Node ID: 844, Op: *, Children: ["842", "843"], Eclass: 844, Cost: 4
+Order: 530, Node ID: 846, Op: *, Children: ["841", "845"], Eclass: 846, Cost: 4
+Order: 531, Node ID: 848, Op: *, Children: ["780", "847"], Eclass: 848, Cost: 4
+Order: 532, Node ID: 849, Op: *, Children: ["12", "140"], Eclass: 849, Cost: 4
+Order: 533, Node ID: 851, Op: *, Children: ["11", "139"], Eclass: 851, Cost: 4
+Order: 534, Node ID: 853, Op: *, Children: ["850", "852"], Eclass: 853, Cost: 4
+Order: 535, Node ID: 854, Op: *, Children: ["848", "853"], Eclass: 854, Cost: 4
+Order: 536, Node ID: 855, Op: *, Children: ["138", "10"], Eclass: 855, Cost: 4
+Order: 537, Node ID: 857, Op: *, Children: ["854", "856"], Eclass: 857, Cost: 4
+Order: 538, Node ID: 860, Op: *, Children: ["852", "859"], Eclass: 860, Cost: 4
+Order: 539, Node ID: 862, Op: *, Children: ["860", "861"], Eclass: 862, Cost: 4
+Order: 540, Node ID: 866, Op: *, Children: ["864", "865"], Eclass: 866, Cost: 4
+Order: 541, Node ID: 868, Op: *, Children: ["863", "867"], Eclass: 868, Cost: 4
+Order: 542, Node ID: 870, Op: *, Children: ["850", "869"], Eclass: 870, Cost: 4
+Order: 543, Node ID: 874, Op: *, Children: ["872", "873"], Eclass: 874, Cost: 4
+Order: 544, Node ID: 878, Op: *, Children: ["876", "877"], Eclass: 878, Cost: 4
+Order: 545, Node ID: 880, Op: *, Children: ["875", "879"], Eclass: 880, Cost: 4
+Order: 546, Node ID: 881, Op: *, Children: ["871", "880"], Eclass: 881, Cost: 4
+Order: 547, Node ID: 882, Op: *, Children: ["858", "881"], Eclass: 882, Cost: 4
+Order: 548, Node ID: 885, Op: *, Children: ["883", "884"], Eclass: 885, Cost: 4
+Order: 549, Node ID: 887, Op: *, Children: ["882", "886"], Eclass: 887, Cost: 4
+Order: 550, Node ID: 889, Op: *, Children: ["14", "142"], Eclass: 889, Cost: 4
+Order: 551, Node ID: 891, Op: *, Children: ["13", "141"], Eclass: 891, Cost: 4
+Order: 552, Node ID: 892, Op: *, Children: ["886", "891"], Eclass: 892, Cost: 4
+Order: 553, Node ID: 894, Op: *, Children: ["890", "893"], Eclass: 894, Cost: 4
+Order: 554, Node ID: 896, Op: *, Children: ["875", "895"], Eclass: 896, Cost: 4
+Order: 555, Node ID: 898, Op: *, Children: ["17", "145"], Eclass: 898, Cost: 4
+Order: 556, Node ID: 900, Op: *, Children: ["16", "144"], Eclass: 900, Cost: 4
+Order: 557, Node ID: 902, Op: *, Children: ["15", "143"], Eclass: 902, Cost: 4
+Order: 558, Node ID: 904, Op: *, Children: ["901", "903"], Eclass: 904, Cost: 4
+Order: 559, Node ID: 905, Op: *, Children: ["899", "904"], Eclass: 905, Cost: 4
+Order: 560, Node ID: 906, Op: *, Children: ["897", "905"], Eclass: 906, Cost: 4
+Order: 561, Node ID: 907, Op: *, Children: ["888", "906"], Eclass: 907, Cost: 4
+Order: 562, Node ID: 910, Op: *, Children: ["901", "909"], Eclass: 910, Cost: 4
+Order: 563, Node ID: 911, Op: *, Children: ["899", "910"], Eclass: 911, Cost: 4
+Order: 564, Node ID: 913, Op: *, Children: ["911", "912"], Eclass: 913, Cost: 4
+Order: 565, Node ID: 917, Op: *, Children: ["915", "916"], Eclass: 917, Cost: 4
+Order: 566, Node ID: 919, Op: *, Children: ["914", "918"], Eclass: 919, Cost: 4
+Order: 567, Node ID: 920, Op: *, Children: ["908", "919"], Eclass: 920, Cost: 4
+Order: 568, Node ID: 921, Op: *, Children: ["763", "920"], Eclass: 921, Cost: 4
+Order: 569, Node ID: 923, Op: *, Children: ["749", "922"], Eclass: 923, Cost: 4
+Order: 570, Node ID: 924, Op: *, Children: ["18", "146"], Eclass: 924, Cost: 4
+Order: 571, Node ID: 925, Op: *, Children: ["757", "924"], Eclass: 925, Cost: 4
+Order: 572, Node ID: 927, Op: *, Children: ["19", "147"], Eclass: 927, Cost: 4
+Order: 573, Node ID: 929, Op: *, Children: ["926", "928"], Eclass: 929, Cost: 4
+Order: 574, Node ID: 931, Op: *, Children: ["753", "930"], Eclass: 931, Cost: 4
+Order: 575, Node ID: 933, Op: *, Children: ["923", "932"], Eclass: 933, Cost: 4
+Order: 576, Node ID: 936, Op: *, Children: ["745", "935"], Eclass: 936, Cost: 4
+Order: 577, Node ID: 938, Op: *, Children: ["936", "937"], Eclass: 938, Cost: 4
+Order: 578, Node ID: 942, Op: *, Children: ["940", "941"], Eclass: 942, Cost: 4
+Order: 579, Node ID: 944, Op: *, Children: ["939", "943"], Eclass: 944, Cost: 4
+Order: 580, Node ID: 946, Op: *, Children: ["743", "945"], Eclass: 946, Cost: 4
+Order: 581, Node ID: 948, Op: *, Children: ["934", "947"], Eclass: 948, Cost: 4
+Order: 582, Node ID: 951, Op: *, Children: ["949", "950"], Eclass: 951, Cost: 4
+Order: 583, Node ID: 953, Op: *, Children: ["948", "952"], Eclass: 953, Cost: 4
+Order: 584, Node ID: 956, Op: *, Children: ["954", "955"], Eclass: 956, Cost: 4
+Order: 585, Node ID: 960, Op: *, Children: ["958", "959"], Eclass: 960, Cost: 4
+Order: 586, Node ID: 962, Op: *, Children: ["957", "961"], Eclass: 962, Cost: 4
+Order: 587, Node ID: 963, Op: *, Children: ["953", "962"], Eclass: 963, Cost: 4
+Order: 588, Node ID: 965, Op: *, Children: ["151", "23"], Eclass: 965, Cost: 4
+Order: 589, Node ID: 966, Op: *, Children: ["961", "965"], Eclass: 966, Cost: 4
+Order: 590, Node ID: 968, Op: *, Children: ["24", "152"], Eclass: 968, Cost: 4
+Order: 591, Node ID: 970, Op: *, Children: ["967", "969"], Eclass: 970, Cost: 4
+Order: 592, Node ID: 972, Op: *, Children: ["952", "971"], Eclass: 972, Cost: 4
+Order: 593, Node ID: 974, Op: *, Children: ["964", "973"], Eclass: 974, Cost: 4
+Order: 594, Node ID: 975, Op: *, Children: ["741", "974"], Eclass: 975, Cost: 4
+Order: 595, Node ID: 976, Op: *, Children: ["739", "975"], Eclass: 976, Cost: 4
+Order: 596, Node ID: 978, Op: *, Children: ["738", "977"], Eclass: 978, Cost: 4
+Order: 597, Node ID: 980, Op: *, Children: ["716", "979"], Eclass: 980, Cost: 4
+Order: 598, Node ID: 984, Op: *, Children: ["982", "983"], Eclass: 984, Cost: 4
+Order: 599, Node ID: 987, Op: *, Children: ["694", "986"], Eclass: 987, Cost: 4
+Order: 600, Node ID: 988, Op: *, Children: ["692", "987"], Eclass: 988, Cost: 4
+Order: 601, Node ID: 990, Op: *, Children: ["988", "989"], Eclass: 990, Cost: 4
+Order: 602, Node ID: 992, Op: *, Children: ["985", "991"], Eclass: 992, Cost: 4
+Order: 603, Node ID: 995, Op: *, Children: ["993", "994"], Eclass: 995, Cost: 4
+Order: 604, Node ID: 997, Op: *, Children: ["992", "996"], Eclass: 997, Cost: 4
+Order: 605, Node ID: 998, Op: *, Children: ["981", "997"], Eclass: 998, Cost: 4
+Order: 606, Node ID: 1001, Op: *, Children: ["999", "1000"], Eclass: 1001, Cost: 4
+Order: 607, Node ID: 1005, Op: *, Children: ["1003", "1004"], Eclass: 1005, Cost: 4
+Order: 608, Node ID: 1007, Op: *, Children: ["1002", "1006"], Eclass: 1007, Cost: 4
+Order: 609, Node ID: 1008, Op: *, Children: ["998", "1007"], Eclass: 1008, Cost: 4
+Order: 610, Node ID: 1010, Op: *, Children: ["34", "162"], Eclass: 1010, Cost: 4
+Order: 611, Node ID: 1012, Op: *, Children: ["1006", "33"], Eclass: 1012, Cost: 4
+Order: 612, Node ID: 1013, Op: *, Children: ["1012", "161"], Eclass: 1013, Cost: 4
+Order: 613, Node ID: 1015, Op: *, Children: ["1011", "1014"], Eclass: 1015, Cost: 4
+Order: 614, Node ID: 1017, Op: *, Children: ["996", "1016"], Eclass: 1017, Cost: 4
+Order: 615, Node ID: 1019, Op: *, Children: ["1009", "1018"], Eclass: 1019, Cost: 4
+Order: 616, Node ID: 1020, Op: *, Children: ["690", "1019"], Eclass: 1020, Cost: 4
+Order: 617, Node ID: 1024, Op: *, Children: ["1022", "1023"], Eclass: 1024, Cost: 4
+Order: 618, Node ID: 1026, Op: *, Children: ["1021", "1025"], Eclass: 1026, Cost: 4
+Order: 619, Node ID: 1029, Op: *, Children: ["1027", "1028"], Eclass: 1029, Cost: 4
+Order: 620, Node ID: 1030, Op: *, Children: ["1029", "687"], Eclass: 1030, Cost: 4
+Order: 621, Node ID: 1032, Op: *, Children: ["1026", "1031"], Eclass: 1032, Cost: 4
+Order: 622, Node ID: 1035, Op: *, Children: ["1033", "1034"], Eclass: 1035, Cost: 4
+Order: 623, Node ID: 1037, Op: *, Children: ["1032", "1036"], Eclass: 1037, Cost: 4
+Order: 624, Node ID: 1040, Op: *, Children: ["1038", "1039"], Eclass: 1040, Cost: 4
+Order: 625, Node ID: 1042, Op: *, Children: ["1037", "1041"], Eclass: 1042, Cost: 4
+Order: 626, Node ID: 1045, Op: *, Children: ["1043", "1044"], Eclass: 1045, Cost: 4
+Order: 627, Node ID: 1047, Op: *, Children: ["1042", "1046"], Eclass: 1047, Cost: 4
+Order: 628, Node ID: 1049, Op: *, Children: ["166", "38"], Eclass: 1049, Cost: 4
+Order: 629, Node ID: 1050, Op: *, Children: ["1041", "1049"], Eclass: 1050, Cost: 4
+Order: 630, Node ID: 1052, Op: *, Children: ["39", "167"], Eclass: 1052, Cost: 4
+Order: 631, Node ID: 1054, Op: *, Children: ["1051", "1053"], Eclass: 1054, Cost: 4
+Order: 632, Node ID: 1056, Op: *, Children: ["1046", "1055"], Eclass: 1056, Cost: 4
+Order: 633, Node ID: 1058, Op: *, Children: ["1048", "1057"], Eclass: 1058, Cost: 4
+Order: 634, Node ID: 1059, Op: *, Children: ["682", "1058"], Eclass: 1059, Cost: 4
+Order: 635, Node ID: 1060, Op: *, Children: ["677", "1059"], Eclass: 1060, Cost: 4
+Order: 636, Node ID: 1062, Op: *, Children: ["675", "1061"], Eclass: 1062, Cost: 4
+Order: 637, Node ID: 1065, Op: *, Children: ["1063", "1064"], Eclass: 1065, Cost: 4
+Order: 638, Node ID: 1067, Op: *, Children: ["1062", "1066"], Eclass: 1067, Cost: 4
+Order: 639, Node ID: 1069, Op: *, Children: ["679", "1068"], Eclass: 1069, Cost: 4
+Order: 640, Node ID: 1070, Op: *, Children: ["677", "1069"], Eclass: 1070, Cost: 4
+Order: 641, Node ID: 1072, Op: *, Children: ["1070", "1071"], Eclass: 1072, Cost: 4
+Order: 642, Node ID: 1074, Op: *, Children: ["1067", "1073"], Eclass: 1074, Cost: 4
+Order: 643, Node ID: 1076, Op: *, Children: ["43", "171"], Eclass: 1076, Cost: 4
+Order: 644, Node ID: 1077, Op: *, Children: ["674", "1076"], Eclass: 1077, Cost: 4
+Order: 645, Node ID: 1079, Op: *, Children: ["44", "172"], Eclass: 1079, Cost: 4
+Order: 646, Node ID: 1081, Op: *, Children: ["1078", "1080"], Eclass: 1081, Cost: 4
+Order: 647, Node ID: 1083, Op: *, Children: ["665", "1082"], Eclass: 1083, Cost: 4
+Order: 648, Node ID: 1085, Op: *, Children: ["1075", "1084"], Eclass: 1085, Cost: 4
+Order: 649, Node ID: 1086, Op: *, Children: ["45", "173"], Eclass: 1086, Cost: 4
+Order: 650, Node ID: 1088, Op: *, Children: ["1085", "1087"], Eclass: 1088, Cost: 4
+Order: 651, Node ID: 1089, Op: *, Children: ["46", "174"], Eclass: 1089, Cost: 4
+Order: 652, Node ID: 1091, Op: *, Children: ["47", "175"], Eclass: 1091, Cost: 4
+Order: 653, Node ID: 1093, Op: *, Children: ["1090", "1092"], Eclass: 1093, Cost: 4
+Order: 654, Node ID: 1094, Op: *, Children: ["1088", "1093"], Eclass: 1094, Cost: 4
+Order: 655, Node ID: 1098, Op: *, Children: ["1096", "1097"], Eclass: 1098, Cost: 4
+Order: 656, Node ID: 1101, Op: *, Children: ["1090", "1100"], Eclass: 1101, Cost: 4
+Order: 657, Node ID: 1103, Op: *, Children: ["1101", "1102"], Eclass: 1103, Cost: 4
+Order: 658, Node ID: 1105, Op: *, Children: ["1099", "1104"], Eclass: 1105, Cost: 4
+Order: 659, Node ID: 1107, Op: *, Children: ["1092", "1106"], Eclass: 1107, Cost: 4
+Order: 660, Node ID: 1111, Op: *, Children: ["1109", "1110"], Eclass: 1111, Cost: 4
+Order: 661, Node ID: 1115, Op: *, Children: ["1113", "1114"], Eclass: 1115, Cost: 4
+Order: 662, Node ID: 1117, Op: *, Children: ["1112", "1116"], Eclass: 1117, Cost: 4
+Order: 663, Node ID: 1118, Op: *, Children: ["1108", "1117"], Eclass: 1118, Cost: 4
+Order: 664, Node ID: 1121, Op: *, Children: ["1119", "1120"], Eclass: 1121, Cost: 4
+Order: 665, Node ID: 1123, Op: *, Children: ["1118", "1122"], Eclass: 1123, Cost: 4
+Order: 666, Node ID: 1124, Op: *, Children: ["1095", "1123"], Eclass: 1124, Cost: 4
+Order: 667, Node ID: 1126, Op: *, Children: ["49", "177"], Eclass: 1126, Cost: 4
+Order: 668, Node ID: 1128, Op: *, Children: ["1122", "176"], Eclass: 1128, Cost: 4
+Order: 669, Node ID: 1129, Op: *, Children: ["1128", "48"], Eclass: 1129, Cost: 4
+Order: 670, Node ID: 1131, Op: *, Children: ["1127", "1130"], Eclass: 1131, Cost: 4
+Order: 671, Node ID: 1133, Op: *, Children: ["1112", "1132"], Eclass: 1133, Cost: 4
+Order: 672, Node ID: 1135, Op: *, Children: ["1125", "1134"], Eclass: 1135, Cost: 4
+Order: 673, Node ID: 1136, Op: *, Children: ["178", "50"], Eclass: 1136, Cost: 4
+Order: 674, Node ID: 1138, Op: *, Children: ["1135", "1137"], Eclass: 1138, Cost: 4
+Order: 675, Node ID: 1139, Op: *, Children: ["1138", "646"], Eclass: 1139, Cost: 4
+Order: 676, Node ID: 1140, Op: *, Children: ["1139", "652"], Eclass: 1140, Cost: 4
+Order: 677, Node ID: 1142, Op: *, Children: ["661", "1141"], Eclass: 1142, Cost: 4
+Order: 678, Node ID: 1143, Op: *, Children: ["630", "634"], Eclass: 1143, Cost: 4
+Order: 679, Node ID: 1144, Op: *, Children: ["1142", "1143"], Eclass: 1144, Cost: 4
+Order: 680, Node ID: 1147, Op: *, Children: ["1145", "1146"], Eclass: 1147, Cost: 4
+Order: 681, Node ID: 1149, Op: *, Children: ["1144", "1148"], Eclass: 1149, Cost: 4
+Order: 682, Node ID: 1151, Op: *, Children: ["644", "1150"], Eclass: 1151, Cost: 4
+Order: 683, Node ID: 1153, Op: *, Children: ["618", "1152"], Eclass: 1153, Cost: 4
+Order: 684, Node ID: 1156, Op: *, Children: ["1154", "1155"], Eclass: 1156, Cost: 4
+Order: 685, Node ID: 1160, Op: *, Children: ["1158", "1159"], Eclass: 1160, Cost: 4
+Order: 686, Node ID: 1161, Op: *, Children: ["622", "625"], Eclass: 1161, Cost: 4
+Order: 687, Node ID: 1162, Op: *, Children: ["1160", "1161"], Eclass: 1162, Cost: 4
+Order: 688, Node ID: 1164, Op: *, Children: ["1157", "1163"], Eclass: 1164, Cost: 4
+Order: 689, Node ID: 1165, Op: *, Children: ["1153", "1164"], Eclass: 1165, Cost: 4
+Order: 690, Node ID: 1167, Op: *, Children: ["612", "1166"], Eclass: 1167, Cost: 4
+Order: 691, Node ID: 1168, Op: *, Children: ["588", "586"], Eclass: 1168, Cost: 4
+Order: 692, Node ID: 1169, Op: *, Children: ["1167", "1168"], Eclass: 1169, Cost: 4
+Order: 693, Node ID: 1170, Op: *, Children: ["188", "60"], Eclass: 1170, Cost: 4
+Order: 694, Node ID: 1172, Op: *, Children: ["1169", "1171"], Eclass: 1172, Cost: 4
+Order: 695, Node ID: 1174, Op: *, Children: ["595", "1173"], Eclass: 1174, Cost: 4
+Order: 696, Node ID: 1176, Op: *, Children: ["573", "1175"], Eclass: 1176, Cost: 4
+Order: 697, Node ID: 1177, Op: *, Children: ["195", "67"], Eclass: 1177, Cost: 4
+Order: 698, Node ID: 1179, Op: *, Children: ["1176", "1178"], Eclass: 1179, Cost: 4
+Order: 699, Node ID: 1180, Op: *, Children: ["66", "194"], Eclass: 1180, Cost: 4
+Order: 700, Node ID: 1182, Op: *, Children: ["65", "193"], Eclass: 1182, Cost: 4
+Order: 701, Node ID: 1184, Op: *, Children: ["1181", "1183"], Eclass: 1184, Cost: 4
+Order: 702, Node ID: 1185, Op: *, Children: ["1179", "1184"], Eclass: 1185, Cost: 4
+Order: 703, Node ID: 1189, Op: *, Children: ["1188", "1181"], Eclass: 1189, Cost: 4
+Order: 704, Node ID: 1190, Op: *, Children: ["1189", "1178"], Eclass: 1190, Cost: 4
+Order: 705, Node ID: 1191, Op: *, Children: ["1187", "1190"], Eclass: 1191, Cost: 4
+Order: 706, Node ID: 1195, Op: *, Children: ["1193", "1194"], Eclass: 1195, Cost: 4
+Order: 707, Node ID: 1197, Op: *, Children: ["1192", "1196"], Eclass: 1197, Cost: 4
+Order: 708, Node ID: 1200, Op: *, Children: ["1198", "1199"], Eclass: 1200, Cost: 4
+Order: 709, Node ID: 1202, Op: *, Children: ["1197", "1201"], Eclass: 1202, Cost: 4
+Order: 710, Node ID: 1203, Op: *, Children: ["1186", "1202"], Eclass: 1203, Cost: 4
+Order: 711, Node ID: 1206, Op: *, Children: ["1204", "1205"], Eclass: 1206, Cost: 4
+Order: 712, Node ID: 1210, Op: *, Children: ["1208", "1209"], Eclass: 1210, Cost: 4
+Order: 713, Node ID: 1212, Op: *, Children: ["1207", "1211"], Eclass: 1212, Cost: 4
+Order: 714, Node ID: 1213, Op: *, Children: ["1203", "1212"], Eclass: 1213, Cost: 4
+Order: 715, Node ID: 1215, Op: *, Children: ["68", "196"], Eclass: 1215, Cost: 4
+Order: 716, Node ID: 1216, Op: *, Children: ["1207", "1215"], Eclass: 1216, Cost: 4
+Order: 717, Node ID: 1218, Op: *, Children: ["69", "197"], Eclass: 1218, Cost: 4
+Order: 718, Node ID: 1220, Op: *, Children: ["1217", "1219"], Eclass: 1220, Cost: 4
+Order: 719, Node ID: 1222, Op: *, Children: ["1201", "1221"], Eclass: 1222, Cost: 4
+Order: 720, Node ID: 1224, Op: *, Children: ["1214", "1223"], Eclass: 1224, Cost: 4
+Order: 721, Node ID: 1225, Op: *, Children: ["70", "198"], Eclass: 1225, Cost: 4
+Order: 722, Node ID: 1227, Op: *, Children: ["1224", "1226"], Eclass: 1227, Cost: 4
+Order: 723, Node ID: 1228, Op: *, Children: ["1227", "543"], Eclass: 1228, Cost: 4
+Order: 724, Node ID: 1229, Op: *, Children: ["1228", "545"], Eclass: 1229, Cost: 4
+Order: 725, Node ID: 1231, Op: *, Children: ["556", "1230"], Eclass: 1231, Cost: 4
+Order: 726, Node ID: 1232, Op: *, Children: ["541", "1231"], Eclass: 1232, Cost: 4
+Order: 727, Node ID: 1234, Op: *, Children: ["535", "1233"], Eclass: 1234, Cost: 4
+Order: 728, Node ID: 1235, Op: *, Children: ["203", "75"], Eclass: 1235, Cost: 4
+Order: 729, Node ID: 1237, Op: *, Children: ["1236", "507"], Eclass: 1237, Cost: 4
+Order: 730, Node ID: 1238, Op: *, Children: ["1234", "1237"], Eclass: 1238, Cost: 4
+Order: 731, Node ID: 1239, Op: *, Children: ["1238", "511"], Eclass: 1239, Cost: 4
+Order: 732, Node ID: 1241, Op: *, Children: ["518", "1240"], Eclass: 1241, Cost: 4
+Order: 733, Node ID: 1244, Op: *, Children: ["1242", "1243"], Eclass: 1244, Cost: 4
+Order: 734, Node ID: 1246, Op: *, Children: ["490", "1245"], Eclass: 1246, Cost: 4
+Order: 735, Node ID: 1247, Op: *, Children: ["1246", "494"], Eclass: 1247, Cost: 4
+Order: 736, Node ID: 1248, Op: *, Children: ["1241", "1247"], Eclass: 1248, Cost: 4
+Order: 737, Node ID: 1250, Op: *, Children: ["503", "1249"], Eclass: 1250, Cost: 4
+Order: 738, Node ID: 1251, Op: *, Children: ["80", "208"], Eclass: 1251, Cost: 4
+Order: 739, Node ID: 1253, Op: *, Children: ["1250", "1252"], Eclass: 1253, Cost: 4
+Order: 740, Node ID: 1254, Op: *, Children: ["82", "210"], Eclass: 1254, Cost: 4
+Order: 741, Node ID: 1256, Op: *, Children: ["81", "209"], Eclass: 1256, Cost: 4
+Order: 742, Node ID: 1258, Op: *, Children: ["1255", "1257"], Eclass: 1258, Cost: 4
+Order: 743, Node ID: 1259, Op: *, Children: ["1253", "1258"], Eclass: 1259, Cost: 4
+Order: 744, Node ID: 1261, Op: *, Children: ["486", "1260"], Eclass: 1261, Cost: 4
+Order: 745, Node ID: 1264, Op: *, Children: ["1262", "1263"], Eclass: 1264, Cost: 4
+Order: 746, Node ID: 1267, Op: *, Children: ["1257", "1266"], Eclass: 1267, Cost: 4
+Order: 747, Node ID: 1268, Op: *, Children: ["1255", "1267"], Eclass: 1268, Cost: 4
+Order: 748, Node ID: 1270, Op: *, Children: ["1268", "1269"], Eclass: 1270, Cost: 4
+Order: 749, Node ID: 1272, Op: *, Children: ["1265", "1271"], Eclass: 1272, Cost: 4
+Order: 750, Node ID: 1273, Op: *, Children: ["1261", "1272"], Eclass: 1273, Cost: 4
+Order: 751, Node ID: 1275, Op: *, Children: ["485", "211"], Eclass: 1275, Cost: 4
+Order: 752, Node ID: 1276, Op: *, Children: ["1275", "83"], Eclass: 1276, Cost: 4
+Order: 753, Node ID: 1278, Op: *, Children: ["84", "212"], Eclass: 1278, Cost: 4
+Order: 754, Node ID: 1280, Op: *, Children: ["1277", "1279"], Eclass: 1280, Cost: 4
+Order: 755, Node ID: 1282, Op: *, Children: ["476", "1281"], Eclass: 1282, Cost: 4
+Order: 756, Node ID: 1284, Op: *, Children: ["1274", "1283"], Eclass: 1284, Cost: 4
+Order: 757, Node ID: 1285, Op: *, Children: ["85", "213"], Eclass: 1285, Cost: 4
+Order: 758, Node ID: 1287, Op: *, Children: ["1286", "459"], Eclass: 1287, Cost: 4
+Order: 759, Node ID: 1288, Op: *, Children: ["1284", "1287"], Eclass: 1288, Cost: 4
+Order: 760, Node ID: 1289, Op: *, Children: ["1288", "461"], Eclass: 1289, Cost: 4
+Order: 761, Node ID: 1291, Op: *, Children: ["472", "1290"], Eclass: 1291, Cost: 4
+Order: 762, Node ID: 1294, Op: *, Children: ["1292", "1293"], Eclass: 1294, Cost: 4
+Order: 763, Node ID: 1296, Op: *, Children: ["1291", "1295"], Eclass: 1296, Cost: 4
+Order: 764, Node ID: 1299, Op: *, Children: ["1297", "1298"], Eclass: 1299, Cost: 4
+Order: 765, Node ID: 1301, Op: *, Children: ["1296", "1300"], Eclass: 1301, Cost: 4
+Order: 766, Node ID: 1304, Op: *, Children: ["1302", "1303"], Eclass: 1304, Cost: 4
+Order: 767, Node ID: 1306, Op: *, Children: ["1301", "1305"], Eclass: 1306, Cost: 4
+Order: 768, Node ID: 1308, Op: *, Children: ["1305", "88"], Eclass: 1308, Cost: 4
+Order: 769, Node ID: 1309, Op: *, Children: ["1308", "216"], Eclass: 1309, Cost: 4
+Order: 770, Node ID: 1311, Op: *, Children: ["89", "217"], Eclass: 1311, Cost: 4
+Order: 771, Node ID: 1313, Op: *, Children: ["1310", "1312"], Eclass: 1313, Cost: 4
+Order: 772, Node ID: 1315, Op: *, Children: ["1295", "1314"], Eclass: 1315, Cost: 4
+Order: 773, Node ID: 1317, Op: *, Children: ["1307", "1316"], Eclass: 1317, Cost: 4
+Order: 774, Node ID: 1318, Op: *, Children: ["457", "1317"], Eclass: 1318, Cost: 4
+Order: 775, Node ID: 1319, Op: *, Children: ["446", "1318"], Eclass: 1319, Cost: 4
+Order: 776, Node ID: 1321, Op: *, Children: ["454", "1320"], Eclass: 1321, Cost: 4
+Order: 777, Node ID: 1323, Op: *, Children: ["94", "222"], Eclass: 1323, Cost: 4
+Order: 778, Node ID: 1325, Op: *, Children: ["432", "221"], Eclass: 1325, Cost: 4
+Order: 779, Node ID: 1326, Op: *, Children: ["1325", "93"], Eclass: 1326, Cost: 4
+Order: 780, Node ID: 1328, Op: *, Children: ["1324", "1327"], Eclass: 1328, Cost: 4
+Order: 781, Node ID: 1330, Op: *, Children: ["428", "1329"], Eclass: 1330, Cost: 4
+Order: 782, Node ID: 1332, Op: *, Children: ["1322", "1331"], Eclass: 1332, Cost: 4
+Order: 783, Node ID: 1333, Op: *, Children: ["424", "1332"], Eclass: 1333, Cost: 4
+Order: 784, Node ID: 1334, Op: *, Children: ["413", "1333"], Eclass: 1334, Cost: 4
+Order: 785, Node ID: 1336, Op: *, Children: ["421", "1335"], Eclass: 1336, Cost: 4
+Order: 786, Node ID: 1339, Op: *, Children: ["1337", "1338"], Eclass: 1339, Cost: 4
+Order: 787, Node ID: 1343, Op: *, Children: ["1341", "1342"], Eclass: 1343, Cost: 4
+Order: 788, Node ID: 1345, Op: *, Children: ["1340", "1344"], Eclass: 1345, Cost: 4
+Order: 789, Node ID: 1346, Op: *, Children: ["1336", "1345"], Eclass: 1346, Cost: 4
+Order: 790, Node ID: 1349, Op: *, Children: ["1347", "1348"], Eclass: 1349, Cost: 4
+Order: 791, Node ID: 1351, Op: *, Children: ["1346", "1350"], Eclass: 1351, Cost: 4
+Order: 792, Node ID: 1353, Op: *, Children: ["98", "226"], Eclass: 1353, Cost: 4
+Order: 793, Node ID: 1354, Op: *, Children: ["1353", "1344"], Eclass: 1354, Cost: 4
+Order: 794, Node ID: 1356, Op: *, Children: ["99", "227"], Eclass: 1356, Cost: 4
+Order: 795, Node ID: 1358, Op: *, Children: ["1355", "1357"], Eclass: 1358, Cost: 4
+Order: 796, Node ID: 1360, Op: *, Children: ["1340", "1359"], Eclass: 1360, Cost: 4
+Order: 797, Node ID: 1362, Op: *, Children: ["1352", "1361"], Eclass: 1362, Cost: 4
+Order: 798, Node ID: 1363, Op: *, Children: ["406", "1362"], Eclass: 1363, Cost: 4
+Order: 799, Node ID: 1365, Op: *, Children: ["403", "1364"], Eclass: 1365, Cost: 4
+Order: 800, Node ID: 1367, Op: *, Children: ["103", "231"], Eclass: 1367, Cost: 4
+Order: 801, Node ID: 1368, Op: *, Children: ["1367", "381"], Eclass: 1368, Cost: 4
+Order: 802, Node ID: 1370, Op: *, Children: ["104", "232"], Eclass: 1370, Cost: 4
+Order: 803, Node ID: 1372, Op: *, Children: ["1369", "1371"], Eclass: 1372, Cost: 4
+Order: 804, Node ID: 1374, Op: *, Children: ["377", "1373"], Eclass: 1374, Cost: 4
+Order: 805, Node ID: 1376, Op: *, Children: ["105", "233"], Eclass: 1376, Cost: 4
+Order: 806, Node ID: 1378, Op: *, Children: ["235", "107"], Eclass: 1378, Cost: 4
+Order: 807, Node ID: 1380, Op: *, Children: ["1377", "1379"], Eclass: 1380, Cost: 4
+Order: 808, Node ID: 1381, Op: *, Children: ["106", "234"], Eclass: 1381, Cost: 4
+Order: 809, Node ID: 1383, Op: *, Children: ["1380", "1382"], Eclass: 1383, Cost: 4
+Order: 810, Node ID: 1384, Op: *, Children: ["1375", "1383"], Eclass: 1384, Cost: 4
+Order: 811, Node ID: 1385, Op: *, Children: ["1366", "1384"], Eclass: 1385, Cost: 4
+Order: 812, Node ID: 1389, Op: *, Children: ["1387", "1388"], Eclass: 1389, Cost: 4
+Order: 813, Node ID: 1391, Op: *, Children: ["1379", "1382"], Eclass: 1391, Cost: 4
+Order: 814, Node ID: 1393, Op: *, Children: ["1391", "1392"], Eclass: 1393, Cost: 4
+Order: 815, Node ID: 1395, Op: *, Children: ["1393", "1394"], Eclass: 1395, Cost: 4
+Order: 816, Node ID: 1397, Op: *, Children: ["1390", "1396"], Eclass: 1397, Cost: 4
+Order: 817, Node ID: 1398, Op: *, Children: ["1397", "359"], Eclass: 1398, Cost: 4
+Order: 818, Node ID: 1401, Op: *, Children: ["1399", "1400"], Eclass: 1401, Cost: 4
+Order: 819, Node ID: 1403, Op: *, Children: ["1398", "1402"], Eclass: 1403, Cost: 4
+Order: 820, Node ID: 1404, Op: *, Children: ["1386", "1403"], Eclass: 1404, Cost: 4
+Order: 821, Node ID: 1405, Op: *, Children: ["1404", "364"], Eclass: 1405, Cost: 4
+Order: 822, Node ID: 1407, Op: *, Children: ["373", "1406"], Eclass: 1407, Cost: 4
+Order: 823, Node ID: 1411, Op: *, Children: ["1409", "1410"], Eclass: 1411, Cost: 4
+Order: 824, Node ID: 1412, Op: *, Children: ["351", "1411"], Eclass: 1412, Cost: 4
+Order: 825, Node ID: 1416, Op: *, Children: ["1414", "1415"], Eclass: 1416, Cost: 4
+Order: 826, Node ID: 1418, Op: *, Children: ["1413", "1417"], Eclass: 1418, Cost: 4
+Order: 827, Node ID: 1420, Op: *, Children: ["349", "1419"], Eclass: 1420, Cost: 4
+Order: 828, Node ID: 1422, Op: *, Children: ["1421", "334"], Eclass: 1422, Cost: 4
+Order: 829, Node ID: 1423, Op: *, Children: ["1422", "340"], Eclass: 1423, Cost: 4
+Order: 830, Node ID: 1426, Op: *, Children: ["1424", "1425"], Eclass: 1426, Cost: 4
+Order: 831, Node ID: 1428, Op: *, Children: ["1423", "1427"], Eclass: 1428, Cost: 4
+Order: 832, Node ID: 1429, Op: *, Children: ["1408", "1428"], Eclass: 1429, Cost: 4
+Order: 833, Node ID: 1431, Op: *, Children: ["347", "1430"], Eclass: 1431, Cost: 4
+Order: 834, Node ID: 1432, Op: *, Children: ["115", "243"], Eclass: 1432, Cost: 4
+Order: 835, Node ID: 1434, Op: *, Children: ["1431", "1433"], Eclass: 1434, Cost: 4
+Order: 836, Node ID: 1435, Op: *, Children: ["1434", "326"], Eclass: 1435, Cost: 4
+Order: 837, Node ID: 1436, Op: *, Children: ["1435", "324"], Eclass: 1436, Cost: 4
+Order: 838, Node ID: 1438, Op: *, Children: ["330", "1437"], Eclass: 1438, Cost: 4
+Order: 839, Node ID: 1441, Op: *, Children: ["1439", "1440"], Eclass: 1441, Cost: 4
+Order: 840, Node ID: 1443, Op: *, Children: ["1438", "1442"], Eclass: 1443, Cost: 4
+Order: 841, Node ID: 1446, Op: *, Children: ["1444", "1445"], Eclass: 1446, Cost: 4
+Order: 842, Node ID: 1448, Op: *, Children: ["1443", "1447"], Eclass: 1448, Cost: 4
+Order: 843, Node ID: 1451, Op: *, Children: ["1449", "1450"], Eclass: 1451, Cost: 4
+Order: 844, Node ID: 1453, Op: *, Children: ["1448", "1452"], Eclass: 1453, Cost: 4
+Order: 845, Node ID: 1455, Op: *, Children: ["1442", "118"], Eclass: 1455, Cost: 4
+Order: 846, Node ID: 1456, Op: *, Children: ["1455", "246"], Eclass: 1456, Cost: 4
+Order: 847, Node ID: 1458, Op: *, Children: ["119", "247"], Eclass: 1458, Cost: 4
+Order: 848, Node ID: 1460, Op: *, Children: ["1457", "1459"], Eclass: 1460, Cost: 4
+Order: 849, Node ID: 1462, Op: *, Children: ["1452", "1461"], Eclass: 1462, Cost: 4
+Order: 850, Node ID: 1464, Op: *, Children: ["1454", "1463"], Eclass: 1464, Cost: 4
+Order: 851, Node ID: 1465, Op: *, Children: ["120", "248"], Eclass: 1465, Cost: 4
+Order: 852, Node ID: 1467, Op: *, Children: ["1464", "1466"], Eclass: 1467, Cost: 4
+Order: 853, Node ID: 1468, Op: *, Children: ["303", "306"], Eclass: 1468, Cost: 4
+Order: 854, Node ID: 1469, Op: *, Children: ["1467", "1468"], Eclass: 1469, Cost: 4
+Order: 855, Node ID: 1471, Op: *, Children: ["315", "1470"], Eclass: 1471, Cost: 4
+Order: 856, Node ID: 1473, Op: *, Children: ["293", "1472"], Eclass: 1473, Cost: 4
+Order: 857, Node ID: 1474, Op: *, Children: ["125", "253"], Eclass: 1474, Cost: 4
+Order: 858, Node ID: 1476, Op: *, Children: ["1473", "1475"], Eclass: 1476, Cost: 4
+Order: 859, Node ID: 1477, Op: *, Children: ["1476", "269"], Eclass: 1477, Cost: 4
+Order: 860, Node ID: 1478, Op: *, Children: ["1477", "267"], Eclass: 1478, Cost: 4
+Order: 861, Node ID: 1480, Op: *, Children: ["276", "1479"], Eclass: 1480, Cost: 4

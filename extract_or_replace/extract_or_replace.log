@@ -1,0 +1,58 @@
+Node { op: "pi001", children: [], eclass: "3", cost: 1.0 }
+Node { op: "pi129", children: [], eclass: "131", cost: 1.0 }
+["131", "3", "3195", "270", "271", "272"]
+Processing node_id: 131
+Found node: Node { op: "pi129", children: [], eclass: "131", cost: 1.0 }
+Child IDs: []
+Added leaf node: 131, Id: 2
+Processing node_id: 3
+Found node: Node { op: "pi001", children: [], eclass: "3", cost: 1.0 }
+Child IDs: []
+Added leaf node: 3, Id: 3
+Processing node_id: 3195
+Found node: Node { op: "*", children: ["131", "3"], eclass: "3195", cost: 2.0 }
+Child IDs: [2, 3]
+Added Or operator with children: [2, 3], Id: 4
+Processing node_id: 270
+Found node: Node { op: "!", children: ["3195"], eclass: "270", cost: 1.0 }
+Child IDs: [4]
+Added Not operator with child: 4, Id: 5
+Processing node_id: 271
+Found node: Node { op: "+", children: ["131", "3"], eclass: "271", cost: 4.0 }
+Child IDs: [2, 3]
+Added And operator with children: [2, 3], Id: 6
+Processing node_id: 272
+Found node: Node { op: "*", children: ["270", "271"], eclass: "272", cost: 2.0 }
+Child IDs: [5, 6]
+Added Or operator with children: [5, 6], Id: 7
+Number of Or nodes: 2
+Number of And nodes: 1
+Number of Not nodes: 1
+Input IDs: [2, 3]
+Input IDs Length: 2
+Root eclass: 272
+Root eclass found: Node ID: 272, EGraph ID: 7
+root_id: 7
+input egraph
+input node: 8
+input class: 8
+Runner stopped: Some(Saturated). Time taken for runner: 47.608µs, Classes: 11, Nodes: 12, Size: 12 
+
+
+root[7]
+Runner report
+=============
+  Stop reason: Saturated
+  Iterations: 2
+  Egraph size: 12 nodes, 11 classes, 12 memo
+  Rebuilds: 0
+  Total time: 0.000015064
+    Search:  (0.33) 0.000004997
+    Apply:   (0.50) 0.000007485
+    Rebuild: (0.14) 0.000002046
+
+egraph after runner
+egraph node: 12
+egraph class: 11
+------------------assign cost of enode-----------------
+done

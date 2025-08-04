@@ -1,0 +1,29 @@
+[package]
+name = "flussab-aiger"
+version = "0.1.1"
+authors = ["Jannis Harder <me@jix.one>"]
+edition = "2021"
+description = "AIGER file format (binary and ASCII) parser and writer"
+repository = "https://github.com/jix/flussab"
+license = "0BSD"
+readme = "README.md"
+keywords = ["aig", "aiger", "and-inverter-graph", "parser", "writer"]
+categories = ["parser-implementations", "encoding"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+flussab = { version = "0.3.0", path = "../flussab" }
+thiserror = "1.0.50"
+num-traits = "0.2.17"
+zwohash = "0.1.2"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+rustc-hash = "1.1.0"
+egraph-serialize = { path = "../egraph-serialize/" }
+anyhow = "1.0"  # or the latest version
+
+[features]
+default = []                    # 默认不启用任何特性
+egraph2aig = []                 # egraph2aig 特性，没有额外依赖
+extract_cone = []               # extract_cone 特性，没有额外依赖

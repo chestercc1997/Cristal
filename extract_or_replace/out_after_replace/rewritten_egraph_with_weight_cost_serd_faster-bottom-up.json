@@ -1,0 +1,78 @@
+{
+  "nodes": {
+    "10": {
+      "children": [
+        "5",
+        "9"
+      ],
+      "cost": 4.0,
+      "eclass": "10",
+      "op": "*"
+    },
+    "2": {
+      "children": [],
+      "cost": 1.0,
+      "eclass": "2",
+      "op": "pi129"
+    },
+    "3": {
+      "children": [],
+      "cost": 1.0,
+      "eclass": "3",
+      "op": "pi001"
+    },
+    "4": {
+      "children": [
+        "2",
+        "3"
+      ],
+      "cost": 4.0,
+      "eclass": "4",
+      "op": "*"
+    },
+    "5": {
+      "children": [
+        "4"
+      ],
+      "cost": 1.0,
+      "eclass": "5",
+      "op": "!"
+    },
+    "6": {
+      "children": [
+        "2"
+      ],
+      "cost": 1.0,
+      "eclass": "6",
+      "op": "!"
+    },
+    "7": {
+      "children": [
+        "3"
+      ],
+      "cost": 1.0,
+      "eclass": "7",
+      "op": "!"
+    },
+    "8": {
+      "children": [
+        "6",
+        "7"
+      ],
+      "cost": 4.0,
+      "eclass": "8",
+      "op": "*"
+    },
+    "9": {
+      "children": [
+        "8"
+      ],
+      "cost": 1.0,
+      "eclass": "9",
+      "op": "!"
+    }
+  },
+  "root_eclasses": [
+    "10"
+  ]
+}

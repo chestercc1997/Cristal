@@ -1,0 +1,176 @@
+digraph  {
+    compound=true
+    rank=same
+    fontname=helvetica
+    fontsize=9
+    margin=3
+    nodesep=0.05
+    ranksep=0.6
+    colorscheme=set312
+    edge[arrowsize=0.5]
+    node[shape=none,margin=0,fontname=helvetica]
+    outputorder=edgesfirst
+    graph[style="dashed,rounded,filled"]
+    fillcolor=2
+    "14":0:s -> "13" [lhead="cluster_13"]
+    "14":1:s -> "12" [lhead="cluster_12"]
+    subgraph "outer_cluster_14" {
+        subgraph "cluster_14" {
+            subgraph  {
+                "14"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30" colspan="2">*</td></tr><TR><TD PORT="0"></TD><TD PORT="1"></TD></TR></TABLE>>,tooltip="14: 14"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    subgraph "outer_cluster_3" {
+        subgraph "cluster_3" {
+            subgraph  {
+                "3"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30">n3174</td></tr></TABLE>>,tooltip="3: 3"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    "11":0:s -> "68" [lhead="cluster_68"]
+    subgraph "outer_cluster_11" {
+        subgraph "cluster_11" {
+            subgraph  {
+                "11"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30" colspan="1">!</td></tr><TR><TD PORT="0"></TD></TR></TABLE>>,tooltip="11: 11"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    "13":0:s -> "5" [lhead="cluster_5"]
+    subgraph "outer_cluster_13" {
+        subgraph "cluster_13" {
+            subgraph  {
+                "13"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30" colspan="1">!</td></tr><TR><TD PORT="0"></TD></TR></TABLE>>,tooltip="13: 13"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    "15":0:s -> "14" [lhead="cluster_14"]
+    subgraph "outer_cluster_15" {
+        subgraph "cluster_15" {
+            subgraph  {
+                "15"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30" colspan="1">!</td></tr><TR><TD PORT="0"></TD></TR></TABLE>>,tooltip="15: 15"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    subgraph "outer_cluster_5" {
+        subgraph "cluster_5" {
+            subgraph  {
+                "5"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30">n3308</td></tr></TABLE>>,tooltip="5: 5"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    "8":0:s -> "64" [lhead="cluster_64"]
+    subgraph "outer_cluster_8" {
+        subgraph "cluster_8" {
+            subgraph  {
+                "8"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30" colspan="1">!</td></tr><TR><TD PORT="0"></TD></TR></TABLE>>,tooltip="8: 8"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    "24":0:s -> "2" [lhead="cluster_2"]
+    "24":1:s -> "3" [lhead="cluster_3"]
+    subgraph "outer_cluster_24" {
+        subgraph "cluster_24" {
+            subgraph  {
+                "24"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30" colspan="2">*</td></tr><TR><TD PORT="0"></TD><TD PORT="1"></TD></TR></TABLE>>,tooltip="24: 24"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    "17":0:s -> "16" [lhead="cluster_16"]
+    "17":1:s -> "15" [lhead="cluster_15"]
+    penwidth=2
+    subgraph "outer_cluster_17" {
+        subgraph "cluster_17" {
+            subgraph  {
+                "17"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30" colspan="2">*</td></tr><TR><TD PORT="0"></TD><TD PORT="1"></TD></TR></TABLE>>,tooltip="17: 17"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    subgraph "outer_cluster_6" {
+        subgraph "cluster_6" {
+            subgraph  {
+                "6"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30">n3171</td></tr></TABLE>>,tooltip="6: 6"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    "10":0:s -> "24" [lhead="cluster_24"]
+    "10":1:s -> "8" [lhead="cluster_8"]
+    subgraph "outer_cluster_10" {
+        subgraph "cluster_10" {
+            subgraph  {
+                "10"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30" colspan="2">*</td></tr><TR><TD PORT="0"></TD><TD PORT="1"></TD></TR></TABLE>>,tooltip="10: 10"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    subgraph "outer_cluster_64" {
+        subgraph "cluster_64" {
+            subgraph  {
+                "64"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30">n3292</td></tr></TABLE>>,tooltip="64: 64"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    "12":0:s -> "11" [lhead="cluster_11"]
+    "12":1:s -> "6" [lhead="cluster_6"]
+    subgraph "outer_cluster_12" {
+        subgraph "cluster_12" {
+            subgraph  {
+                "12"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30" colspan="2">*</td></tr><TR><TD PORT="0"></TD><TD PORT="1"></TD></TR></TABLE>>,tooltip="12: 12"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    subgraph "outer_cluster_68" {
+        subgraph "cluster_68" {
+            subgraph  {
+                "68"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30">n3309</td></tr></TABLE>>,tooltip="68: 68"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    "16":0:s -> "10" [lhead="cluster_10"]
+    subgraph "outer_cluster_16" {
+        subgraph "cluster_16" {
+            subgraph  {
+                "16"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30" colspan="1">!</td></tr><TR><TD PORT="0"></TD></TR></TABLE>>,tooltip="16: 16"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    subgraph "outer_cluster_2" {
+        subgraph "cluster_2" {
+            subgraph  {
+                "2"[label=<<TABLE BGCOLOR="white" CELLBORDER="0" CELLSPACING="0" CELLPADDING="0" style="rounded"><tr><td BALIGN="left" CELLPADDING="4" WIDTH="30" HEIGHT="30">n3283</td></tr></TABLE>>,tooltip="2: 2"]
+            }
+        }
+        style="invis"
+        cluster=true
+    }
+    margin=0
+}

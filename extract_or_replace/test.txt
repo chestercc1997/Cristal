@@ -1,0 +1,3732 @@
+Node { op: "pi102", children: [], eclass: "104", cost: 1.0 }
+Node { op: "pi168", children: [], eclass: "170", cost: 1.0 }
+Node { op: "pi205", children: [], eclass: "207", cost: 1.0 }
+Node { op: "pi213", children: [], eclass: "215", cost: 1.0 }
+Node { op: "pi110", children: [], eclass: "112", cost: 1.0 }
+Node { op: "pi002", children: [], eclass: "4", cost: 1.0 }
+Node { op: "pi198", children: [], eclass: "200", cost: 1.0 }
+Node { op: "pi115", children: [], eclass: "117", cost: 1.0 }
+Node { op: "pi108", children: [], eclass: "110", cost: 1.0 }
+Node { op: "pi187", children: [], eclass: "189", cost: 1.0 }
+Node { op: "pi178", children: [], eclass: "180", cost: 1.0 }
+Node { op: "pi215", children: [], eclass: "217", cost: 1.0 }
+Node { op: "pi004", children: [], eclass: "6", cost: 1.0 }
+Node { op: "pi173", children: [], eclass: "175", cost: 1.0 }
+Node { op: "pi200", children: [], eclass: "202", cost: 1.0 }
+Node { op: "pi121", children: [], eclass: "123", cost: 1.0 }
+Node { op: "pi208", children: [], eclass: "210", cost: 1.0 }
+Node { op: "pi176", children: [], eclass: "178", cost: 1.0 }
+Node { op: "pi124", children: [], eclass: "126", cost: 1.0 }
+Node { op: "pi175", children: [], eclass: "177", cost: 1.0 }
+Node { op: "pi087", children: [], eclass: "89", cost: 1.0 }
+Node { op: "pi111", children: [], eclass: "113", cost: 1.0 }
+Node { op: "pi222", children: [], eclass: "224", cost: 1.0 }
+Node { op: "pi156", children: [], eclass: "158", cost: 1.0 }
+Node { op: "pi082", children: [], eclass: "84", cost: 1.0 }
+Node { op: "pi189", children: [], eclass: "191", cost: 1.0 }
+Node { op: "pi224", children: [], eclass: "226", cost: 1.0 }
+Node { op: "pi055", children: [], eclass: "57", cost: 1.0 }
+Node { op: "pi165", children: [], eclass: "167", cost: 1.0 }
+Node { op: "pi249", children: [], eclass: "251", cost: 1.0 }
+Node { op: "pi192", children: [], eclass: "194", cost: 1.0 }
+Node { op: "pi221", children: [], eclass: "223", cost: 1.0 }
+Node { op: "pi079", children: [], eclass: "81", cost: 1.0 }
+Node { op: "pi166", children: [], eclass: "168", cost: 1.0 }
+Node { op: "pi191", children: [], eclass: "193", cost: 1.0 }
+Node { op: "pi151", children: [], eclass: "153", cost: 1.0 }
+Node { op: "pi026", children: [], eclass: "28", cost: 1.0 }
+Node { op: "pi159", children: [], eclass: "161", cost: 1.0 }
+Node { op: "pi050", children: [], eclass: "52", cost: 1.0 }
+Node { op: "pi073", children: [], eclass: "75", cost: 1.0 }
+Node { op: "pi152", children: [], eclass: "154", cost: 1.0 }
+Node { op: "pi100", children: [], eclass: "102", cost: 1.0 }
+Node { op: "pi126", children: [], eclass: "128", cost: 1.0 }
+Node { op: "pi096", children: [], eclass: "98", cost: 1.0 }
+Node { op: "pi023", children: [], eclass: "25", cost: 1.0 }
+Node { op: "pi157", children: [], eclass: "159", cost: 1.0 }
+Node { op: "pi046", children: [], eclass: "48", cost: 1.0 }
+Node { op: "pi252", children: [], eclass: "254", cost: 1.0 }
+Node { op: "pi070", children: [], eclass: "72", cost: 1.0 }
+Node { op: "pi161", children: [], eclass: "163", cost: 1.0 }
+Node { op: "pi072", children: [], eclass: "74", cost: 1.0 }
+Node { op: "pi188", children: [], eclass: "190", cost: 1.0 }
+Node { op: "pi098", children: [], eclass: "100", cost: 1.0 }
+Node { op: "pi162", children: [], eclass: "164", cost: 1.0 }
+Node { op: "pi018", children: [], eclass: "20", cost: 1.0 }
+Node { op: "pi020", children: [], eclass: "22", cost: 1.0 }
+Node { op: "pi103", children: [], eclass: "105", cost: 1.0 }
+Node { op: "pi041", children: [], eclass: "43", cost: 1.0 }
+Node { op: "pi043", children: [], eclass: "45", cost: 1.0 }
+Node { op: "pi066", children: [], eclass: "68", cost: 1.0 }
+Node { op: "pi016", children: [], eclass: "18", cost: 1.0 }
+Node { op: "pi199", children: [], eclass: "201", cost: 1.0 }
+Node { op: "pi037", children: [], eclass: "39", cost: 1.0 }
+Node { op: "pi040", children: [], eclass: "42", cost: 1.0 }
+Node { op: "pi169", children: [], eclass: "171", cost: 1.0 }
+Node { op: "pi204", children: [], eclass: "206", cost: 1.0 }
+Node { op: "pi003", children: [], eclass: "5", cost: 1.0 }
+Node { op: "pi061", children: [], eclass: "63", cost: 1.0 }
+Node { op: "pi172", children: [], eclass: "174", cost: 1.0 }
+Node { op: "pi201", children: [], eclass: "203", cost: 1.0 }
+Node { op: "pi212", children: [], eclass: "214", cost: 1.0 }
+Node { op: "pi011", children: [], eclass: "13", cost: 1.0 }
+Node { op: "pi034", children: [], eclass: "36", cost: 1.0 }
+Node { op: "pi090", children: [], eclass: "92", cost: 1.0 }
+Node { op: "pi209", children: [], eclass: "211", cost: 1.0 }
+Node { op: "pi058", children: [], eclass: "60", cost: 1.0 }
+Node { op: "pi171", children: [], eclass: "173", cost: 1.0 }
+Node { op: "pi237", children: [], eclass: "239", cost: 1.0 }
+Node { op: "pi005", children: [], eclass: "7", cost: 1.0 }
+Node { op: "pi179", children: [], eclass: "181", cost: 1.0 }
+Node { op: "pi214", children: [], eclass: "216", cost: 1.0 }
+Node { op: "pi008", children: [], eclass: "10", cost: 1.0 }
+Node { op: "pi174", children: [], eclass: "176", cost: 1.0 }
+Node { op: "pi203", children: [], eclass: "205", cost: 1.0 }
+Node { op: "pi000", children: [], eclass: "2", cost: 1.0 }
+Node { op: "pi147", children: [], eclass: "149", cost: 1.0 }
+Node { op: "pi029", children: [], eclass: "31", cost: 1.0 }
+Node { op: "pi177", children: [], eclass: "179", cost: 1.0 }
+Node { op: "pi138", children: [], eclass: "140", cost: 1.0 }
+Node { op: "pi133", children: [], eclass: "135", cost: 1.0 }
+Node { op: "pi028", children: [], eclass: "30", cost: 1.0 }
+Node { op: "pi145", children: [], eclass: "147", cost: 1.0 }
+Node { op: "pi246", children: [], eclass: "248", cost: 1.0 }
+Node { op: "pi136", children: [], eclass: "138", cost: 1.0 }
+Node { op: "pi184", children: [], eclass: "186", cost: 1.0 }
+Node { op: "pi095", children: [], eclass: "97", cost: 1.0 }
+Node { op: "pi170", children: [], eclass: "172", cost: 1.0 }
+Node { op: "pi250", children: [], eclass: "252", cost: 1.0 }
+Node { op: "pi143", children: [], eclass: "145", cost: 1.0 }
+Node { op: "pi255", children: [], eclass: "257", cost: 1.0 }
+Node { op: "pi146", children: [], eclass: "148", cost: 1.0 }
+Node { op: "pi239", children: [], eclass: "241", cost: 1.0 }
+Node { op: "pi153", children: [], eclass: "155", cost: 1.0 }
+Node { op: "pi248", children: [], eclass: "250", cost: 1.0 }
+Node { op: "pi150", children: [], eclass: "152", cost: 1.0 }
+Node { op: "pi216", children: [], eclass: "218", cost: 1.0 }
+Node { op: "pi086", children: [], eclass: "88", cost: 1.0 }
+Node { op: "pi241", children: [], eclass: "243", cost: 1.0 }
+Node { op: "pi253", children: [], eclass: "255", cost: 1.0 }
+Node { op: "pi155", children: [], eclass: "157", cost: 1.0 }
+Node { op: "pi083", children: [], eclass: "85", cost: 1.0 }
+Node { op: "pi158", children: [], eclass: "160", cost: 1.0 }
+Node { op: "pi163", children: [], eclass: "165", cost: 1.0 }
+Node { op: "pi251", children: [], eclass: "253", cost: 1.0 }
+Node { op: "pi085", children: [], eclass: "87", cost: 1.0 }
+Node { op: "pi054", children: [], eclass: "56", cost: 1.0 }
+Node { op: "pi056", children: [], eclass: "58", cost: 1.0 }
+Node { op: "pi160", children: [], eclass: "162", cost: 1.0 }
+Node { op: "pi247", children: [], eclass: "249", cost: 1.0 }
+Node { op: "pi078", children: [], eclass: "80", cost: 1.0 }
+Node { op: "pi149", children: [], eclass: "151", cost: 1.0 }
+Node { op: "pi080", children: [], eclass: "82", cost: 1.0 }
+Node { op: "pi125", children: [], eclass: "127", cost: 1.0 }
+Node { op: "pi053", children: [], eclass: "55", cost: 1.0 }
+Node { op: "pi076", children: [], eclass: "78", cost: 1.0 }
+Node { op: "pi123", children: [], eclass: "125", cost: 1.0 }
+Node { op: "pi024", children: [], eclass: "26", cost: 1.0 }
+Node { op: "pi047", children: [], eclass: "49", cost: 1.0 }
+Node { op: "pi048", children: [], eclass: "50", cost: 1.0 }
+Node { op: "pi071", children: [], eclass: "73", cost: 1.0 }
+Node { op: "pi094", children: [], eclass: "96", cost: 1.0 }
+Node { op: "pi134", children: [], eclass: "136", cost: 1.0 }
+Node { op: "pi021", children: [], eclass: "23", cost: 1.0 }
+Node { op: "pi044", children: [], eclass: "46", cost: 1.0 }
+Node { op: "pi067", children: [], eclass: "69", cost: 1.0 }
+Node { op: "pi068", children: [], eclass: "70", cost: 1.0 }
+Node { op: "pi091", children: [], eclass: "93", cost: 1.0 }
+Node { op: "pi093", children: [], eclass: "95", cost: 1.0 }
+Node { op: "pi234", children: [], eclass: "236", cost: 1.0 }
+Node { op: "pi193", children: [], eclass: "195", cost: 1.0 }
+Node { op: "pi220", children: [], eclass: "222", cost: 1.0 }
+Node { op: "pi141", children: [], eclass: "143", cost: 1.0 }
+Node { op: "pi015", children: [], eclass: "17", cost: 1.0 }
+Node { op: "pi017", children: [], eclass: "19", cost: 1.0 }
+Node { op: "pi196", children: [], eclass: "198", cost: 1.0 }
+Node { op: "pi202", children: [], eclass: "204", cost: 1.0 }
+Node { op: "pi144", children: [], eclass: "146", cost: 1.0 }
+Node { op: "pi229", children: [], eclass: "231", cost: 1.0 }
+Node { op: "pi039", children: [], eclass: "41", cost: 1.0 }
+Node { op: "pi195", children: [], eclass: "197", cost: 1.0 }
+Node { op: "pi062", children: [], eclass: "64", cost: 1.0 }
+Node { op: "pi014", children: [], eclass: "16", cost: 1.0 }
+Node { op: "pi226", children: [], eclass: "228", cost: 1.0 }
+Node { op: "pi130", children: [], eclass: "132", cost: 1.0 }
+Node { op: "pi064", children: [], eclass: "66", cost: 1.0 }
+Node { op: "pi033", children: [], eclass: "35", cost: 1.0 }
+Node { op: "pi035", children: [], eclass: "37", cost: 1.0 }
+Node { op: "pi104", children: [], eclass: "106", cost: 1.0 }
+Node { op: "pi231", children: [], eclass: "233", cost: 1.0 }
+Node { op: "pi038", children: [], eclass: "40", cost: 1.0 }
+Node { op: "pi137", children: [], eclass: "139", cost: 1.0 }
+Node { op: "pi142", children: [], eclass: "144", cost: 1.0 }
+Node { op: "pi059", children: [], eclass: "61", cost: 1.0 }
+Node { op: "pi009", children: [], eclass: "11", cost: 1.0 }
+Node { op: "pi032", children: [], eclass: "34", cost: 1.0 }
+Node { op: "pi128", children: [], eclass: "130", cost: 1.0 }
+Node { op: "pi140", children: [], eclass: "142", cost: 1.0 }
+Node { op: "pi088", children: [], eclass: "90", cost: 1.0 }
+Node { op: "pi245", children: [], eclass: "247", cost: 1.0 }
+Node { op: "pi135", children: [], eclass: "137", cost: 1.0 }
+Node { op: "pi217", children: [], eclass: "219", cost: 1.0 }
+Node { op: "pi006", children: [], eclass: "8", cost: 1.0 }
+Node { op: "pi089", children: [], eclass: "91", cost: 1.0 }
+Node { op: "pi107", children: [], eclass: "109", cost: 1.0 }
+Node { op: "pi240", children: [], eclass: "242", cost: 1.0 }
+Node { op: "pi113", children: [], eclass: "115", cost: 1.0 }
+Node { op: "pi242", children: [], eclass: "244", cost: 1.0 }
+Node { op: "pi180", children: [], eclass: "182", cost: 1.0 }
+Node { op: "pi244", children: [], eclass: "246", cost: 1.0 }
+Node { op: "pi119", children: [], eclass: "121", cost: 1.0 }
+Node { op: "pi183", children: [], eclass: "185", cost: 1.0 }
+Node { op: "pi148", children: [], eclass: "150", cost: 1.0 }
+Node { op: "pi206", children: [], eclass: "208", cost: 1.0 }
+Node { op: "pi210", children: [], eclass: "212", cost: 1.0 }
+Node { op: "pi001", children: [], eclass: "3", cost: 1.0 }
+Node { op: "pi122", children: [], eclass: "124", cost: 1.0 }
+Node { op: "pi186", children: [], eclass: "188", cost: 1.0 }
+Node { op: "pi116", children: [], eclass: "118", cost: 1.0 }
+Node { op: "pi219", children: [], eclass: "221", cost: 1.0 }
+Node { op: "pi109", children: [], eclass: "111", cost: 1.0 }
+Node { op: "pi185", children: [], eclass: "187", cost: 1.0 }
+Node { op: "pi057", children: [], eclass: "59", cost: 1.0 }
+Node { op: "pi114", children: [], eclass: "116", cost: 1.0 }
+Node { op: "pi084", children: [], eclass: "86", cost: 1.0 }
+Node { op: "pi120", children: [], eclass: "122", cost: 1.0 }
+Node { op: "pi081", children: [], eclass: "83", cost: 1.0 }
+Node { op: "pi233", children: [], eclass: "235", cost: 1.0 }
+Node { op: "pi127", children: [], eclass: "129", cost: 1.0 }
+Node { op: "pi228", children: [], eclass: "230", cost: 1.0 }
+Node { op: "pi118", children: [], eclass: "120", cost: 1.0 }
+Node { op: "pi254", children: [], eclass: "256", cost: 1.0 }
+Node { op: "pi052", children: [], eclass: "54", cost: 1.0 }
+Node { op: "pi112", children: [], eclass: "114", cost: 1.0 }
+Node { op: "pi235", children: [], eclass: "237", cost: 1.0 }
+Node { op: "pi075", children: [], eclass: "77", cost: 1.0 }
+Node { op: "pi194", children: [], eclass: "196", cost: 1.0 }
+Node { op: "pi223", children: [], eclass: "225", cost: 1.0 }
+Node { op: "pi077", children: [], eclass: "79", cost: 1.0 }
+Node { op: "pi227", children: [], eclass: "229", cost: 1.0 }
+Node { op: "pi025", children: [], eclass: "27", cost: 1.0 }
+Node { op: "pi117", children: [], eclass: "119", cost: 1.0 }
+Node { op: "pi027", children: [], eclass: "29", cost: 1.0 }
+Node { op: "pi197", children: [], eclass: "199", cost: 1.0 }
+Node { op: "pi049", children: [], eclass: "51", cost: 1.0 }
+Node { op: "pi051", children: [], eclass: "53", cost: 1.0 }
+Node { op: "pi105", children: [], eclass: "107", cost: 1.0 }
+Node { op: "pi230", children: [], eclass: "232", cost: 1.0 }
+Node { op: "pi074", children: [], eclass: "76", cost: 1.0 }
+Node { op: "pi097", children: [], eclass: "99", cost: 1.0 }
+Node { op: "pi154", children: [], eclass: "156", cost: 1.0 }
+Node { op: "pi131", children: [], eclass: "133", cost: 1.0 }
+Node { op: "pi225", children: [], eclass: "227", cost: 1.0 }
+Node { op: "pi022", children: [], eclass: "24", cost: 1.0 }
+Node { op: "pi045", children: [], eclass: "47", cost: 1.0 }
+Node { op: "pi232", children: [], eclass: "234", cost: 1.0 }
+Node { op: "pi236", children: [], eclass: "238", cost: 1.0 }
+Node { op: "pi069", children: [], eclass: "71", cost: 1.0 }
+Node { op: "pi218", children: [], eclass: "220", cost: 1.0 }
+Node { op: "pi092", children: [], eclass: "94", cost: 1.0 }
+Node { op: "pi167", children: [], eclass: "169", cost: 1.0 }
+Node { op: "pi190", children: [], eclass: "192", cost: 1.0 }
+Node { op: "pi019", children: [], eclass: "21", cost: 1.0 }
+Node { op: "pi164", children: [], eclass: "166", cost: 1.0 }
+Node { op: "pi129", children: [], eclass: "131", cost: 1.0 }
+Node { op: "pi042", children: [], eclass: "44", cost: 1.0 }
+Node { op: "pi101", children: [], eclass: "103", cost: 1.0 }
+Node { op: "pi063", children: [], eclass: "65", cost: 1.0 }
+Node { op: "pi065", children: [], eclass: "67", cost: 1.0 }
+Node { op: "pi132", children: [], eclass: "134", cost: 1.0 }
+Node { op: "pi106", children: [], eclass: "108", cost: 1.0 }
+Node { op: "pi013", children: [], eclass: "15", cost: 1.0 }
+Node { op: "pi099", children: [], eclass: "101", cost: 1.0 }
+Node { op: "pi036", children: [], eclass: "38", cost: 1.0 }
+Node { op: "pi060", children: [], eclass: "62", cost: 1.0 }
+Node { op: "pi139", children: [], eclass: "141", cost: 1.0 }
+Node { op: "pi010", children: [], eclass: "12", cost: 1.0 }
+Node { op: "pi012", children: [], eclass: "14", cost: 1.0 }
+Node { op: "pi207", children: [], eclass: "209", cost: 1.0 }
+Node { op: "pi031", children: [], eclass: "33", cost: 1.0 }
+Node { op: "pi243", children: [], eclass: "245", cost: 1.0 }
+Node { op: "pi182", children: [], eclass: "184", cost: 1.0 }
+Node { op: "pi211", children: [], eclass: "213", cost: 1.0 }
+Node { op: "pi238", children: [], eclass: "240", cost: 1.0 }
+Node { op: "pi007", children: [], eclass: "9", cost: 1.0 }
+Node { op: "pi181", children: [], eclass: "183", cost: 1.0 }
+Node { op: "pi030", children: [], eclass: "32", cost: 1.0 }
+["129", "257", "1447", "256", "128", "3526", "16886", "1423", "255", "127", "1424", "8673", "7280", "1440", "11754", "126", "254", "1409", "125", "253", "1407", "124", "252", "1412", "1413", "1415", "3986", "3966", "1406", "2342", "1410", "122", "250", "251", "123", "1376", "19237", "1377", "8523", "1393", "3830", "1394", "10647", "118", "246", "3680", "117", "245", "3936", "1329", "1330", "3724", "1346", "1347", "116", "244", "1315", "115", "243", "1321", "1313", "114", "242", "1318", "1319", "7786", "3666", "113", "241", "1282", "112", "240", "1283", "111", "239", "1281", "8572", "3392", "1268", "109", "237", "1271", "110", "238", "1266", "1272", "1274", "4068", "3958", "21129", "106", "234", "1221", "105", "233", "1219", "2470", "232", "104", "1218", "1222", "231", "103", "1188", "102", "230", "1189", "3718", "3926", "1205", "16323", "3674", "12225", "101", "229", "1187", "2872", "225", "97", "1142", "18331", "98", "226", "1141", "8692", "1158", "3968", "1159", "96", "224", "1140", "8346", "1127", "95", "223", "1125", "2642", "94", "222", "1124", "1128", "220", "92", "93", "221", "1094", "19644", "9403", "1095", "1111", "3818", "1112", "11824", "91", "219", "1093", "8588", "88", "216", "1047", "87", "215", "1048", "9247", "7493", "1064", "3668", "1065", "86", "214", "1033", "84", "212", "1030", "2508", "85", "213", "1031", "1034", "81", "209", "986", "80", "208", "984", "79", "207", "989", "990", "992", "4044", "3942", "205", "77", "206", "78", "953", "18569", "8970", "954", "970", "3810", "971", "76", "204", "939", "75", "203", "937", "202", "74", "942", "943", "945", "4030", "3790", "2438", "936", "940", "72", "200", "907", "73", "201", "906", "8160", "6972", "923", "3658", "924", "194", "66", "845", "64", "192", "848", "65", "193", "843", "849", "851", "3992", "3932", "2612", "842", "846", "191", "63", "3802", "16259", "62", "190", "813", "812", "19754", "9394", "829", "10598", "189", "61", "798", "60", "188", "796", "59", "2624", "187", "802", "804", "3978", "3780", "795", "797", "799", "56", "184", "764", "58", "186", "765", "7093", "185", "57", "766", "2822", "751", "55", "183", "749", "54", "182", "754", "755", "757", "4066", "3628", "21301", "53", "181", "718", "3944", "52", "180", "719", "8062", "7070", "9850", "736", "46", "174", "657", "44", "172", "654", "2664", "173", "45", "655", "658", "170", "42", "625", "171", "43", "624", "41", "169", "623", "8840", "38", "166", "577", "37", "165", "578", "3534", "36", "164", "576", "3300", "33", "161", "530", "32", "160", "531", "3838", "31", "159", "529", "3051", "516", "30", "158", "514", "29", "2596", "157", "520", "522", "4022", "3762", "20132", "513", "515", "517", "27", "155", "3878", "28", "156", "483", "9225", "484", "500", "14863", "3630", "11567", "3690", "26", "154", "482", "23", "151", "436", "22", "150", "437", "21", "149", "435", "8478", "3294", "422", "20", "148", "420", "2574", "19", "147", "419", "423", "11", "139", "328", "138", "10", "326", "137", "5263", "9", "332", "334", "4062", "3600", "8", "136", "3914", "135", "7", "296", "19046", "9504", "295", "312", "313", "6", "134", "294", "9710", "131", "3", "262", "130", "2", "261", "263", "264", "282", "132", "4", "277", "15867", "5", "133", "278", "10534", "280", "283", "287", "284", "285", "7802", "3896", "3287", "18903", "314", "315", "2244", "10766", "325", "330", "2789", "13", "141", "342", "12", "140", "343", "3684", "22042", "341", "361", "7945", "6970", "3618", "9899", "360", "144", "16", "375", "14", "142", "372", "2636", "11839", "16335", "15", "143", "373", "377", "381", "378", "379", "7818", "3754", "18", "146", "389", "17", "145", "390", "388", "8291", "3046", "19367", "408", "8590", "6964", "406", "3772", "407", "409", "424", "22588", "425", "426", "428", "3982", "3904", "455", "8285", "7134", "3924", "9919", "454", "456", "469", "2258", "24", "152", "466", "25", "153", "467", "468", "471", "472", "473", "475", "4076", "3608", "2797", "17115", "502", "518", "549", "3782", "8198", "7567", "547", "548", "563", "11186", "16705", "34", "162", "560", "35", "163", "561", "562", "565", "569", "2232", "567", "7816", "3912", "3299", "596", "3934", "2446", "3740", "594", "597", "39", "167", "607", "17036", "40", "168", "608", "11978", "610", "612", "613", "614", "616", "3994", "3616", "2809", "17828", "643", "12190", "3640", "12192", "7922", "7749", "641", "659", "660", "661", "663", "4040", "3770", "3059", "670", "13594", "47", "175", "672", "48", "176", "671", "3842", "690", "3792", "7963", "7702", "9768", "689", "51", "179", "704", "49", "177", "701", "2300", "10233", "50", "178", "702", "2194", "706", "710", "5998", "708", "7842", "3922", "3311", "717", "13818", "21090", "737", "738", "2234", "14707", "748", "753", "784", "10357", "3650", "3898", "3700", "782", "783", "800", "3071", "3848", "21567", "811", "831", "847", "3329", "196", "68", "859", "21802", "67", "195", "860", "858", "8190", "878", "18640", "8669", "876", "3952", "877", "71", "199", "892", "12290", "16247", "70", "198", "890", "69", "197", "889", "891", "894", "895", "896", "898", "4018", "3638", "2836", "905", "13404", "22119", "925", "926", "941", "3086", "952", "7126", "22354", "972", "973", "983", "2320", "987", "988", "3344", "999", "13841", "83", "211", "1000", "82", "210", "1001", "3552", "1019", "11420", "3960", "8068", "7232", "1017", "1018", "1035", "4387", "1037", "1039", "4060", "3648", "2851", "1046", "7128", "19914", "1066", "1067", "1080", "2502", "89", "217", "1077", "11625", "90", "218", "1078", "1082", "2654", "1084", "1086", "4070", "3800", "3104", "17415", "1113", "1129", "1133", "5036", "1131", "7844", "3950", "3362", "17655", "1160", "1161", "1174", "100", "228", "1172", "2278", "16844", "99", "227", "1171", "1176", "1177", "1178", "1180", "4074", "3656", "2871", "1207", "1223", "1224", "1225", "1227", "3988", "3808", "1234", "236", "108", "1235", "7171", "107", "235", "1236", "3125", "18075", "1254", "3824", "3864", "9004", "1252", "1253", "12595", "1265", "15938", "17011", "1270", "1301", "3784", "7656", "3974", "10006", "1300", "11348", "16513", "1312", "2110", "1317", "2891", "1328", "12730", "21388", "1348", "1349", "248", "120", "1360", "16698", "119", "247", "1359", "10396", "249", "121", "1362", "1364", "2680", "1366", "1368", "4004", "3816", "3144", "1375", "12996", "3870", "1395", "1411", "3405", "1422", "13225", "21886", "1442", "1448"]
+Processing node_id: 129
+Found node: Node { op: "pi127", children: [], eclass: "129", cost: 1.0 }
+Child IDs: []
+Added leaf node: 129, Id: 2
+Processing node_id: 257
+Found node: Node { op: "pi255", children: [], eclass: "257", cost: 1.0 }
+Child IDs: []
+Added leaf node: 257, Id: 3
+Processing node_id: 1447
+Found node: Node { op: "+", children: ["129", "257"], eclass: "1447", cost: 3.0 }
+Child IDs: [2, 3]
+Added And operator with children: [2, 3], Id: 4
+Processing node_id: 256
+Found node: Node { op: "pi254", children: [], eclass: "256", cost: 1.0 }
+Child IDs: []
+Added leaf node: 256, Id: 5
+Processing node_id: 128
+Found node: Node { op: "pi126", children: [], eclass: "128", cost: 1.0 }
+Child IDs: []
+Added leaf node: 128, Id: 6
+Processing node_id: 3526
+Found node: Node { op: "+", children: ["256", "128"], eclass: "3526", cost: 3.0 }
+Child IDs: [5, 6]
+Added And operator with children: [5, 6], Id: 7
+Processing node_id: 16886
+Found node: Node { op: "*", children: ["1447", "3526"], eclass: "16886", cost: 4.0 }
+Child IDs: [4, 7]
+Added Or operator with children: [4, 7], Id: 8
+Processing node_id: 1423
+Found node: Node { op: "*", children: ["128", "256"], eclass: "1423", cost: 4.0 }
+Child IDs: [6, 5]
+Added Or operator with children: [6, 5], Id: 9
+Processing node_id: 255
+Found node: Node { op: "pi253", children: [], eclass: "255", cost: 1.0 }
+Child IDs: []
+Added leaf node: 255, Id: 10
+Processing node_id: 127
+Found node: Node { op: "pi125", children: [], eclass: "127", cost: 1.0 }
+Child IDs: []
+Added leaf node: 127, Id: 11
+Processing node_id: 1424
+Found node: Node { op: "*", children: ["255", "127"], eclass: "1424", cost: 4.0 }
+Child IDs: [10, 11]
+Added Or operator with children: [10, 11], Id: 12
+Processing node_id: 8673
+Found node: Node { op: "+", children: ["1424", "127"], eclass: "8673", cost: 3.0 }
+Child IDs: [12, 11]
+Added And operator with children: [12, 11], Id: 13
+Processing node_id: 7280
+Found node: Node { op: "+", children: ["8673", "255"], eclass: "7280", cost: 3.0 }
+Child IDs: [13, 10]
+Added And operator with children: [13, 10], Id: 14
+Processing node_id: 1440
+Found node: Node { op: "+", children: ["1423", "7280"], eclass: "1440", cost: 3.0 }
+Child IDs: [9, 14]
+Added And operator with children: [9, 14], Id: 15
+Processing node_id: 11754
+Found node: Node { op: "*", children: ["16886", "1440"], eclass: "11754", cost: 4.0 }
+Child IDs: [8, 15]
+Added Or operator with children: [8, 15], Id: 16
+Processing node_id: 126
+Found node: Node { op: "pi124", children: [], eclass: "126", cost: 1.0 }
+Child IDs: []
+Added leaf node: 126, Id: 17
+Processing node_id: 254
+Found node: Node { op: "pi252", children: [], eclass: "254", cost: 1.0 }
+Child IDs: []
+Added leaf node: 254, Id: 18
+Processing node_id: 1409
+Found node: Node { op: "+", children: ["126", "254"], eclass: "1409", cost: 3.0 }
+Child IDs: [17, 18]
+Added And operator with children: [17, 18], Id: 19
+Processing node_id: 125
+Found node: Node { op: "pi123", children: [], eclass: "125", cost: 1.0 }
+Child IDs: []
+Added leaf node: 125, Id: 20
+Processing node_id: 253
+Found node: Node { op: "pi251", children: [], eclass: "253", cost: 1.0 }
+Child IDs: []
+Added leaf node: 253, Id: 21
+Processing node_id: 1407
+Found node: Node { op: "+", children: ["125", "253"], eclass: "1407", cost: 3.0 }
+Child IDs: [20, 21]
+Added And operator with children: [20, 21], Id: 22
+Processing node_id: 124
+Found node: Node { op: "pi122", children: [], eclass: "124", cost: 1.0 }
+Child IDs: []
+Added leaf node: 124, Id: 23
+Processing node_id: 252
+Found node: Node { op: "pi250", children: [], eclass: "252", cost: 1.0 }
+Child IDs: []
+Added leaf node: 252, Id: 24
+Processing node_id: 1412
+Found node: Node { op: "*", children: ["124", "252"], eclass: "1412", cost: 4.0 }
+Child IDs: [23, 24]
+Added Or operator with children: [23, 24], Id: 25
+Processing node_id: 1413
+Found node: Node { op: "*", children: ["1407", "1412"], eclass: "1413", cost: 4.0 }
+Child IDs: [22, 25]
+Added Or operator with children: [22, 25], Id: 26
+Processing node_id: 1415
+Found node: Node { op: "*", children: ["125", "253"], eclass: "1415", cost: 4.0 }
+Child IDs: [20, 21]
+Added Or operator with children: [20, 21], Id: 27
+Processing node_id: 3986
+Found node: Node { op: "+", children: ["1413", "1415"], eclass: "3986", cost: 3.0 }
+Child IDs: [26, 27]
+Added And operator with children: [26, 27], Id: 28
+Processing node_id: 3966
+Found node: Node { op: "*", children: ["1409", "3986"], eclass: "3966", cost: 4.0 }
+Child IDs: [19, 28]
+Added Or operator with children: [19, 28], Id: 29
+Processing node_id: 1406
+Found node: Node { op: "+", children: ["124", "252"], eclass: "1406", cost: 3.0 }
+Child IDs: [23, 24]
+Added And operator with children: [23, 24], Id: 30
+Processing node_id: 2342
+Found node: Node { op: "*", children: ["1409", "1406"], eclass: "2342", cost: 4.0 }
+Child IDs: [19, 30]
+Added Or operator with children: [19, 30], Id: 31
+Processing node_id: 1410
+Found node: Node { op: "*", children: ["2342", "1407"], eclass: "1410", cost: 4.0 }
+Child IDs: [31, 22]
+Added Or operator with children: [31, 22], Id: 32
+Processing node_id: 122
+Found node: Node { op: "pi120", children: [], eclass: "122", cost: 1.0 }
+Child IDs: []
+Added leaf node: 122, Id: 33
+Processing node_id: 250
+Found node: Node { op: "pi248", children: [], eclass: "250", cost: 1.0 }
+Child IDs: []
+Added leaf node: 250, Id: 34
+Processing node_id: 251
+Found node: Node { op: "pi249", children: [], eclass: "251", cost: 1.0 }
+Child IDs: []
+Added leaf node: 251, Id: 35
+Processing node_id: 123
+Found node: Node { op: "pi121", children: [], eclass: "123", cost: 1.0 }
+Child IDs: []
+Added leaf node: 123, Id: 36
+Processing node_id: 1376
+Found node: Node { op: "*", children: ["251", "123"], eclass: "1376", cost: 4.0 }
+Child IDs: [35, 36]
+Added Or operator with children: [35, 36], Id: 37
+Processing node_id: 19237
+Found node: Node { op: "+", children: ["250", "1376"], eclass: "19237", cost: 3.0 }
+Child IDs: [34, 37]
+Added And operator with children: [34, 37], Id: 38
+Processing node_id: 1377
+Found node: Node { op: "*", children: ["122", "250"], eclass: "1377", cost: 4.0 }
+Child IDs: [33, 34]
+Added Or operator with children: [33, 34], Id: 39
+Processing node_id: 8523
+Found node: Node { op: "+", children: ["19237", "1377"], eclass: "8523", cost: 3.0 }
+Child IDs: [38, 39]
+Added And operator with children: [38, 39], Id: 40
+Processing node_id: 1393
+Found node: Node { op: "+", children: ["122", "8523"], eclass: "1393", cost: 3.0 }
+Child IDs: [33, 40]
+Added And operator with children: [33, 40], Id: 41
+Processing node_id: 3830
+Found node: Node { op: "+", children: ["123", "251"], eclass: "3830", cost: 3.0 }
+Child IDs: [36, 35]
+Added And operator with children: [36, 35], Id: 42
+Processing node_id: 1394
+Found node: Node { op: "*", children: ["1393", "3830"], eclass: "1394", cost: 4.0 }
+Child IDs: [41, 42]
+Added Or operator with children: [41, 42], Id: 43
+Processing node_id: 10647
+Found node: Node { op: "*", children: ["1410", "1394"], eclass: "10647", cost: 4.0 }
+Child IDs: [32, 43]
+Added Or operator with children: [32, 43], Id: 44
+Processing node_id: 118
+Found node: Node { op: "pi116", children: [], eclass: "118", cost: 1.0 }
+Child IDs: []
+Added leaf node: 118, Id: 45
+Processing node_id: 246
+Found node: Node { op: "pi244", children: [], eclass: "246", cost: 1.0 }
+Child IDs: []
+Added leaf node: 246, Id: 46
+Processing node_id: 3680
+Found node: Node { op: "+", children: ["118", "246"], eclass: "3680", cost: 3.0 }
+Child IDs: [45, 46]
+Added And operator with children: [45, 46], Id: 47
+Processing node_id: 117
+Found node: Node { op: "pi115", children: [], eclass: "117", cost: 1.0 }
+Child IDs: []
+Added leaf node: 117, Id: 48
+Processing node_id: 245
+Found node: Node { op: "pi243", children: [], eclass: "245", cost: 1.0 }
+Child IDs: []
+Added leaf node: 245, Id: 49
+Processing node_id: 3936
+Found node: Node { op: "+", children: ["117", "245"], eclass: "3936", cost: 3.0 }
+Child IDs: [48, 49]
+Added And operator with children: [48, 49], Id: 50
+Processing node_id: 1329
+Found node: Node { op: "*", children: ["118", "246"], eclass: "1329", cost: 4.0 }
+Child IDs: [45, 46]
+Added Or operator with children: [45, 46], Id: 51
+Processing node_id: 1330
+Found node: Node { op: "*", children: ["117", "245"], eclass: "1330", cost: 4.0 }
+Child IDs: [48, 49]
+Added Or operator with children: [48, 49], Id: 52
+Processing node_id: 3724
+Found node: Node { op: "+", children: ["1329", "1330"], eclass: "3724", cost: 3.0 }
+Child IDs: [51, 52]
+Added And operator with children: [51, 52], Id: 53
+Processing node_id: 1346
+Found node: Node { op: "+", children: ["3936", "3724"], eclass: "1346", cost: 3.0 }
+Child IDs: [50, 53]
+Added And operator with children: [50, 53], Id: 54
+Processing node_id: 1347
+Found node: Node { op: "*", children: ["3680", "1346"], eclass: "1347", cost: 4.0 }
+Child IDs: [47, 54]
+Added Or operator with children: [47, 54], Id: 55
+Processing node_id: 116
+Found node: Node { op: "pi114", children: [], eclass: "116", cost: 1.0 }
+Child IDs: []
+Added leaf node: 116, Id: 56
+Processing node_id: 244
+Found node: Node { op: "pi242", children: [], eclass: "244", cost: 1.0 }
+Child IDs: []
+Added leaf node: 244, Id: 57
+Processing node_id: 1315
+Found node: Node { op: "+", children: ["116", "244"], eclass: "1315", cost: 3.0 }
+Child IDs: [56, 57]
+Added And operator with children: [56, 57], Id: 58
+Processing node_id: 115
+Found node: Node { op: "pi113", children: [], eclass: "115", cost: 1.0 }
+Child IDs: []
+Added leaf node: 115, Id: 59
+Processing node_id: 243
+Found node: Node { op: "pi241", children: [], eclass: "243", cost: 1.0 }
+Child IDs: []
+Added leaf node: 243, Id: 60
+Processing node_id: 1321
+Found node: Node { op: "*", children: ["115", "243"], eclass: "1321", cost: 4.0 }
+Child IDs: [59, 60]
+Added Or operator with children: [59, 60], Id: 61
+Processing node_id: 1313
+Found node: Node { op: "+", children: ["115", "243"], eclass: "1313", cost: 3.0 }
+Child IDs: [59, 60]
+Added And operator with children: [59, 60], Id: 62
+Processing node_id: 114
+Found node: Node { op: "pi112", children: [], eclass: "114", cost: 1.0 }
+Child IDs: []
+Added leaf node: 114, Id: 63
+Processing node_id: 242
+Found node: Node { op: "pi240", children: [], eclass: "242", cost: 1.0 }
+Child IDs: []
+Added leaf node: 242, Id: 64
+Processing node_id: 1318
+Found node: Node { op: "*", children: ["114", "242"], eclass: "1318", cost: 4.0 }
+Child IDs: [63, 64]
+Added Or operator with children: [63, 64], Id: 65
+Processing node_id: 1319
+Found node: Node { op: "*", children: ["1313", "1318"], eclass: "1319", cost: 4.0 }
+Child IDs: [62, 65]
+Added Or operator with children: [62, 65], Id: 66
+Processing node_id: 7786
+Found node: Node { op: "+", children: ["1321", "1319"], eclass: "7786", cost: 3.0 }
+Child IDs: [61, 66]
+Added And operator with children: [61, 66], Id: 67
+Processing node_id: 3666
+Found node: Node { op: "*", children: ["1315", "7786"], eclass: "3666", cost: 4.0 }
+Child IDs: [58, 67]
+Added Or operator with children: [58, 67], Id: 68
+Processing node_id: 113
+Found node: Node { op: "pi111", children: [], eclass: "113", cost: 1.0 }
+Child IDs: []
+Added leaf node: 113, Id: 69
+Processing node_id: 241
+Found node: Node { op: "pi239", children: [], eclass: "241", cost: 1.0 }
+Child IDs: []
+Added leaf node: 241, Id: 70
+Processing node_id: 1282
+Found node: Node { op: "*", children: ["113", "241"], eclass: "1282", cost: 4.0 }
+Child IDs: [69, 70]
+Added Or operator with children: [69, 70], Id: 71
+Processing node_id: 112
+Found node: Node { op: "pi110", children: [], eclass: "112", cost: 1.0 }
+Child IDs: []
+Added leaf node: 112, Id: 72
+Processing node_id: 240
+Found node: Node { op: "pi238", children: [], eclass: "240", cost: 1.0 }
+Child IDs: []
+Added leaf node: 240, Id: 73
+Processing node_id: 1283
+Found node: Node { op: "*", children: ["112", "240"], eclass: "1283", cost: 4.0 }
+Child IDs: [72, 73]
+Added Or operator with children: [72, 73], Id: 74
+Processing node_id: 111
+Found node: Node { op: "pi109", children: [], eclass: "111", cost: 1.0 }
+Child IDs: []
+Added leaf node: 111, Id: 75
+Processing node_id: 239
+Found node: Node { op: "pi237", children: [], eclass: "239", cost: 1.0 }
+Child IDs: []
+Added leaf node: 239, Id: 76
+Processing node_id: 1281
+Found node: Node { op: "*", children: ["111", "239"], eclass: "1281", cost: 4.0 }
+Child IDs: [75, 76]
+Added Or operator with children: [75, 76], Id: 77
+Processing node_id: 8572
+Found node: Node { op: "+", children: ["1283", "1281"], eclass: "8572", cost: 3.0 }
+Child IDs: [74, 77]
+Added And operator with children: [74, 77], Id: 78
+Processing node_id: 3392
+Found node: Node { op: "+", children: ["1282", "8572"], eclass: "3392", cost: 3.0 }
+Child IDs: [71, 78]
+Added And operator with children: [71, 78], Id: 79
+Processing node_id: 1268
+Found node: Node { op: "+", children: ["111", "239"], eclass: "1268", cost: 3.0 }
+Child IDs: [75, 76]
+Added And operator with children: [75, 76], Id: 80
+Processing node_id: 109
+Found node: Node { op: "pi107", children: [], eclass: "109", cost: 1.0 }
+Child IDs: []
+Added leaf node: 109, Id: 81
+Processing node_id: 237
+Found node: Node { op: "pi235", children: [], eclass: "237", cost: 1.0 }
+Child IDs: []
+Added leaf node: 237, Id: 82
+Processing node_id: 1271
+Found node: Node { op: "*", children: ["109", "237"], eclass: "1271", cost: 4.0 }
+Child IDs: [81, 82]
+Added Or operator with children: [81, 82], Id: 83
+Processing node_id: 110
+Found node: Node { op: "pi108", children: [], eclass: "110", cost: 1.0 }
+Child IDs: []
+Added leaf node: 110, Id: 84
+Processing node_id: 238
+Found node: Node { op: "pi236", children: [], eclass: "238", cost: 1.0 }
+Child IDs: []
+Added leaf node: 238, Id: 85
+Processing node_id: 1266
+Found node: Node { op: "+", children: ["110", "238"], eclass: "1266", cost: 3.0 }
+Child IDs: [84, 85]
+Added And operator with children: [84, 85], Id: 86
+Processing node_id: 1272
+Found node: Node { op: "*", children: ["1271", "1266"], eclass: "1272", cost: 4.0 }
+Child IDs: [83, 86]
+Added Or operator with children: [83, 86], Id: 87
+Processing node_id: 1274
+Found node: Node { op: "*", children: ["110", "238"], eclass: "1274", cost: 4.0 }
+Child IDs: [84, 85]
+Added Or operator with children: [84, 85], Id: 88
+Processing node_id: 4068
+Found node: Node { op: "+", children: ["1272", "1274"], eclass: "4068", cost: 3.0 }
+Child IDs: [87, 88]
+Added And operator with children: [87, 88], Id: 89
+Processing node_id: 3958
+Found node: Node { op: "*", children: ["1268", "4068"], eclass: "3958", cost: 4.0 }
+Child IDs: [80, 89]
+Added Or operator with children: [80, 89], Id: 90
+Processing node_id: 21129
+Found node: Node { op: "+", children: ["3392", "3958"], eclass: "21129", cost: 3.0 }
+Child IDs: [79, 90]
+Added And operator with children: [79, 90], Id: 91
+Processing node_id: 106
+Found node: Node { op: "pi104", children: [], eclass: "106", cost: 1.0 }
+Child IDs: []
+Added leaf node: 106, Id: 92
+Processing node_id: 234
+Found node: Node { op: "pi232", children: [], eclass: "234", cost: 1.0 }
+Child IDs: []
+Added leaf node: 234, Id: 93
+Processing node_id: 1221
+Found node: Node { op: "+", children: ["106", "234"], eclass: "1221", cost: 3.0 }
+Child IDs: [92, 93]
+Added And operator with children: [92, 93], Id: 94
+Processing node_id: 105
+Found node: Node { op: "pi103", children: [], eclass: "105", cost: 1.0 }
+Child IDs: []
+Added leaf node: 105, Id: 95
+Processing node_id: 233
+Found node: Node { op: "pi231", children: [], eclass: "233", cost: 1.0 }
+Child IDs: []
+Added leaf node: 233, Id: 96
+Processing node_id: 1219
+Found node: Node { op: "+", children: ["105", "233"], eclass: "1219", cost: 3.0 }
+Child IDs: [95, 96]
+Added And operator with children: [95, 96], Id: 97
+Processing node_id: 2470
+Found node: Node { op: "*", children: ["1221", "1219"], eclass: "2470", cost: 4.0 }
+Child IDs: [94, 97]
+Added Or operator with children: [94, 97], Id: 98
+Processing node_id: 232
+Found node: Node { op: "pi230", children: [], eclass: "232", cost: 1.0 }
+Child IDs: []
+Added leaf node: 232, Id: 99
+Processing node_id: 104
+Found node: Node { op: "pi102", children: [], eclass: "104", cost: 1.0 }
+Child IDs: []
+Added leaf node: 104, Id: 100
+Processing node_id: 1218
+Found node: Node { op: "+", children: ["232", "104"], eclass: "1218", cost: 3.0 }
+Child IDs: [99, 100]
+Added And operator with children: [99, 100], Id: 101
+Processing node_id: 1222
+Found node: Node { op: "*", children: ["2470", "1218"], eclass: "1222", cost: 4.0 }
+Child IDs: [98, 101]
+Added Or operator with children: [98, 101], Id: 102
+Processing node_id: 231
+Found node: Node { op: "pi229", children: [], eclass: "231", cost: 1.0 }
+Child IDs: []
+Added leaf node: 231, Id: 103
+Processing node_id: 103
+Found node: Node { op: "pi101", children: [], eclass: "103", cost: 1.0 }
+Child IDs: []
+Added leaf node: 103, Id: 104
+Processing node_id: 1188
+Found node: Node { op: "*", children: ["231", "103"], eclass: "1188", cost: 4.0 }
+Child IDs: [103, 104]
+Added Or operator with children: [103, 104], Id: 105
+Processing node_id: 102
+Found node: Node { op: "pi100", children: [], eclass: "102", cost: 1.0 }
+Child IDs: []
+Added leaf node: 102, Id: 106
+Processing node_id: 230
+Found node: Node { op: "pi228", children: [], eclass: "230", cost: 1.0 }
+Child IDs: []
+Added leaf node: 230, Id: 107
+Processing node_id: 1189
+Found node: Node { op: "*", children: ["102", "230"], eclass: "1189", cost: 4.0 }
+Child IDs: [106, 107]
+Added Or operator with children: [106, 107], Id: 108
+Processing node_id: 3718
+Found node: Node { op: "+", children: ["1188", "1189"], eclass: "3718", cost: 3.0 }
+Child IDs: [105, 108]
+Added And operator with children: [105, 108], Id: 109
+Processing node_id: 3926
+Found node: Node { op: "+", children: ["102", "230"], eclass: "3926", cost: 3.0 }
+Child IDs: [106, 107]
+Added And operator with children: [106, 107], Id: 110
+Processing node_id: 1205
+Found node: Node { op: "+", children: ["3718", "3926"], eclass: "1205", cost: 3.0 }
+Child IDs: [109, 110]
+Added And operator with children: [109, 110], Id: 111
+Processing node_id: 16323
+Found node: Node { op: "*", children: ["1222", "1205"], eclass: "16323", cost: 4.0 }
+Child IDs: [102, 111]
+Added Or operator with children: [102, 111], Id: 112
+Processing node_id: 3674
+Found node: Node { op: "+", children: ["103", "231"], eclass: "3674", cost: 3.0 }
+Child IDs: [104, 103]
+Added And operator with children: [104, 103], Id: 113
+Processing node_id: 12225
+Found node: Node { op: "*", children: ["16323", "3674"], eclass: "12225", cost: 4.0 }
+Child IDs: [112, 113]
+Added Or operator with children: [112, 113], Id: 114
+Processing node_id: 101
+Found node: Node { op: "pi099", children: [], eclass: "101", cost: 1.0 }
+Child IDs: []
+Added leaf node: 101, Id: 115
+Processing node_id: 229
+Found node: Node { op: "pi227", children: [], eclass: "229", cost: 1.0 }
+Child IDs: []
+Added leaf node: 229, Id: 116
+Processing node_id: 1187
+Found node: Node { op: "*", children: ["101", "229"], eclass: "1187", cost: 4.0 }
+Child IDs: [115, 116]
+Added Or operator with children: [115, 116], Id: 117
+Processing node_id: 2872
+Found node: Node { op: "+", children: ["1187", "3718"], eclass: "2872", cost: 3.0 }
+Child IDs: [117, 109]
+Added And operator with children: [117, 109], Id: 118
+Processing node_id: 225
+Found node: Node { op: "pi223", children: [], eclass: "225", cost: 1.0 }
+Child IDs: []
+Added leaf node: 225, Id: 119
+Processing node_id: 97
+Found node: Node { op: "pi095", children: [], eclass: "97", cost: 1.0 }
+Child IDs: []
+Added leaf node: 97, Id: 120
+Processing node_id: 1142
+Found node: Node { op: "*", children: ["225", "97"], eclass: "1142", cost: 4.0 }
+Child IDs: [119, 120]
+Added Or operator with children: [119, 120], Id: 121
+Processing node_id: 18331
+Found node: Node { op: "+", children: ["97", "1142"], eclass: "18331", cost: 3.0 }
+Child IDs: [120, 121]
+Added And operator with children: [120, 121], Id: 122
+Processing node_id: 98
+Found node: Node { op: "pi096", children: [], eclass: "98", cost: 1.0 }
+Child IDs: []
+Added leaf node: 98, Id: 123
+Processing node_id: 226
+Found node: Node { op: "pi224", children: [], eclass: "226", cost: 1.0 }
+Child IDs: []
+Added leaf node: 226, Id: 124
+Processing node_id: 1141
+Found node: Node { op: "*", children: ["98", "226"], eclass: "1141", cost: 4.0 }
+Child IDs: [123, 124]
+Added Or operator with children: [123, 124], Id: 125
+Processing node_id: 8692
+Found node: Node { op: "+", children: ["18331", "1141"], eclass: "8692", cost: 3.0 }
+Child IDs: [122, 125]
+Added And operator with children: [122, 125], Id: 126
+Processing node_id: 1158
+Found node: Node { op: "+", children: ["225", "8692"], eclass: "1158", cost: 3.0 }
+Child IDs: [119, 126]
+Added And operator with children: [119, 126], Id: 127
+Processing node_id: 3968
+Found node: Node { op: "+", children: ["98", "226"], eclass: "3968", cost: 3.0 }
+Child IDs: [123, 124]
+Added And operator with children: [123, 124], Id: 128
+Processing node_id: 1159
+Found node: Node { op: "*", children: ["1158", "3968"], eclass: "1159", cost: 4.0 }
+Child IDs: [127, 128]
+Added Or operator with children: [127, 128], Id: 129
+Processing node_id: 96
+Found node: Node { op: "pi094", children: [], eclass: "96", cost: 1.0 }
+Child IDs: []
+Added leaf node: 96, Id: 130
+Processing node_id: 224
+Found node: Node { op: "pi222", children: [], eclass: "224", cost: 1.0 }
+Child IDs: []
+Added leaf node: 224, Id: 131
+Processing node_id: 1140
+Found node: Node { op: "*", children: ["96", "224"], eclass: "1140", cost: 4.0 }
+Child IDs: [130, 131]
+Added Or operator with children: [130, 131], Id: 132
+Processing node_id: 8346
+Found node: Node { op: "+", children: ["1142", "1140"], eclass: "8346", cost: 3.0 }
+Child IDs: [121, 132]
+Added And operator with children: [121, 132], Id: 133
+Processing node_id: 1127
+Found node: Node { op: "+", children: ["96", "224"], eclass: "1127", cost: 3.0 }
+Child IDs: [130, 131]
+Added And operator with children: [130, 131], Id: 134
+Processing node_id: 95
+Found node: Node { op: "pi093", children: [], eclass: "95", cost: 1.0 }
+Child IDs: []
+Added leaf node: 95, Id: 135
+Processing node_id: 223
+Found node: Node { op: "pi221", children: [], eclass: "223", cost: 1.0 }
+Child IDs: []
+Added leaf node: 223, Id: 136
+Processing node_id: 1125
+Found node: Node { op: "+", children: ["95", "223"], eclass: "1125", cost: 3.0 }
+Child IDs: [135, 136]
+Added And operator with children: [135, 136], Id: 137
+Processing node_id: 2642
+Found node: Node { op: "*", children: ["1127", "1125"], eclass: "2642", cost: 4.0 }
+Child IDs: [134, 137]
+Added Or operator with children: [134, 137], Id: 138
+Processing node_id: 94
+Found node: Node { op: "pi092", children: [], eclass: "94", cost: 1.0 }
+Child IDs: []
+Added leaf node: 94, Id: 139
+Processing node_id: 222
+Found node: Node { op: "pi220", children: [], eclass: "222", cost: 1.0 }
+Child IDs: []
+Added leaf node: 222, Id: 140
+Processing node_id: 1124
+Found node: Node { op: "+", children: ["94", "222"], eclass: "1124", cost: 3.0 }
+Child IDs: [139, 140]
+Added And operator with children: [139, 140], Id: 141
+Processing node_id: 1128
+Found node: Node { op: "*", children: ["2642", "1124"], eclass: "1128", cost: 4.0 }
+Child IDs: [138, 141]
+Added Or operator with children: [138, 141], Id: 142
+Processing node_id: 220
+Found node: Node { op: "pi218", children: [], eclass: "220", cost: 1.0 }
+Child IDs: []
+Added leaf node: 220, Id: 143
+Processing node_id: 92
+Found node: Node { op: "pi090", children: [], eclass: "92", cost: 1.0 }
+Child IDs: []
+Added leaf node: 92, Id: 144
+Processing node_id: 93
+Found node: Node { op: "pi091", children: [], eclass: "93", cost: 1.0 }
+Child IDs: []
+Added leaf node: 93, Id: 145
+Processing node_id: 221
+Found node: Node { op: "pi219", children: [], eclass: "221", cost: 1.0 }
+Child IDs: []
+Added leaf node: 221, Id: 146
+Processing node_id: 1094
+Found node: Node { op: "*", children: ["93", "221"], eclass: "1094", cost: 4.0 }
+Child IDs: [145, 146]
+Added Or operator with children: [145, 146], Id: 147
+Processing node_id: 19644
+Found node: Node { op: "+", children: ["92", "1094"], eclass: "19644", cost: 3.0 }
+Child IDs: [144, 147]
+Added And operator with children: [144, 147], Id: 148
+Processing node_id: 9403
+Found node: Node { op: "+", children: ["220", "19644"], eclass: "9403", cost: 3.0 }
+Child IDs: [143, 148]
+Added And operator with children: [143, 148], Id: 149
+Processing node_id: 1095
+Found node: Node { op: "*", children: ["92", "220"], eclass: "1095", cost: 4.0 }
+Child IDs: [144, 143]
+Added Or operator with children: [144, 143], Id: 150
+Processing node_id: 1111
+Found node: Node { op: "+", children: ["9403", "1095"], eclass: "1111", cost: 3.0 }
+Child IDs: [149, 150]
+Added And operator with children: [149, 150], Id: 151
+Processing node_id: 3818
+Found node: Node { op: "+", children: ["93", "221"], eclass: "3818", cost: 3.0 }
+Child IDs: [145, 146]
+Added And operator with children: [145, 146], Id: 152
+Processing node_id: 1112
+Found node: Node { op: "*", children: ["1111", "3818"], eclass: "1112", cost: 4.0 }
+Child IDs: [151, 152]
+Added Or operator with children: [151, 152], Id: 153
+Processing node_id: 11824
+Found node: Node { op: "*", children: ["1128", "1112"], eclass: "11824", cost: 4.0 }
+Child IDs: [142, 153]
+Added Or operator with children: [142, 153], Id: 154
+Processing node_id: 91
+Found node: Node { op: "pi089", children: [], eclass: "91", cost: 1.0 }
+Child IDs: []
+Added leaf node: 91, Id: 155
+Processing node_id: 219
+Found node: Node { op: "pi217", children: [], eclass: "219", cost: 1.0 }
+Child IDs: []
+Added leaf node: 219, Id: 156
+Processing node_id: 1093
+Found node: Node { op: "*", children: ["91", "219"], eclass: "1093", cost: 4.0 }
+Child IDs: [155, 156]
+Added Or operator with children: [155, 156], Id: 157
+Processing node_id: 8588
+Found node: Node { op: "+", children: ["1094", "1093"], eclass: "8588", cost: 3.0 }
+Child IDs: [147, 157]
+Added And operator with children: [147, 157], Id: 158
+Processing node_id: 88
+Found node: Node { op: "pi086", children: [], eclass: "88", cost: 1.0 }
+Child IDs: []
+Added leaf node: 88, Id: 159
+Processing node_id: 216
+Found node: Node { op: "pi214", children: [], eclass: "216", cost: 1.0 }
+Child IDs: []
+Added leaf node: 216, Id: 160
+Processing node_id: 1047
+Found node: Node { op: "*", children: ["88", "216"], eclass: "1047", cost: 4.0 }
+Child IDs: [159, 160]
+Added Or operator with children: [159, 160], Id: 161
+Processing node_id: 87
+Found node: Node { op: "pi085", children: [], eclass: "87", cost: 1.0 }
+Child IDs: []
+Added leaf node: 87, Id: 162
+Processing node_id: 215
+Found node: Node { op: "pi213", children: [], eclass: "215", cost: 1.0 }
+Child IDs: []
+Added leaf node: 215, Id: 163
+Processing node_id: 1048
+Found node: Node { op: "*", children: ["87", "215"], eclass: "1048", cost: 4.0 }
+Child IDs: [162, 163]
+Added Or operator with children: [162, 163], Id: 164
+Processing node_id: 9247
+Found node: Node { op: "+", children: ["1048", "215"], eclass: "9247", cost: 3.0 }
+Child IDs: [164, 163]
+Added And operator with children: [164, 163], Id: 165
+Processing node_id: 7493
+Found node: Node { op: "+", children: ["9247", "87"], eclass: "7493", cost: 3.0 }
+Child IDs: [165, 162]
+Added And operator with children: [165, 162], Id: 166
+Processing node_id: 1064
+Found node: Node { op: "+", children: ["1047", "7493"], eclass: "1064", cost: 3.0 }
+Child IDs: [161, 166]
+Added And operator with children: [161, 166], Id: 167
+Processing node_id: 3668
+Found node: Node { op: "+", children: ["216", "88"], eclass: "3668", cost: 3.0 }
+Child IDs: [160, 159]
+Added And operator with children: [160, 159], Id: 168
+Processing node_id: 1065
+Found node: Node { op: "*", children: ["1064", "3668"], eclass: "1065", cost: 4.0 }
+Child IDs: [167, 168]
+Added Or operator with children: [167, 168], Id: 169
+Processing node_id: 86
+Found node: Node { op: "pi084", children: [], eclass: "86", cost: 1.0 }
+Child IDs: []
+Added leaf node: 86, Id: 170
+Processing node_id: 214
+Found node: Node { op: "pi212", children: [], eclass: "214", cost: 1.0 }
+Child IDs: []
+Added leaf node: 214, Id: 171
+Processing node_id: 1033
+Found node: Node { op: "+", children: ["86", "214"], eclass: "1033", cost: 3.0 }
+Child IDs: [170, 171]
+Added And operator with children: [170, 171], Id: 172
+Processing node_id: 84
+Found node: Node { op: "pi082", children: [], eclass: "84", cost: 1.0 }
+Child IDs: []
+Added leaf node: 84, Id: 173
+Processing node_id: 212
+Found node: Node { op: "pi210", children: [], eclass: "212", cost: 1.0 }
+Child IDs: []
+Added leaf node: 212, Id: 174
+Processing node_id: 1030
+Found node: Node { op: "+", children: ["84", "212"], eclass: "1030", cost: 3.0 }
+Child IDs: [173, 174]
+Added And operator with children: [173, 174], Id: 175
+Processing node_id: 2508
+Found node: Node { op: "*", children: ["1033", "1030"], eclass: "2508", cost: 4.0 }
+Child IDs: [172, 175]
+Added Or operator with children: [172, 175], Id: 176
+Processing node_id: 85
+Found node: Node { op: "pi083", children: [], eclass: "85", cost: 1.0 }
+Child IDs: []
+Added leaf node: 85, Id: 177
+Processing node_id: 213
+Found node: Node { op: "pi211", children: [], eclass: "213", cost: 1.0 }
+Child IDs: []
+Added leaf node: 213, Id: 178
+Processing node_id: 1031
+Found node: Node { op: "+", children: ["85", "213"], eclass: "1031", cost: 3.0 }
+Child IDs: [177, 178]
+Added And operator with children: [177, 178], Id: 179
+Processing node_id: 1034
+Found node: Node { op: "*", children: ["2508", "1031"], eclass: "1034", cost: 4.0 }
+Child IDs: [176, 179]
+Added Or operator with children: [176, 179], Id: 180
+Processing node_id: 81
+Found node: Node { op: "pi079", children: [], eclass: "81", cost: 1.0 }
+Child IDs: []
+Added leaf node: 81, Id: 181
+Processing node_id: 209
+Found node: Node { op: "pi207", children: [], eclass: "209", cost: 1.0 }
+Child IDs: []
+Added leaf node: 209, Id: 182
+Processing node_id: 986
+Found node: Node { op: "+", children: ["81", "209"], eclass: "986", cost: 3.0 }
+Child IDs: [181, 182]
+Added And operator with children: [181, 182], Id: 183
+Processing node_id: 80
+Found node: Node { op: "pi078", children: [], eclass: "80", cost: 1.0 }
+Child IDs: []
+Added leaf node: 80, Id: 184
+Processing node_id: 208
+Found node: Node { op: "pi206", children: [], eclass: "208", cost: 1.0 }
+Child IDs: []
+Added leaf node: 208, Id: 185
+Processing node_id: 984
+Found node: Node { op: "+", children: ["80", "208"], eclass: "984", cost: 3.0 }
+Child IDs: [184, 185]
+Added And operator with children: [184, 185], Id: 186
+Processing node_id: 79
+Found node: Node { op: "pi077", children: [], eclass: "79", cost: 1.0 }
+Child IDs: []
+Added leaf node: 79, Id: 187
+Processing node_id: 207
+Found node: Node { op: "pi205", children: [], eclass: "207", cost: 1.0 }
+Child IDs: []
+Added leaf node: 207, Id: 188
+Processing node_id: 989
+Found node: Node { op: "*", children: ["79", "207"], eclass: "989", cost: 4.0 }
+Child IDs: [187, 188]
+Added Or operator with children: [187, 188], Id: 189
+Processing node_id: 990
+Found node: Node { op: "*", children: ["984", "989"], eclass: "990", cost: 4.0 }
+Child IDs: [186, 189]
+Added Or operator with children: [186, 189], Id: 190
+Processing node_id: 992
+Found node: Node { op: "*", children: ["80", "208"], eclass: "992", cost: 4.0 }
+Child IDs: [184, 185]
+Added Or operator with children: [184, 185], Id: 191
+Processing node_id: 4044
+Found node: Node { op: "+", children: ["990", "992"], eclass: "4044", cost: 3.0 }
+Child IDs: [190, 191]
+Added And operator with children: [190, 191], Id: 192
+Processing node_id: 3942
+Found node: Node { op: "*", children: ["986", "4044"], eclass: "3942", cost: 4.0 }
+Child IDs: [183, 192]
+Added Or operator with children: [183, 192], Id: 193
+Processing node_id: 205
+Found node: Node { op: "pi203", children: [], eclass: "205", cost: 1.0 }
+Child IDs: []
+Added leaf node: 205, Id: 194
+Processing node_id: 77
+Found node: Node { op: "pi075", children: [], eclass: "77", cost: 1.0 }
+Child IDs: []
+Added leaf node: 77, Id: 195
+Processing node_id: 206
+Found node: Node { op: "pi204", children: [], eclass: "206", cost: 1.0 }
+Child IDs: []
+Added leaf node: 206, Id: 196
+Processing node_id: 78
+Found node: Node { op: "pi076", children: [], eclass: "78", cost: 1.0 }
+Child IDs: []
+Added leaf node: 78, Id: 197
+Processing node_id: 953
+Found node: Node { op: "*", children: ["206", "78"], eclass: "953", cost: 4.0 }
+Child IDs: [196, 197]
+Added Or operator with children: [196, 197], Id: 198
+Processing node_id: 18569
+Found node: Node { op: "+", children: ["77", "953"], eclass: "18569", cost: 3.0 }
+Child IDs: [195, 198]
+Added And operator with children: [195, 198], Id: 199
+Processing node_id: 8970
+Found node: Node { op: "+", children: ["205", "18569"], eclass: "8970", cost: 3.0 }
+Child IDs: [194, 199]
+Added And operator with children: [194, 199], Id: 200
+Processing node_id: 954
+Found node: Node { op: "*", children: ["77", "205"], eclass: "954", cost: 4.0 }
+Child IDs: [195, 194]
+Added Or operator with children: [195, 194], Id: 201
+Processing node_id: 970
+Found node: Node { op: "+", children: ["8970", "954"], eclass: "970", cost: 3.0 }
+Child IDs: [200, 201]
+Added And operator with children: [200, 201], Id: 202
+Processing node_id: 3810
+Found node: Node { op: "+", children: ["78", "206"], eclass: "3810", cost: 3.0 }
+Child IDs: [197, 196]
+Added And operator with children: [197, 196], Id: 203
+Processing node_id: 971
+Found node: Node { op: "*", children: ["970", "3810"], eclass: "971", cost: 4.0 }
+Child IDs: [202, 203]
+Added Or operator with children: [202, 203], Id: 204
+Processing node_id: 76
+Found node: Node { op: "pi074", children: [], eclass: "76", cost: 1.0 }
+Child IDs: []
+Added leaf node: 76, Id: 205
+Processing node_id: 204
+Found node: Node { op: "pi202", children: [], eclass: "204", cost: 1.0 }
+Child IDs: []
+Added leaf node: 204, Id: 206
+Processing node_id: 939
+Found node: Node { op: "+", children: ["76", "204"], eclass: "939", cost: 3.0 }
+Child IDs: [205, 206]
+Added And operator with children: [205, 206], Id: 207
+Processing node_id: 75
+Found node: Node { op: "pi073", children: [], eclass: "75", cost: 1.0 }
+Child IDs: []
+Added leaf node: 75, Id: 208
+Processing node_id: 203
+Found node: Node { op: "pi201", children: [], eclass: "203", cost: 1.0 }
+Child IDs: []
+Added leaf node: 203, Id: 209
+Processing node_id: 937
+Found node: Node { op: "+", children: ["75", "203"], eclass: "937", cost: 3.0 }
+Child IDs: [208, 209]
+Added And operator with children: [208, 209], Id: 210
+Processing node_id: 202
+Found node: Node { op: "pi200", children: [], eclass: "202", cost: 1.0 }
+Child IDs: []
+Added leaf node: 202, Id: 211
+Processing node_id: 74
+Found node: Node { op: "pi072", children: [], eclass: "74", cost: 1.0 }
+Child IDs: []
+Added leaf node: 74, Id: 212
+Processing node_id: 942
+Found node: Node { op: "*", children: ["202", "74"], eclass: "942", cost: 4.0 }
+Child IDs: [211, 212]
+Added Or operator with children: [211, 212], Id: 213
+Processing node_id: 943
+Found node: Node { op: "*", children: ["937", "942"], eclass: "943", cost: 4.0 }
+Child IDs: [210, 213]
+Added Or operator with children: [210, 213], Id: 214
+Processing node_id: 945
+Found node: Node { op: "*", children: ["203", "75"], eclass: "945", cost: 4.0 }
+Child IDs: [209, 208]
+Added Or operator with children: [209, 208], Id: 215
+Processing node_id: 4030
+Found node: Node { op: "+", children: ["943", "945"], eclass: "4030", cost: 3.0 }
+Child IDs: [214, 215]
+Added And operator with children: [214, 215], Id: 216
+Processing node_id: 3790
+Found node: Node { op: "*", children: ["939", "4030"], eclass: "3790", cost: 4.0 }
+Child IDs: [207, 216]
+Added Or operator with children: [207, 216], Id: 217
+Processing node_id: 2438
+Found node: Node { op: "*", children: ["939", "937"], eclass: "2438", cost: 4.0 }
+Child IDs: [207, 210]
+Added Or operator with children: [207, 210], Id: 218
+Processing node_id: 936
+Found node: Node { op: "+", children: ["202", "74"], eclass: "936", cost: 3.0 }
+Child IDs: [211, 212]
+Added And operator with children: [211, 212], Id: 219
+Processing node_id: 940
+Found node: Node { op: "*", children: ["2438", "936"], eclass: "940", cost: 4.0 }
+Child IDs: [218, 219]
+Added Or operator with children: [218, 219], Id: 220
+Processing node_id: 72
+Found node: Node { op: "pi070", children: [], eclass: "72", cost: 1.0 }
+Child IDs: []
+Added leaf node: 72, Id: 221
+Processing node_id: 200
+Found node: Node { op: "pi198", children: [], eclass: "200", cost: 1.0 }
+Child IDs: []
+Added leaf node: 200, Id: 222
+Processing node_id: 907
+Found node: Node { op: "*", children: ["72", "200"], eclass: "907", cost: 4.0 }
+Child IDs: [221, 222]
+Added Or operator with children: [221, 222], Id: 223
+Processing node_id: 73
+Found node: Node { op: "pi071", children: [], eclass: "73", cost: 1.0 }
+Child IDs: []
+Added leaf node: 73, Id: 224
+Processing node_id: 201
+Found node: Node { op: "pi199", children: [], eclass: "201", cost: 1.0 }
+Child IDs: []
+Added leaf node: 201, Id: 225
+Processing node_id: 906
+Found node: Node { op: "*", children: ["73", "201"], eclass: "906", cost: 4.0 }
+Child IDs: [224, 225]
+Added Or operator with children: [224, 225], Id: 226
+Processing node_id: 8160
+Found node: Node { op: "+", children: ["906", "72"], eclass: "8160", cost: 3.0 }
+Child IDs: [226, 221]
+Added And operator with children: [226, 221], Id: 227
+Processing node_id: 6972
+Found node: Node { op: "+", children: ["907", "8160"], eclass: "6972", cost: 3.0 }
+Child IDs: [223, 227]
+Added And operator with children: [223, 227], Id: 228
+Processing node_id: 923
+Found node: Node { op: "+", children: ["6972", "200"], eclass: "923", cost: 3.0 }
+Child IDs: [228, 222]
+Added And operator with children: [228, 222], Id: 229
+Processing node_id: 3658
+Found node: Node { op: "+", children: ["73", "201"], eclass: "3658", cost: 3.0 }
+Child IDs: [224, 225]
+Added And operator with children: [224, 225], Id: 230
+Processing node_id: 924
+Found node: Node { op: "*", children: ["923", "3658"], eclass: "924", cost: 4.0 }
+Child IDs: [229, 230]
+Added Or operator with children: [229, 230], Id: 231
+Processing node_id: 194
+Found node: Node { op: "pi192", children: [], eclass: "194", cost: 1.0 }
+Child IDs: []
+Added leaf node: 194, Id: 232
+Processing node_id: 66
+Found node: Node { op: "pi064", children: [], eclass: "66", cost: 1.0 }
+Child IDs: []
+Added leaf node: 66, Id: 233
+Processing node_id: 845
+Found node: Node { op: "+", children: ["194", "66"], eclass: "845", cost: 3.0 }
+Child IDs: [232, 233]
+Added And operator with children: [232, 233], Id: 234
+Processing node_id: 64
+Found node: Node { op: "pi062", children: [], eclass: "64", cost: 1.0 }
+Child IDs: []
+Added leaf node: 64, Id: 235
+Processing node_id: 192
+Found node: Node { op: "pi190", children: [], eclass: "192", cost: 1.0 }
+Child IDs: []
+Added leaf node: 192, Id: 236
+Processing node_id: 848
+Found node: Node { op: "*", children: ["64", "192"], eclass: "848", cost: 4.0 }
+Child IDs: [235, 236]
+Added Or operator with children: [235, 236], Id: 237
+Processing node_id: 65
+Found node: Node { op: "pi063", children: [], eclass: "65", cost: 1.0 }
+Child IDs: []
+Added leaf node: 65, Id: 238
+Processing node_id: 193
+Found node: Node { op: "pi191", children: [], eclass: "193", cost: 1.0 }
+Child IDs: []
+Added leaf node: 193, Id: 239
+Processing node_id: 843
+Found node: Node { op: "+", children: ["65", "193"], eclass: "843", cost: 3.0 }
+Child IDs: [238, 239]
+Added And operator with children: [238, 239], Id: 240
+Processing node_id: 849
+Found node: Node { op: "*", children: ["848", "843"], eclass: "849", cost: 4.0 }
+Child IDs: [237, 240]
+Added Or operator with children: [237, 240], Id: 241
+Processing node_id: 851
+Found node: Node { op: "*", children: ["65", "193"], eclass: "851", cost: 4.0 }
+Child IDs: [238, 239]
+Added Or operator with children: [238, 239], Id: 242
+Processing node_id: 3992
+Found node: Node { op: "+", children: ["849", "851"], eclass: "3992", cost: 3.0 }
+Child IDs: [241, 242]
+Added And operator with children: [241, 242], Id: 243
+Processing node_id: 3932
+Found node: Node { op: "*", children: ["845", "3992"], eclass: "3932", cost: 4.0 }
+Child IDs: [234, 243]
+Added Or operator with children: [234, 243], Id: 244
+Processing node_id: 2612
+Found node: Node { op: "*", children: ["845", "843"], eclass: "2612", cost: 4.0 }
+Child IDs: [234, 240]
+Added Or operator with children: [234, 240], Id: 245
+Processing node_id: 842
+Found node: Node { op: "+", children: ["64", "192"], eclass: "842", cost: 3.0 }
+Child IDs: [235, 236]
+Added And operator with children: [235, 236], Id: 246
+Processing node_id: 846
+Found node: Node { op: "*", children: ["2612", "842"], eclass: "846", cost: 4.0 }
+Child IDs: [245, 246]
+Added Or operator with children: [245, 246], Id: 247
+Processing node_id: 191
+Found node: Node { op: "pi189", children: [], eclass: "191", cost: 1.0 }
+Child IDs: []
+Added leaf node: 191, Id: 248
+Processing node_id: 63
+Found node: Node { op: "pi061", children: [], eclass: "63", cost: 1.0 }
+Child IDs: []
+Added leaf node: 63, Id: 249
+Processing node_id: 3802
+Found node: Node { op: "+", children: ["191", "63"], eclass: "3802", cost: 3.0 }
+Child IDs: [248, 249]
+Added And operator with children: [248, 249], Id: 250
+Processing node_id: 16259
+Found node: Node { op: "*", children: ["846", "3802"], eclass: "16259", cost: 4.0 }
+Child IDs: [247, 250]
+Added Or operator with children: [247, 250], Id: 251
+Processing node_id: 62
+Found node: Node { op: "pi060", children: [], eclass: "62", cost: 1.0 }
+Child IDs: []
+Added leaf node: 62, Id: 252
+Processing node_id: 190
+Found node: Node { op: "pi188", children: [], eclass: "190", cost: 1.0 }
+Child IDs: []
+Added leaf node: 190, Id: 253
+Processing node_id: 813
+Found node: Node { op: "*", children: ["62", "190"], eclass: "813", cost: 4.0 }
+Child IDs: [252, 253]
+Added Or operator with children: [252, 253], Id: 254
+Processing node_id: 812
+Found node: Node { op: "*", children: ["191", "63"], eclass: "812", cost: 4.0 }
+Child IDs: [248, 249]
+Added Or operator with children: [248, 249], Id: 255
+Processing node_id: 19754
+Found node: Node { op: "+", children: ["812", "190"], eclass: "19754", cost: 3.0 }
+Child IDs: [255, 253]
+Added And operator with children: [255, 253], Id: 256
+Processing node_id: 9394
+Found node: Node { op: "+", children: ["813", "19754"], eclass: "9394", cost: 3.0 }
+Child IDs: [254, 256]
+Added And operator with children: [254, 256], Id: 257
+Processing node_id: 829
+Found node: Node { op: "+", children: ["9394", "62"], eclass: "829", cost: 3.0 }
+Child IDs: [257, 252]
+Added And operator with children: [257, 252], Id: 258
+Processing node_id: 10598
+Found node: Node { op: "*", children: ["16259", "829"], eclass: "10598", cost: 4.0 }
+Child IDs: [251, 258]
+Added Or operator with children: [251, 258], Id: 259
+Processing node_id: 189
+Found node: Node { op: "pi187", children: [], eclass: "189", cost: 1.0 }
+Child IDs: []
+Added leaf node: 189, Id: 260
+Processing node_id: 61
+Found node: Node { op: "pi059", children: [], eclass: "61", cost: 1.0 }
+Child IDs: []
+Added leaf node: 61, Id: 261
+Processing node_id: 798
+Found node: Node { op: "+", children: ["189", "61"], eclass: "798", cost: 3.0 }
+Child IDs: [260, 261]
+Added And operator with children: [260, 261], Id: 262
+Processing node_id: 60
+Found node: Node { op: "pi058", children: [], eclass: "60", cost: 1.0 }
+Child IDs: []
+Added leaf node: 60, Id: 263
+Processing node_id: 188
+Found node: Node { op: "pi186", children: [], eclass: "188", cost: 1.0 }
+Child IDs: []
+Added leaf node: 188, Id: 264
+Processing node_id: 796
+Found node: Node { op: "+", children: ["60", "188"], eclass: "796", cost: 3.0 }
+Child IDs: [263, 264]
+Added And operator with children: [263, 264], Id: 265
+Processing node_id: 59
+Found node: Node { op: "pi057", children: [], eclass: "59", cost: 1.0 }
+Child IDs: []
+Added leaf node: 59, Id: 266
+Processing node_id: 2624
+Found node: Node { op: "*", children: ["796", "59"], eclass: "2624", cost: 4.0 }
+Child IDs: [265, 266]
+Added Or operator with children: [265, 266], Id: 267
+Processing node_id: 187
+Found node: Node { op: "pi185", children: [], eclass: "187", cost: 1.0 }
+Child IDs: []
+Added leaf node: 187, Id: 268
+Processing node_id: 802
+Found node: Node { op: "*", children: ["2624", "187"], eclass: "802", cost: 4.0 }
+Child IDs: [267, 268]
+Added Or operator with children: [267, 268], Id: 269
+Processing node_id: 804
+Found node: Node { op: "*", children: ["60", "188"], eclass: "804", cost: 4.0 }
+Child IDs: [263, 264]
+Added Or operator with children: [263, 264], Id: 270
+Processing node_id: 3978
+Found node: Node { op: "+", children: ["802", "804"], eclass: "3978", cost: 3.0 }
+Child IDs: [269, 270]
+Added And operator with children: [269, 270], Id: 271
+Processing node_id: 3780
+Found node: Node { op: "*", children: ["798", "3978"], eclass: "3780", cost: 4.0 }
+Child IDs: [262, 271]
+Added Or operator with children: [262, 271], Id: 272
+Processing node_id: 795
+Found node: Node { op: "+", children: ["59", "187"], eclass: "795", cost: 3.0 }
+Child IDs: [266, 268]
+Added And operator with children: [266, 268], Id: 273
+Processing node_id: 797
+Found node: Node { op: "*", children: ["795", "796"], eclass: "797", cost: 4.0 }
+Child IDs: [273, 265]
+Added Or operator with children: [273, 265], Id: 274
+Processing node_id: 799
+Found node: Node { op: "*", children: ["798", "797"], eclass: "799", cost: 4.0 }
+Child IDs: [262, 274]
+Added Or operator with children: [262, 274], Id: 275
+Processing node_id: 56
+Found node: Node { op: "pi054", children: [], eclass: "56", cost: 1.0 }
+Child IDs: []
+Added leaf node: 56, Id: 276
+Processing node_id: 184
+Found node: Node { op: "pi182", children: [], eclass: "184", cost: 1.0 }
+Child IDs: []
+Added leaf node: 184, Id: 277
+Processing node_id: 764
+Found node: Node { op: "*", children: ["56", "184"], eclass: "764", cost: 4.0 }
+Child IDs: [276, 277]
+Added Or operator with children: [276, 277], Id: 278
+Processing node_id: 58
+Found node: Node { op: "pi056", children: [], eclass: "58", cost: 1.0 }
+Child IDs: []
+Added leaf node: 58, Id: 279
+Processing node_id: 186
+Found node: Node { op: "pi184", children: [], eclass: "186", cost: 1.0 }
+Child IDs: []
+Added leaf node: 186, Id: 280
+Processing node_id: 765
+Found node: Node { op: "*", children: ["58", "186"], eclass: "765", cost: 4.0 }
+Child IDs: [279, 280]
+Added Or operator with children: [279, 280], Id: 281
+Processing node_id: 7093
+Found node: Node { op: "+", children: ["764", "765"], eclass: "7093", cost: 3.0 }
+Child IDs: [278, 281]
+Added And operator with children: [278, 281], Id: 282
+Processing node_id: 185
+Found node: Node { op: "pi183", children: [], eclass: "185", cost: 1.0 }
+Child IDs: []
+Added leaf node: 185, Id: 283
+Processing node_id: 57
+Found node: Node { op: "pi055", children: [], eclass: "57", cost: 1.0 }
+Child IDs: []
+Added leaf node: 57, Id: 284
+Processing node_id: 766
+Found node: Node { op: "*", children: ["185", "57"], eclass: "766", cost: 4.0 }
+Child IDs: [283, 284]
+Added Or operator with children: [283, 284], Id: 285
+Processing node_id: 2822
+Found node: Node { op: "+", children: ["7093", "766"], eclass: "2822", cost: 3.0 }
+Child IDs: [282, 285]
+Added And operator with children: [282, 285], Id: 286
+Processing node_id: 751
+Found node: Node { op: "+", children: ["56", "184"], eclass: "751", cost: 3.0 }
+Child IDs: [276, 277]
+Added And operator with children: [276, 277], Id: 287
+Processing node_id: 55
+Found node: Node { op: "pi053", children: [], eclass: "55", cost: 1.0 }
+Child IDs: []
+Added leaf node: 55, Id: 288
+Processing node_id: 183
+Found node: Node { op: "pi181", children: [], eclass: "183", cost: 1.0 }
+Child IDs: []
+Added leaf node: 183, Id: 289
+Processing node_id: 749
+Found node: Node { op: "+", children: ["55", "183"], eclass: "749", cost: 3.0 }
+Child IDs: [288, 289]
+Added And operator with children: [288, 289], Id: 290
+Processing node_id: 54
+Found node: Node { op: "pi052", children: [], eclass: "54", cost: 1.0 }
+Child IDs: []
+Added leaf node: 54, Id: 291
+Processing node_id: 182
+Found node: Node { op: "pi180", children: [], eclass: "182", cost: 1.0 }
+Child IDs: []
+Added leaf node: 182, Id: 292
+Processing node_id: 754
+Found node: Node { op: "*", children: ["54", "182"], eclass: "754", cost: 4.0 }
+Child IDs: [291, 292]
+Added Or operator with children: [291, 292], Id: 293
+Processing node_id: 755
+Found node: Node { op: "*", children: ["749", "754"], eclass: "755", cost: 4.0 }
+Child IDs: [290, 293]
+Added Or operator with children: [290, 293], Id: 294
+Processing node_id: 757
+Found node: Node { op: "*", children: ["183", "55"], eclass: "757", cost: 4.0 }
+Child IDs: [289, 288]
+Added Or operator with children: [289, 288], Id: 295
+Processing node_id: 4066
+Found node: Node { op: "+", children: ["755", "757"], eclass: "4066", cost: 3.0 }
+Child IDs: [294, 295]
+Added And operator with children: [294, 295], Id: 296
+Processing node_id: 3628
+Found node: Node { op: "*", children: ["751", "4066"], eclass: "3628", cost: 4.0 }
+Child IDs: [287, 296]
+Added Or operator with children: [287, 296], Id: 297
+Processing node_id: 21301
+Found node: Node { op: "+", children: ["2822", "3628"], eclass: "21301", cost: 3.0 }
+Child IDs: [286, 297]
+Added And operator with children: [286, 297], Id: 298
+Processing node_id: 53
+Found node: Node { op: "pi051", children: [], eclass: "53", cost: 1.0 }
+Child IDs: []
+Added leaf node: 53, Id: 299
+Processing node_id: 181
+Found node: Node { op: "pi179", children: [], eclass: "181", cost: 1.0 }
+Child IDs: []
+Added leaf node: 181, Id: 300
+Processing node_id: 718
+Found node: Node { op: "*", children: ["53", "181"], eclass: "718", cost: 4.0 }
+Child IDs: [299, 300]
+Added Or operator with children: [299, 300], Id: 301
+Processing node_id: 3944
+Found node: Node { op: "+", children: ["181", "53"], eclass: "3944", cost: 3.0 }
+Child IDs: [300, 299]
+Added And operator with children: [300, 299], Id: 302
+Processing node_id: 52
+Found node: Node { op: "pi050", children: [], eclass: "52", cost: 1.0 }
+Child IDs: []
+Added leaf node: 52, Id: 303
+Processing node_id: 180
+Found node: Node { op: "pi178", children: [], eclass: "180", cost: 1.0 }
+Child IDs: []
+Added leaf node: 180, Id: 304
+Processing node_id: 719
+Found node: Node { op: "*", children: ["52", "180"], eclass: "719", cost: 4.0 }
+Child IDs: [303, 304]
+Added Or operator with children: [303, 304], Id: 305
+Processing node_id: 8062
+Found node: Node { op: "+", children: ["719", "52"], eclass: "8062", cost: 3.0 }
+Child IDs: [305, 303]
+Added And operator with children: [305, 303], Id: 306
+Processing node_id: 7070
+Found node: Node { op: "+", children: ["8062", "180"], eclass: "7070", cost: 3.0 }
+Child IDs: [306, 304]
+Added And operator with children: [306, 304], Id: 307
+Processing node_id: 9850
+Found node: Node { op: "*", children: ["3944", "7070"], eclass: "9850", cost: 4.0 }
+Child IDs: [302, 307]
+Added Or operator with children: [302, 307], Id: 308
+Processing node_id: 736
+Found node: Node { op: "+", children: ["718", "9850"], eclass: "736", cost: 3.0 }
+Child IDs: [301, 308]
+Added And operator with children: [301, 308], Id: 309
+Processing node_id: 46
+Found node: Node { op: "pi044", children: [], eclass: "46", cost: 1.0 }
+Child IDs: []
+Added leaf node: 46, Id: 310
+Processing node_id: 174
+Found node: Node { op: "pi172", children: [], eclass: "174", cost: 1.0 }
+Child IDs: []
+Added leaf node: 174, Id: 311
+Processing node_id: 657
+Found node: Node { op: "+", children: ["46", "174"], eclass: "657", cost: 3.0 }
+Child IDs: [310, 311]
+Added And operator with children: [310, 311], Id: 312
+Processing node_id: 44
+Found node: Node { op: "pi042", children: [], eclass: "44", cost: 1.0 }
+Child IDs: []
+Added leaf node: 44, Id: 313
+Processing node_id: 172
+Found node: Node { op: "pi170", children: [], eclass: "172", cost: 1.0 }
+Child IDs: []
+Added leaf node: 172, Id: 314
+Processing node_id: 654
+Found node: Node { op: "+", children: ["44", "172"], eclass: "654", cost: 3.0 }
+Child IDs: [313, 314]
+Added And operator with children: [313, 314], Id: 315
+Processing node_id: 2664
+Found node: Node { op: "*", children: ["657", "654"], eclass: "2664", cost: 4.0 }
+Child IDs: [312, 315]
+Added Or operator with children: [312, 315], Id: 316
+Processing node_id: 173
+Found node: Node { op: "pi171", children: [], eclass: "173", cost: 1.0 }
+Child IDs: []
+Added leaf node: 173, Id: 317
+Processing node_id: 45
+Found node: Node { op: "pi043", children: [], eclass: "45", cost: 1.0 }
+Child IDs: []
+Added leaf node: 45, Id: 318
+Processing node_id: 655
+Found node: Node { op: "+", children: ["173", "45"], eclass: "655", cost: 3.0 }
+Child IDs: [317, 318]
+Added And operator with children: [317, 318], Id: 319
+Processing node_id: 658
+Found node: Node { op: "*", children: ["2664", "655"], eclass: "658", cost: 4.0 }
+Child IDs: [316, 319]
+Added Or operator with children: [316, 319], Id: 320
+Processing node_id: 170
+Found node: Node { op: "pi168", children: [], eclass: "170", cost: 1.0 }
+Child IDs: []
+Added leaf node: 170, Id: 321
+Processing node_id: 42
+Found node: Node { op: "pi040", children: [], eclass: "42", cost: 1.0 }
+Child IDs: []
+Added leaf node: 42, Id: 322
+Processing node_id: 625
+Found node: Node { op: "*", children: ["170", "42"], eclass: "625", cost: 4.0 }
+Child IDs: [321, 322]
+Added Or operator with children: [321, 322], Id: 323
+Processing node_id: 171
+Found node: Node { op: "pi169", children: [], eclass: "171", cost: 1.0 }
+Child IDs: []
+Added leaf node: 171, Id: 324
+Processing node_id: 43
+Found node: Node { op: "pi041", children: [], eclass: "43", cost: 1.0 }
+Child IDs: []
+Added leaf node: 43, Id: 325
+Processing node_id: 624
+Found node: Node { op: "*", children: ["171", "43"], eclass: "624", cost: 4.0 }
+Child IDs: [324, 325]
+Added Or operator with children: [324, 325], Id: 326
+Processing node_id: 41
+Found node: Node { op: "pi039", children: [], eclass: "41", cost: 1.0 }
+Child IDs: []
+Added leaf node: 41, Id: 327
+Processing node_id: 169
+Found node: Node { op: "pi167", children: [], eclass: "169", cost: 1.0 }
+Child IDs: []
+Added leaf node: 169, Id: 328
+Processing node_id: 623
+Found node: Node { op: "*", children: ["41", "169"], eclass: "623", cost: 4.0 }
+Child IDs: [327, 328]
+Added Or operator with children: [327, 328], Id: 329
+Processing node_id: 8840
+Found node: Node { op: "+", children: ["624", "623"], eclass: "8840", cost: 3.0 }
+Child IDs: [326, 329]
+Added And operator with children: [326, 329], Id: 330
+Processing node_id: 38
+Found node: Node { op: "pi036", children: [], eclass: "38", cost: 1.0 }
+Child IDs: []
+Added leaf node: 38, Id: 331
+Processing node_id: 166
+Found node: Node { op: "pi164", children: [], eclass: "166", cost: 1.0 }
+Child IDs: []
+Added leaf node: 166, Id: 332
+Processing node_id: 577
+Found node: Node { op: "*", children: ["38", "166"], eclass: "577", cost: 4.0 }
+Child IDs: [331, 332]
+Added Or operator with children: [331, 332], Id: 333
+Processing node_id: 37
+Found node: Node { op: "pi035", children: [], eclass: "37", cost: 1.0 }
+Child IDs: []
+Added leaf node: 37, Id: 334
+Processing node_id: 165
+Found node: Node { op: "pi163", children: [], eclass: "165", cost: 1.0 }
+Child IDs: []
+Added leaf node: 165, Id: 335
+Processing node_id: 578
+Found node: Node { op: "*", children: ["37", "165"], eclass: "578", cost: 4.0 }
+Child IDs: [334, 335]
+Added Or operator with children: [334, 335], Id: 336
+Processing node_id: 3534
+Found node: Node { op: "+", children: ["577", "578"], eclass: "3534", cost: 3.0 }
+Child IDs: [333, 336]
+Added And operator with children: [333, 336], Id: 337
+Processing node_id: 36
+Found node: Node { op: "pi034", children: [], eclass: "36", cost: 1.0 }
+Child IDs: []
+Added leaf node: 36, Id: 338
+Processing node_id: 164
+Found node: Node { op: "pi162", children: [], eclass: "164", cost: 1.0 }
+Child IDs: []
+Added leaf node: 164, Id: 339
+Processing node_id: 576
+Found node: Node { op: "*", children: ["36", "164"], eclass: "576", cost: 4.0 }
+Child IDs: [338, 339]
+Added Or operator with children: [338, 339], Id: 340
+Processing node_id: 3300
+Found node: Node { op: "+", children: ["3534", "576"], eclass: "3300", cost: 3.0 }
+Child IDs: [337, 340]
+Added And operator with children: [337, 340], Id: 341
+Processing node_id: 33
+Found node: Node { op: "pi031", children: [], eclass: "33", cost: 1.0 }
+Child IDs: []
+Added leaf node: 33, Id: 342
+Processing node_id: 161
+Found node: Node { op: "pi159", children: [], eclass: "161", cost: 1.0 }
+Child IDs: []
+Added leaf node: 161, Id: 343
+Processing node_id: 530
+Found node: Node { op: "*", children: ["33", "161"], eclass: "530", cost: 4.0 }
+Child IDs: [342, 343]
+Added Or operator with children: [342, 343], Id: 344
+Processing node_id: 32
+Found node: Node { op: "pi030", children: [], eclass: "32", cost: 1.0 }
+Child IDs: []
+Added leaf node: 32, Id: 345
+Processing node_id: 160
+Found node: Node { op: "pi158", children: [], eclass: "160", cost: 1.0 }
+Child IDs: []
+Added leaf node: 160, Id: 346
+Processing node_id: 531
+Found node: Node { op: "*", children: ["32", "160"], eclass: "531", cost: 4.0 }
+Child IDs: [345, 346]
+Added Or operator with children: [345, 346], Id: 347
+Processing node_id: 3838
+Found node: Node { op: "+", children: ["530", "531"], eclass: "3838", cost: 3.0 }
+Child IDs: [344, 347]
+Added And operator with children: [344, 347], Id: 348
+Processing node_id: 31
+Found node: Node { op: "pi029", children: [], eclass: "31", cost: 1.0 }
+Child IDs: []
+Added leaf node: 31, Id: 349
+Processing node_id: 159
+Found node: Node { op: "pi157", children: [], eclass: "159", cost: 1.0 }
+Child IDs: []
+Added leaf node: 159, Id: 350
+Processing node_id: 529
+Found node: Node { op: "*", children: ["31", "159"], eclass: "529", cost: 4.0 }
+Child IDs: [349, 350]
+Added Or operator with children: [349, 350], Id: 351
+Processing node_id: 3051
+Found node: Node { op: "+", children: ["3838", "529"], eclass: "3051", cost: 3.0 }
+Child IDs: [348, 351]
+Added And operator with children: [348, 351], Id: 352
+Processing node_id: 516
+Found node: Node { op: "+", children: ["31", "159"], eclass: "516", cost: 3.0 }
+Child IDs: [349, 350]
+Added And operator with children: [349, 350], Id: 353
+Processing node_id: 30
+Found node: Node { op: "pi028", children: [], eclass: "30", cost: 1.0 }
+Child IDs: []
+Added leaf node: 30, Id: 354
+Processing node_id: 158
+Found node: Node { op: "pi156", children: [], eclass: "158", cost: 1.0 }
+Child IDs: []
+Added leaf node: 158, Id: 355
+Processing node_id: 514
+Found node: Node { op: "+", children: ["30", "158"], eclass: "514", cost: 3.0 }
+Child IDs: [354, 355]
+Added And operator with children: [354, 355], Id: 356
+Processing node_id: 29
+Found node: Node { op: "pi027", children: [], eclass: "29", cost: 1.0 }
+Child IDs: []
+Added leaf node: 29, Id: 357
+Processing node_id: 2596
+Found node: Node { op: "*", children: ["514", "29"], eclass: "2596", cost: 4.0 }
+Child IDs: [356, 357]
+Added Or operator with children: [356, 357], Id: 358
+Processing node_id: 157
+Found node: Node { op: "pi155", children: [], eclass: "157", cost: 1.0 }
+Child IDs: []
+Added leaf node: 157, Id: 359
+Processing node_id: 520
+Found node: Node { op: "*", children: ["2596", "157"], eclass: "520", cost: 4.0 }
+Child IDs: [358, 359]
+Added Or operator with children: [358, 359], Id: 360
+Processing node_id: 522
+Found node: Node { op: "*", children: ["30", "158"], eclass: "522", cost: 4.0 }
+Child IDs: [354, 355]
+Added Or operator with children: [354, 355], Id: 361
+Processing node_id: 4022
+Found node: Node { op: "+", children: ["520", "522"], eclass: "4022", cost: 3.0 }
+Child IDs: [360, 361]
+Added And operator with children: [360, 361], Id: 362
+Processing node_id: 3762
+Found node: Node { op: "*", children: ["516", "4022"], eclass: "3762", cost: 4.0 }
+Child IDs: [353, 362]
+Added Or operator with children: [353, 362], Id: 363
+Processing node_id: 20132
+Found node: Node { op: "+", children: ["3051", "3762"], eclass: "20132", cost: 3.0 }
+Child IDs: [352, 363]
+Added And operator with children: [352, 363], Id: 364
+Processing node_id: 513
+Found node: Node { op: "+", children: ["29", "157"], eclass: "513", cost: 3.0 }
+Child IDs: [357, 359]
+Added And operator with children: [357, 359], Id: 365
+Processing node_id: 515
+Found node: Node { op: "*", children: ["513", "514"], eclass: "515", cost: 4.0 }
+Child IDs: [365, 356]
+Added Or operator with children: [365, 356], Id: 366
+Processing node_id: 517
+Found node: Node { op: "*", children: ["515", "516"], eclass: "517", cost: 4.0 }
+Child IDs: [366, 353]
+Added Or operator with children: [366, 353], Id: 367
+Processing node_id: 27
+Found node: Node { op: "pi025", children: [], eclass: "27", cost: 1.0 }
+Child IDs: []
+Added leaf node: 27, Id: 368
+Processing node_id: 155
+Found node: Node { op: "pi153", children: [], eclass: "155", cost: 1.0 }
+Child IDs: []
+Added leaf node: 155, Id: 369
+Processing node_id: 3878
+Found node: Node { op: "+", children: ["27", "155"], eclass: "3878", cost: 3.0 }
+Child IDs: [368, 369]
+Added And operator with children: [368, 369], Id: 370
+Processing node_id: 28
+Found node: Node { op: "pi026", children: [], eclass: "28", cost: 1.0 }
+Child IDs: []
+Added leaf node: 28, Id: 371
+Processing node_id: 156
+Found node: Node { op: "pi154", children: [], eclass: "156", cost: 1.0 }
+Child IDs: []
+Added leaf node: 156, Id: 372
+Processing node_id: 483
+Found node: Node { op: "*", children: ["28", "156"], eclass: "483", cost: 4.0 }
+Child IDs: [371, 372]
+Added Or operator with children: [371, 372], Id: 373
+Processing node_id: 9225
+Found node: Node { op: "+", children: ["3878", "483"], eclass: "9225", cost: 3.0 }
+Child IDs: [370, 373]
+Added And operator with children: [370, 373], Id: 374
+Processing node_id: 484
+Found node: Node { op: "*", children: ["155", "27"], eclass: "484", cost: 4.0 }
+Child IDs: [369, 368]
+Added Or operator with children: [369, 368], Id: 375
+Processing node_id: 500
+Found node: Node { op: "+", children: ["9225", "484"], eclass: "500", cost: 3.0 }
+Child IDs: [374, 375]
+Added And operator with children: [374, 375], Id: 376
+Processing node_id: 14863
+Found node: Node { op: "*", children: ["517", "500"], eclass: "14863", cost: 4.0 }
+Child IDs: [367, 376]
+Added Or operator with children: [367, 376], Id: 377
+Processing node_id: 3630
+Found node: Node { op: "+", children: ["28", "156"], eclass: "3630", cost: 3.0 }
+Child IDs: [371, 372]
+Added And operator with children: [371, 372], Id: 378
+Processing node_id: 11567
+Found node: Node { op: "*", children: ["14863", "3630"], eclass: "11567", cost: 4.0 }
+Child IDs: [377, 378]
+Added Or operator with children: [377, 378], Id: 379
+Processing node_id: 3690
+Found node: Node { op: "+", children: ["484", "483"], eclass: "3690", cost: 3.0 }
+Child IDs: [375, 373]
+Added And operator with children: [375, 373], Id: 380
+Processing node_id: 26
+Found node: Node { op: "pi024", children: [], eclass: "26", cost: 1.0 }
+Child IDs: []
+Added leaf node: 26, Id: 381
+Processing node_id: 154
+Found node: Node { op: "pi152", children: [], eclass: "154", cost: 1.0 }
+Child IDs: []
+Added leaf node: 154, Id: 382
+Processing node_id: 482
+Found node: Node { op: "*", children: ["26", "154"], eclass: "482", cost: 4.0 }
+Child IDs: [381, 382]
+Added Or operator with children: [381, 382], Id: 383
+Processing node_id: 23
+Found node: Node { op: "pi021", children: [], eclass: "23", cost: 1.0 }
+Child IDs: []
+Added leaf node: 23, Id: 384
+Processing node_id: 151
+Found node: Node { op: "pi149", children: [], eclass: "151", cost: 1.0 }
+Child IDs: []
+Added leaf node: 151, Id: 385
+Processing node_id: 436
+Found node: Node { op: "*", children: ["23", "151"], eclass: "436", cost: 4.0 }
+Child IDs: [384, 385]
+Added Or operator with children: [384, 385], Id: 386
+Processing node_id: 22
+Found node: Node { op: "pi020", children: [], eclass: "22", cost: 1.0 }
+Child IDs: []
+Added leaf node: 22, Id: 387
+Processing node_id: 150
+Found node: Node { op: "pi148", children: [], eclass: "150", cost: 1.0 }
+Child IDs: []
+Added leaf node: 150, Id: 388
+Processing node_id: 437
+Found node: Node { op: "*", children: ["22", "150"], eclass: "437", cost: 4.0 }
+Child IDs: [387, 388]
+Added Or operator with children: [387, 388], Id: 389
+Processing node_id: 21
+Found node: Node { op: "pi019", children: [], eclass: "21", cost: 1.0 }
+Child IDs: []
+Added leaf node: 21, Id: 390
+Processing node_id: 149
+Found node: Node { op: "pi147", children: [], eclass: "149", cost: 1.0 }
+Child IDs: []
+Added leaf node: 149, Id: 391
+Processing node_id: 435
+Found node: Node { op: "*", children: ["21", "149"], eclass: "435", cost: 4.0 }
+Child IDs: [390, 391]
+Added Or operator with children: [390, 391], Id: 392
+Processing node_id: 8478
+Found node: Node { op: "+", children: ["437", "435"], eclass: "8478", cost: 3.0 }
+Child IDs: [389, 392]
+Added And operator with children: [389, 392], Id: 393
+Processing node_id: 3294
+Found node: Node { op: "+", children: ["436", "8478"], eclass: "3294", cost: 3.0 }
+Child IDs: [386, 393]
+Added And operator with children: [386, 393], Id: 394
+Processing node_id: 422
+Found node: Node { op: "+", children: ["149", "21"], eclass: "422", cost: 3.0 }
+Child IDs: [391, 390]
+Added And operator with children: [391, 390], Id: 395
+Processing node_id: 20
+Found node: Node { op: "pi018", children: [], eclass: "20", cost: 1.0 }
+Child IDs: []
+Added leaf node: 20, Id: 396
+Processing node_id: 148
+Found node: Node { op: "pi146", children: [], eclass: "148", cost: 1.0 }
+Child IDs: []
+Added leaf node: 148, Id: 397
+Processing node_id: 420
+Found node: Node { op: "+", children: ["20", "148"], eclass: "420", cost: 3.0 }
+Child IDs: [396, 397]
+Added And operator with children: [396, 397], Id: 398
+Processing node_id: 2574
+Found node: Node { op: "*", children: ["422", "420"], eclass: "2574", cost: 4.0 }
+Child IDs: [395, 398]
+Added Or operator with children: [395, 398], Id: 399
+Processing node_id: 19
+Found node: Node { op: "pi017", children: [], eclass: "19", cost: 1.0 }
+Child IDs: []
+Added leaf node: 19, Id: 400
+Processing node_id: 147
+Found node: Node { op: "pi145", children: [], eclass: "147", cost: 1.0 }
+Child IDs: []
+Added leaf node: 147, Id: 401
+Processing node_id: 419
+Found node: Node { op: "+", children: ["19", "147"], eclass: "419", cost: 3.0 }
+Child IDs: [400, 401]
+Added And operator with children: [400, 401], Id: 402
+Processing node_id: 423
+Found node: Node { op: "*", children: ["2574", "419"], eclass: "423", cost: 4.0 }
+Child IDs: [399, 402]
+Added Or operator with children: [399, 402], Id: 403
+Processing node_id: 11
+Found node: Node { op: "pi009", children: [], eclass: "11", cost: 1.0 }
+Child IDs: []
+Added leaf node: 11, Id: 404
+Processing node_id: 139
+Found node: Node { op: "pi137", children: [], eclass: "139", cost: 1.0 }
+Child IDs: []
+Added leaf node: 139, Id: 405
+Processing node_id: 328
+Found node: Node { op: "+", children: ["11", "139"], eclass: "328", cost: 3.0 }
+Child IDs: [404, 405]
+Added And operator with children: [404, 405], Id: 406
+Processing node_id: 138
+Found node: Node { op: "pi136", children: [], eclass: "138", cost: 1.0 }
+Child IDs: []
+Added leaf node: 138, Id: 407
+Processing node_id: 10
+Found node: Node { op: "pi008", children: [], eclass: "10", cost: 1.0 }
+Child IDs: []
+Added leaf node: 10, Id: 408
+Processing node_id: 326
+Found node: Node { op: "+", children: ["138", "10"], eclass: "326", cost: 3.0 }
+Child IDs: [407, 408]
+Added And operator with children: [407, 408], Id: 409
+Processing node_id: 137
+Found node: Node { op: "pi135", children: [], eclass: "137", cost: 1.0 }
+Child IDs: []
+Added leaf node: 137, Id: 410
+Processing node_id: 5263
+Found node: Node { op: "*", children: ["326", "137"], eclass: "5263", cost: 4.0 }
+Child IDs: [409, 410]
+Added Or operator with children: [409, 410], Id: 411
+Processing node_id: 9
+Found node: Node { op: "pi007", children: [], eclass: "9", cost: 1.0 }
+Child IDs: []
+Added leaf node: 9, Id: 412
+Processing node_id: 332
+Found node: Node { op: "*", children: ["5263", "9"], eclass: "332", cost: 4.0 }
+Child IDs: [411, 412]
+Added Or operator with children: [411, 412], Id: 413
+Processing node_id: 334
+Found node: Node { op: "*", children: ["10", "138"], eclass: "334", cost: 4.0 }
+Child IDs: [408, 407]
+Added Or operator with children: [408, 407], Id: 414
+Processing node_id: 4062
+Found node: Node { op: "+", children: ["332", "334"], eclass: "4062", cost: 3.0 }
+Child IDs: [413, 414]
+Added And operator with children: [413, 414], Id: 415
+Processing node_id: 3600
+Found node: Node { op: "*", children: ["328", "4062"], eclass: "3600", cost: 4.0 }
+Child IDs: [406, 415]
+Added Or operator with children: [406, 415], Id: 416
+Processing node_id: 8
+Found node: Node { op: "pi006", children: [], eclass: "8", cost: 1.0 }
+Child IDs: []
+Added leaf node: 8, Id: 417
+Processing node_id: 136
+Found node: Node { op: "pi134", children: [], eclass: "136", cost: 1.0 }
+Child IDs: []
+Added leaf node: 136, Id: 418
+Processing node_id: 3914
+Found node: Node { op: "+", children: ["8", "136"], eclass: "3914", cost: 3.0 }
+Child IDs: [417, 418]
+Added And operator with children: [417, 418], Id: 419
+Processing node_id: 135
+Found node: Node { op: "pi133", children: [], eclass: "135", cost: 1.0 }
+Child IDs: []
+Added leaf node: 135, Id: 420
+Processing node_id: 7
+Found node: Node { op: "pi005", children: [], eclass: "7", cost: 1.0 }
+Child IDs: []
+Added leaf node: 7, Id: 421
+Processing node_id: 296
+Found node: Node { op: "*", children: ["7", "135"], eclass: "296", cost: 4.0 }
+Child IDs: [421, 420]
+Added Or operator with children: [421, 420], Id: 422
+Processing node_id: 19046
+Found node: Node { op: "+", children: ["7", "296"], eclass: "19046", cost: 3.0 }
+Child IDs: [421, 422]
+Added And operator with children: [421, 422], Id: 423
+Processing node_id: 9504
+Found node: Node { op: "+", children: ["135", "19046"], eclass: "9504", cost: 3.0 }
+Child IDs: [420, 423]
+Added And operator with children: [420, 423], Id: 424
+Processing node_id: 295
+Found node: Node { op: "*", children: ["136", "8"], eclass: "295", cost: 4.0 }
+Child IDs: [418, 417]
+Added Or operator with children: [418, 417], Id: 425
+Processing node_id: 312
+Found node: Node { op: "+", children: ["9504", "295"], eclass: "312", cost: 3.0 }
+Child IDs: [424, 425]
+Added And operator with children: [424, 425], Id: 426
+Processing node_id: 313
+Found node: Node { op: "*", children: ["3914", "312"], eclass: "313", cost: 4.0 }
+Child IDs: [419, 426]
+Added Or operator with children: [419, 426], Id: 427
+Processing node_id: 6
+Found node: Node { op: "pi004", children: [], eclass: "6", cost: 1.0 }
+Child IDs: []
+Added leaf node: 6, Id: 428
+Processing node_id: 134
+Found node: Node { op: "pi132", children: [], eclass: "134", cost: 1.0 }
+Child IDs: []
+Added leaf node: 134, Id: 429
+Processing node_id: 294
+Found node: Node { op: "*", children: ["6", "134"], eclass: "294", cost: 4.0 }
+Child IDs: [428, 429]
+Added Or operator with children: [428, 429], Id: 430
+Processing node_id: 9710
+Found node: Node { op: "+", children: ["294", "296"], eclass: "9710", cost: 3.0 }
+Child IDs: [430, 422]
+Added And operator with children: [430, 422], Id: 431
+Processing node_id: 131
+Found node: Node { op: "pi129", children: [], eclass: "131", cost: 1.0 }
+Child IDs: []
+Added leaf node: 131, Id: 432
+Processing node_id: 3
+Found node: Node { op: "pi001", children: [], eclass: "3", cost: 1.0 }
+Child IDs: []
+Added leaf node: 3, Id: 433
+Processing node_id: 262
+Found node: Node { op: "+", children: ["131", "3"], eclass: "262", cost: 3.0 }
+Child IDs: [432, 433]
+Added And operator with children: [432, 433], Id: 434
+Processing node_id: 130
+Found node: Node { op: "pi128", children: [], eclass: "130", cost: 1.0 }
+Child IDs: []
+Added leaf node: 130, Id: 435
+Processing node_id: 2
+Found node: Node { op: "pi000", children: [], eclass: "2", cost: 1.0 }
+Child IDs: []
+Added leaf node: 2, Id: 436
+Processing node_id: 261
+Found node: Node { op: "*", children: ["130", "2"], eclass: "261", cost: 4.0 }
+Child IDs: [435, 436]
+Added Or operator with children: [435, 436], Id: 437
+Processing node_id: 263
+Found node: Node { op: "*", children: ["262", "261"], eclass: "263", cost: 4.0 }
+Child IDs: [434, 437]
+Added Or operator with children: [434, 437], Id: 438
+Processing node_id: 264
+Found node: Node { op: "*", children: ["131", "3"], eclass: "264", cost: 4.0 }
+Child IDs: [432, 433]
+Added Or operator with children: [432, 433], Id: 439
+Processing node_id: 282
+Found node: Node { op: "+", children: ["263", "264"], eclass: "282", cost: 3.0 }
+Child IDs: [438, 439]
+Added And operator with children: [438, 439], Id: 440
+Processing node_id: 132
+Found node: Node { op: "pi130", children: [], eclass: "132", cost: 1.0 }
+Child IDs: []
+Added leaf node: 132, Id: 441
+Processing node_id: 4
+Found node: Node { op: "pi002", children: [], eclass: "4", cost: 1.0 }
+Child IDs: []
+Added leaf node: 4, Id: 442
+Processing node_id: 277
+Found node: Node { op: "+", children: ["132", "4"], eclass: "277", cost: 3.0 }
+Child IDs: [441, 442]
+Added And operator with children: [441, 442], Id: 443
+Processing node_id: 15867
+Found node: Node { op: "*", children: ["282", "277"], eclass: "15867", cost: 4.0 }
+Child IDs: [440, 443]
+Added Or operator with children: [440, 443], Id: 444
+Processing node_id: 5
+Found node: Node { op: "pi003", children: [], eclass: "5", cost: 1.0 }
+Child IDs: []
+Added leaf node: 5, Id: 445
+Processing node_id: 133
+Found node: Node { op: "pi131", children: [], eclass: "133", cost: 1.0 }
+Child IDs: []
+Added leaf node: 133, Id: 446
+Processing node_id: 278
+Found node: Node { op: "+", children: ["5", "133"], eclass: "278", cost: 3.0 }
+Child IDs: [445, 446]
+Added And operator with children: [445, 446], Id: 447
+Processing node_id: 10534
+Found node: Node { op: "*", children: ["15867", "278"], eclass: "10534", cost: 4.0 }
+Child IDs: [444, 447]
+Added Or operator with children: [444, 447], Id: 448
+Processing node_id: 280
+Found node: Node { op: "+", children: ["6", "134"], eclass: "280", cost: 3.0 }
+Child IDs: [428, 429]
+Added And operator with children: [428, 429], Id: 449
+Processing node_id: 283
+Found node: Node { op: "*", children: ["10534", "280"], eclass: "283", cost: 4.0 }
+Child IDs: [448, 449]
+Added Or operator with children: [448, 449], Id: 450
+Processing node_id: 287
+Found node: Node { op: "*", children: ["5", "133"], eclass: "287", cost: 4.0 }
+Child IDs: [445, 446]
+Added Or operator with children: [445, 446], Id: 451
+Processing node_id: 284
+Found node: Node { op: "*", children: ["4", "132"], eclass: "284", cost: 4.0 }
+Child IDs: [442, 441]
+Added Or operator with children: [442, 441], Id: 452
+Processing node_id: 285
+Found node: Node { op: "*", children: ["284", "278"], eclass: "285", cost: 4.0 }
+Child IDs: [452, 447]
+Added Or operator with children: [452, 447], Id: 453
+Processing node_id: 7802
+Found node: Node { op: "+", children: ["287", "285"], eclass: "7802", cost: 3.0 }
+Child IDs: [451, 453]
+Added And operator with children: [451, 453], Id: 454
+Processing node_id: 3896
+Found node: Node { op: "*", children: ["280", "7802"], eclass: "3896", cost: 4.0 }
+Child IDs: [449, 454]
+Added Or operator with children: [449, 454], Id: 455
+Processing node_id: 3287
+Found node: Node { op: "+", children: ["283", "3896"], eclass: "3287", cost: 3.0 }
+Child IDs: [450, 455]
+Added And operator with children: [450, 455], Id: 456
+Processing node_id: 18903
+Found node: Node { op: "+", children: ["295", "3287"], eclass: "18903", cost: 3.0 }
+Child IDs: [425, 456]
+Added And operator with children: [425, 456], Id: 457
+Processing node_id: 314
+Found node: Node { op: "+", children: ["9710", "18903"], eclass: "314", cost: 3.0 }
+Child IDs: [431, 457]
+Added And operator with children: [431, 457], Id: 458
+Processing node_id: 315
+Found node: Node { op: "*", children: ["313", "314"], eclass: "315", cost: 4.0 }
+Child IDs: [427, 458]
+Added Or operator with children: [427, 458], Id: 459
+Processing node_id: 2244
+Found node: Node { op: "*", children: ["315", "328"], eclass: "2244", cost: 4.0 }
+Child IDs: [459, 406]
+Added Or operator with children: [459, 406], Id: 460
+Processing node_id: 10766
+Found node: Node { op: "*", children: ["2244", "326"], eclass: "10766", cost: 4.0 }
+Child IDs: [460, 409]
+Added Or operator with children: [460, 409], Id: 461
+Processing node_id: 325
+Found node: Node { op: "+", children: ["9", "137"], eclass: "325", cost: 3.0 }
+Child IDs: [412, 410]
+Added And operator with children: [412, 410], Id: 462
+Processing node_id: 330
+Found node: Node { op: "*", children: ["10766", "325"], eclass: "330", cost: 4.0 }
+Child IDs: [461, 462]
+Added Or operator with children: [461, 462], Id: 463
+Processing node_id: 2789
+Found node: Node { op: "+", children: ["3600", "330"], eclass: "2789", cost: 3.0 }
+Child IDs: [416, 463]
+Added And operator with children: [416, 463], Id: 464
+Processing node_id: 13
+Found node: Node { op: "pi011", children: [], eclass: "13", cost: 1.0 }
+Child IDs: []
+Added leaf node: 13, Id: 465
+Processing node_id: 141
+Found node: Node { op: "pi139", children: [], eclass: "141", cost: 1.0 }
+Child IDs: []
+Added leaf node: 141, Id: 466
+Processing node_id: 342
+Found node: Node { op: "*", children: ["13", "141"], eclass: "342", cost: 4.0 }
+Child IDs: [465, 466]
+Added Or operator with children: [465, 466], Id: 467
+Processing node_id: 12
+Found node: Node { op: "pi010", children: [], eclass: "12", cost: 1.0 }
+Child IDs: []
+Added leaf node: 12, Id: 468
+Processing node_id: 140
+Found node: Node { op: "pi138", children: [], eclass: "140", cost: 1.0 }
+Child IDs: []
+Added leaf node: 140, Id: 469
+Processing node_id: 343
+Found node: Node { op: "*", children: ["12", "140"], eclass: "343", cost: 4.0 }
+Child IDs: [468, 469]
+Added Or operator with children: [468, 469], Id: 470
+Processing node_id: 3684
+Found node: Node { op: "+", children: ["342", "343"], eclass: "3684", cost: 3.0 }
+Child IDs: [467, 470]
+Added And operator with children: [467, 470], Id: 471
+Processing node_id: 22042
+Found node: Node { op: "+", children: ["2789", "3684"], eclass: "22042", cost: 3.0 }
+Child IDs: [464, 471]
+Added And operator with children: [464, 471], Id: 472
+Processing node_id: 341
+Found node: Node { op: "*", children: ["139", "11"], eclass: "341", cost: 4.0 }
+Child IDs: [405, 404]
+Added Or operator with children: [405, 404], Id: 473
+Processing node_id: 361
+Found node: Node { op: "+", children: ["22042", "341"], eclass: "361", cost: 3.0 }
+Child IDs: [472, 473]
+Added And operator with children: [472, 473], Id: 474
+Processing node_id: 7945
+Found node: Node { op: "+", children: ["343", "12"], eclass: "7945", cost: 3.0 }
+Child IDs: [470, 468]
+Added And operator with children: [470, 468], Id: 475
+Processing node_id: 6970
+Found node: Node { op: "+", children: ["7945", "140"], eclass: "6970", cost: 3.0 }
+Child IDs: [475, 469]
+Added And operator with children: [475, 469], Id: 476
+Processing node_id: 3618
+Found node: Node { op: "+", children: ["13", "141"], eclass: "3618", cost: 3.0 }
+Child IDs: [465, 466]
+Added And operator with children: [465, 466], Id: 477
+Processing node_id: 9899
+Found node: Node { op: "*", children: ["6970", "3618"], eclass: "9899", cost: 4.0 }
+Child IDs: [476, 477]
+Added Or operator with children: [476, 477], Id: 478
+Processing node_id: 360
+Found node: Node { op: "+", children: ["342", "9899"], eclass: "360", cost: 3.0 }
+Child IDs: [467, 478]
+Added And operator with children: [467, 478], Id: 479
+Processing node_id: 144
+Found node: Node { op: "pi142", children: [], eclass: "144", cost: 1.0 }
+Child IDs: []
+Added leaf node: 144, Id: 480
+Processing node_id: 16
+Found node: Node { op: "pi014", children: [], eclass: "16", cost: 1.0 }
+Child IDs: []
+Added leaf node: 16, Id: 481
+Processing node_id: 375
+Found node: Node { op: "+", children: ["144", "16"], eclass: "375", cost: 3.0 }
+Child IDs: [480, 481]
+Added And operator with children: [480, 481], Id: 482
+Processing node_id: 14
+Found node: Node { op: "pi012", children: [], eclass: "14", cost: 1.0 }
+Child IDs: []
+Added leaf node: 14, Id: 483
+Processing node_id: 142
+Found node: Node { op: "pi140", children: [], eclass: "142", cost: 1.0 }
+Child IDs: []
+Added leaf node: 142, Id: 484
+Processing node_id: 372
+Found node: Node { op: "+", children: ["14", "142"], eclass: "372", cost: 3.0 }
+Child IDs: [483, 484]
+Added And operator with children: [483, 484], Id: 485
+Processing node_id: 2636
+Found node: Node { op: "*", children: ["375", "372"], eclass: "2636", cost: 4.0 }
+Child IDs: [482, 485]
+Added Or operator with children: [482, 485], Id: 486
+Processing node_id: 11839
+Found node: Node { op: "*", children: ["360", "2636"], eclass: "11839", cost: 4.0 }
+Child IDs: [479, 486]
+Added Or operator with children: [479, 486], Id: 487
+Processing node_id: 16335
+Found node: Node { op: "*", children: ["361", "11839"], eclass: "16335", cost: 4.0 }
+Child IDs: [474, 487]
+Added Or operator with children: [474, 487], Id: 488
+Processing node_id: 15
+Found node: Node { op: "pi013", children: [], eclass: "15", cost: 1.0 }
+Child IDs: []
+Added leaf node: 15, Id: 489
+Processing node_id: 143
+Found node: Node { op: "pi141", children: [], eclass: "143", cost: 1.0 }
+Child IDs: []
+Added leaf node: 143, Id: 490
+Processing node_id: 373
+Found node: Node { op: "+", children: ["15", "143"], eclass: "373", cost: 3.0 }
+Child IDs: [489, 490]
+Added And operator with children: [489, 490], Id: 491
+Processing node_id: 377
+Found node: Node { op: "*", children: ["16335", "373"], eclass: "377", cost: 4.0 }
+Child IDs: [488, 491]
+Added Or operator with children: [488, 491], Id: 492
+Processing node_id: 381
+Found node: Node { op: "*", children: ["15", "143"], eclass: "381", cost: 4.0 }
+Child IDs: [489, 490]
+Added Or operator with children: [489, 490], Id: 493
+Processing node_id: 378
+Found node: Node { op: "*", children: ["14", "142"], eclass: "378", cost: 4.0 }
+Child IDs: [483, 484]
+Added Or operator with children: [483, 484], Id: 494
+Processing node_id: 379
+Found node: Node { op: "*", children: ["373", "378"], eclass: "379", cost: 4.0 }
+Child IDs: [491, 494]
+Added Or operator with children: [491, 494], Id: 495
+Processing node_id: 7818
+Found node: Node { op: "+", children: ["381", "379"], eclass: "7818", cost: 3.0 }
+Child IDs: [493, 495]
+Added And operator with children: [493, 495], Id: 496
+Processing node_id: 3754
+Found node: Node { op: "*", children: ["375", "7818"], eclass: "3754", cost: 4.0 }
+Child IDs: [482, 496]
+Added Or operator with children: [482, 496], Id: 497
+Processing node_id: 18
+Found node: Node { op: "pi016", children: [], eclass: "18", cost: 1.0 }
+Child IDs: []
+Added leaf node: 18, Id: 498
+Processing node_id: 146
+Found node: Node { op: "pi144", children: [], eclass: "146", cost: 1.0 }
+Child IDs: []
+Added leaf node: 146, Id: 499
+Processing node_id: 389
+Found node: Node { op: "*", children: ["18", "146"], eclass: "389", cost: 4.0 }
+Child IDs: [498, 499]
+Added Or operator with children: [498, 499], Id: 500
+Processing node_id: 17
+Found node: Node { op: "pi015", children: [], eclass: "17", cost: 1.0 }
+Child IDs: []
+Added leaf node: 17, Id: 501
+Processing node_id: 145
+Found node: Node { op: "pi143", children: [], eclass: "145", cost: 1.0 }
+Child IDs: []
+Added leaf node: 145, Id: 502
+Processing node_id: 390
+Found node: Node { op: "*", children: ["17", "145"], eclass: "390", cost: 4.0 }
+Child IDs: [501, 502]
+Added Or operator with children: [501, 502], Id: 503
+Processing node_id: 388
+Found node: Node { op: "*", children: ["16", "144"], eclass: "388", cost: 4.0 }
+Child IDs: [481, 480]
+Added Or operator with children: [481, 480], Id: 504
+Processing node_id: 8291
+Found node: Node { op: "+", children: ["390", "388"], eclass: "8291", cost: 3.0 }
+Child IDs: [503, 504]
+Added And operator with children: [503, 504], Id: 505
+Processing node_id: 3046
+Found node: Node { op: "+", children: ["389", "8291"], eclass: "3046", cost: 3.0 }
+Child IDs: [500, 505]
+Added And operator with children: [500, 505], Id: 506
+Processing node_id: 19367
+Found node: Node { op: "+", children: ["3754", "3046"], eclass: "19367", cost: 3.0 }
+Child IDs: [497, 506]
+Added And operator with children: [497, 506], Id: 507
+Processing node_id: 408
+Found node: Node { op: "+", children: ["377", "19367"], eclass: "408", cost: 3.0 }
+Child IDs: [492, 507]
+Added And operator with children: [492, 507], Id: 508
+Processing node_id: 8590
+Found node: Node { op: "+", children: ["390", "17"], eclass: "8590", cost: 3.0 }
+Child IDs: [503, 501]
+Added And operator with children: [503, 501], Id: 509
+Processing node_id: 6964
+Found node: Node { op: "+", children: ["389", "8590"], eclass: "6964", cost: 3.0 }
+Child IDs: [500, 509]
+Added And operator with children: [500, 509], Id: 510
+Processing node_id: 406
+Found node: Node { op: "+", children: ["6964", "145"], eclass: "406", cost: 3.0 }
+Child IDs: [510, 502]
+Added And operator with children: [510, 502], Id: 511
+Processing node_id: 3772
+Found node: Node { op: "+", children: ["18", "146"], eclass: "3772", cost: 3.0 }
+Child IDs: [498, 499]
+Added And operator with children: [498, 499], Id: 512
+Processing node_id: 407
+Found node: Node { op: "*", children: ["406", "3772"], eclass: "407", cost: 4.0 }
+Child IDs: [511, 512]
+Added Or operator with children: [511, 512], Id: 513
+Processing node_id: 409
+Found node: Node { op: "*", children: ["408", "407"], eclass: "409", cost: 4.0 }
+Child IDs: [508, 513]
+Added Or operator with children: [508, 513], Id: 514
+Processing node_id: 424
+Found node: Node { op: "*", children: ["423", "409"], eclass: "424", cost: 4.0 }
+Child IDs: [403, 514]
+Added Or operator with children: [403, 514], Id: 515
+Processing node_id: 22588
+Found node: Node { op: "+", children: ["3294", "424"], eclass: "22588", cost: 3.0 }
+Child IDs: [394, 515]
+Added And operator with children: [394, 515], Id: 516
+Processing node_id: 425
+Found node: Node { op: "*", children: ["19", "147"], eclass: "425", cost: 4.0 }
+Child IDs: [400, 401]
+Added Or operator with children: [400, 401], Id: 517
+Processing node_id: 426
+Found node: Node { op: "*", children: ["420", "425"], eclass: "426", cost: 4.0 }
+Child IDs: [398, 517]
+Added Or operator with children: [398, 517], Id: 518
+Processing node_id: 428
+Found node: Node { op: "*", children: ["20", "148"], eclass: "428", cost: 4.0 }
+Child IDs: [396, 397]
+Added Or operator with children: [396, 397], Id: 519
+Processing node_id: 3982
+Found node: Node { op: "+", children: ["426", "428"], eclass: "3982", cost: 3.0 }
+Child IDs: [518, 519]
+Added And operator with children: [518, 519], Id: 520
+Processing node_id: 3904
+Found node: Node { op: "*", children: ["422", "3982"], eclass: "3904", cost: 4.0 }
+Child IDs: [395, 520]
+Added Or operator with children: [395, 520], Id: 521
+Processing node_id: 455
+Found node: Node { op: "+", children: ["22588", "3904"], eclass: "455", cost: 3.0 }
+Child IDs: [516, 521]
+Added And operator with children: [516, 521], Id: 522
+Processing node_id: 8285
+Found node: Node { op: "+", children: ["437", "22"], eclass: "8285", cost: 3.0 }
+Child IDs: [389, 387]
+Added And operator with children: [389, 387], Id: 523
+Processing node_id: 7134
+Found node: Node { op: "+", children: ["8285", "150"], eclass: "7134", cost: 3.0 }
+Child IDs: [523, 388]
+Added And operator with children: [523, 388], Id: 524
+Processing node_id: 3924
+Found node: Node { op: "+", children: ["23", "151"], eclass: "3924", cost: 3.0 }
+Child IDs: [384, 385]
+Added And operator with children: [384, 385], Id: 525
+Processing node_id: 9919
+Found node: Node { op: "*", children: ["7134", "3924"], eclass: "9919", cost: 4.0 }
+Child IDs: [524, 525]
+Added Or operator with children: [524, 525], Id: 526
+Processing node_id: 454
+Found node: Node { op: "+", children: ["436", "9919"], eclass: "454", cost: 3.0 }
+Child IDs: [386, 526]
+Added And operator with children: [386, 526], Id: 527
+Processing node_id: 456
+Found node: Node { op: "*", children: ["455", "454"], eclass: "456", cost: 4.0 }
+Child IDs: [522, 527]
+Added Or operator with children: [522, 527], Id: 528
+Processing node_id: 469
+Found node: Node { op: "+", children: ["154", "26"], eclass: "469", cost: 3.0 }
+Child IDs: [382, 381]
+Added And operator with children: [382, 381], Id: 529
+Processing node_id: 2258
+Found node: Node { op: "*", children: ["456", "469"], eclass: "2258", cost: 4.0 }
+Child IDs: [528, 529]
+Added Or operator with children: [528, 529], Id: 530
+Processing node_id: 24
+Found node: Node { op: "pi022", children: [], eclass: "24", cost: 1.0 }
+Child IDs: []
+Added leaf node: 24, Id: 531
+Processing node_id: 152
+Found node: Node { op: "pi150", children: [], eclass: "152", cost: 1.0 }
+Child IDs: []
+Added leaf node: 152, Id: 532
+Processing node_id: 466
+Found node: Node { op: "+", children: ["24", "152"], eclass: "466", cost: 3.0 }
+Child IDs: [531, 532]
+Added And operator with children: [531, 532], Id: 533
+Processing node_id: 25
+Found node: Node { op: "pi023", children: [], eclass: "25", cost: 1.0 }
+Child IDs: []
+Added leaf node: 25, Id: 534
+Processing node_id: 153
+Found node: Node { op: "pi151", children: [], eclass: "153", cost: 1.0 }
+Child IDs: []
+Added leaf node: 153, Id: 535
+Processing node_id: 467
+Found node: Node { op: "+", children: ["25", "153"], eclass: "467", cost: 3.0 }
+Child IDs: [534, 535]
+Added And operator with children: [534, 535], Id: 536
+Processing node_id: 468
+Found node: Node { op: "*", children: ["466", "467"], eclass: "468", cost: 4.0 }
+Child IDs: [533, 536]
+Added Or operator with children: [533, 536], Id: 537
+Processing node_id: 471
+Found node: Node { op: "*", children: ["2258", "468"], eclass: "471", cost: 4.0 }
+Child IDs: [530, 537]
+Added Or operator with children: [530, 537], Id: 538
+Processing node_id: 472
+Found node: Node { op: "*", children: ["152", "24"], eclass: "472", cost: 4.0 }
+Child IDs: [532, 531]
+Added Or operator with children: [532, 531], Id: 539
+Processing node_id: 473
+Found node: Node { op: "*", children: ["467", "472"], eclass: "473", cost: 4.0 }
+Child IDs: [536, 539]
+Added Or operator with children: [536, 539], Id: 540
+Processing node_id: 475
+Found node: Node { op: "*", children: ["25", "153"], eclass: "475", cost: 4.0 }
+Child IDs: [534, 535]
+Added Or operator with children: [534, 535], Id: 541
+Processing node_id: 4076
+Found node: Node { op: "+", children: ["473", "475"], eclass: "4076", cost: 3.0 }
+Child IDs: [540, 541]
+Added And operator with children: [540, 541], Id: 542
+Processing node_id: 3608
+Found node: Node { op: "*", children: ["469", "4076"], eclass: "3608", cost: 4.0 }
+Child IDs: [529, 542]
+Added Or operator with children: [529, 542], Id: 543
+Processing node_id: 2797
+Found node: Node { op: "+", children: ["471", "3608"], eclass: "2797", cost: 3.0 }
+Child IDs: [538, 543]
+Added And operator with children: [538, 543], Id: 544
+Processing node_id: 17115
+Found node: Node { op: "+", children: ["482", "2797"], eclass: "17115", cost: 3.0 }
+Child IDs: [383, 544]
+Added And operator with children: [383, 544], Id: 545
+Processing node_id: 502
+Found node: Node { op: "+", children: ["3690", "17115"], eclass: "502", cost: 3.0 }
+Child IDs: [380, 545]
+Added And operator with children: [380, 545], Id: 546
+Processing node_id: 518
+Found node: Node { op: "*", children: ["11567", "502"], eclass: "518", cost: 4.0 }
+Child IDs: [379, 546]
+Added Or operator with children: [379, 546], Id: 547
+Processing node_id: 549
+Found node: Node { op: "+", children: ["20132", "518"], eclass: "549", cost: 3.0 }
+Child IDs: [364, 547]
+Added And operator with children: [364, 547], Id: 548
+Processing node_id: 3782
+Found node: Node { op: "+", children: ["33", "161"], eclass: "3782", cost: 3.0 }
+Child IDs: [342, 343]
+Added And operator with children: [342, 343], Id: 549
+Processing node_id: 8198
+Found node: Node { op: "+", children: ["531", "32"], eclass: "8198", cost: 3.0 }
+Child IDs: [347, 345]
+Added And operator with children: [347, 345], Id: 550
+Processing node_id: 7567
+Found node: Node { op: "+", children: ["530", "8198"], eclass: "7567", cost: 3.0 }
+Child IDs: [344, 550]
+Added And operator with children: [344, 550], Id: 551
+Processing node_id: 547
+Found node: Node { op: "+", children: ["7567", "160"], eclass: "547", cost: 3.0 }
+Child IDs: [551, 346]
+Added And operator with children: [551, 346], Id: 552
+Processing node_id: 548
+Found node: Node { op: "*", children: ["3782", "547"], eclass: "548", cost: 4.0 }
+Child IDs: [549, 552]
+Added Or operator with children: [549, 552], Id: 553
+Processing node_id: 563
+Found node: Node { op: "+", children: ["36", "164"], eclass: "563", cost: 3.0 }
+Child IDs: [338, 339]
+Added And operator with children: [338, 339], Id: 554
+Processing node_id: 11186
+Found node: Node { op: "*", children: ["548", "563"], eclass: "11186", cost: 4.0 }
+Child IDs: [553, 554]
+Added Or operator with children: [553, 554], Id: 555
+Processing node_id: 16705
+Found node: Node { op: "*", children: ["549", "11186"], eclass: "16705", cost: 4.0 }
+Child IDs: [548, 555]
+Added Or operator with children: [548, 555], Id: 556
+Processing node_id: 34
+Found node: Node { op: "pi032", children: [], eclass: "34", cost: 1.0 }
+Child IDs: []
+Added leaf node: 34, Id: 557
+Processing node_id: 162
+Found node: Node { op: "pi160", children: [], eclass: "162", cost: 1.0 }
+Child IDs: []
+Added leaf node: 162, Id: 558
+Processing node_id: 560
+Found node: Node { op: "+", children: ["34", "162"], eclass: "560", cost: 3.0 }
+Child IDs: [557, 558]
+Added And operator with children: [557, 558], Id: 559
+Processing node_id: 35
+Found node: Node { op: "pi033", children: [], eclass: "35", cost: 1.0 }
+Child IDs: []
+Added leaf node: 35, Id: 560
+Processing node_id: 163
+Found node: Node { op: "pi161", children: [], eclass: "163", cost: 1.0 }
+Child IDs: []
+Added leaf node: 163, Id: 561
+Processing node_id: 561
+Found node: Node { op: "+", children: ["35", "163"], eclass: "561", cost: 3.0 }
+Child IDs: [560, 561]
+Added And operator with children: [560, 561], Id: 562
+Processing node_id: 562
+Found node: Node { op: "*", children: ["560", "561"], eclass: "562", cost: 4.0 }
+Child IDs: [559, 562]
+Added Or operator with children: [559, 562], Id: 563
+Processing node_id: 565
+Found node: Node { op: "*", children: ["16705", "562"], eclass: "565", cost: 4.0 }
+Child IDs: [556, 563]
+Added Or operator with children: [556, 563], Id: 564
+Processing node_id: 569
+Found node: Node { op: "*", children: ["35", "163"], eclass: "569", cost: 4.0 }
+Child IDs: [560, 561]
+Added Or operator with children: [560, 561], Id: 565
+Processing node_id: 2232
+Found node: Node { op: "*", children: ["561", "34"], eclass: "2232", cost: 4.0 }
+Child IDs: [562, 557]
+Added Or operator with children: [562, 557], Id: 566
+Processing node_id: 567
+Found node: Node { op: "*", children: ["2232", "162"], eclass: "567", cost: 4.0 }
+Child IDs: [566, 558]
+Added Or operator with children: [566, 558], Id: 567
+Processing node_id: 7816
+Found node: Node { op: "+", children: ["569", "567"], eclass: "7816", cost: 3.0 }
+Child IDs: [565, 567]
+Added And operator with children: [565, 567], Id: 568
+Processing node_id: 3912
+Found node: Node { op: "*", children: ["563", "7816"], eclass: "3912", cost: 4.0 }
+Child IDs: [554, 568]
+Added Or operator with children: [554, 568], Id: 569
+Processing node_id: 3299
+Found node: Node { op: "+", children: ["565", "3912"], eclass: "3299", cost: 3.0 }
+Child IDs: [564, 569]
+Added And operator with children: [564, 569], Id: 570
+Processing node_id: 596
+Found node: Node { op: "+", children: ["3300", "3299"], eclass: "596", cost: 3.0 }
+Child IDs: [341, 570]
+Added And operator with children: [341, 570], Id: 571
+Processing node_id: 3934
+Found node: Node { op: "+", children: ["166", "38"], eclass: "3934", cost: 3.0 }
+Child IDs: [332, 331]
+Added And operator with children: [332, 331], Id: 572
+Processing node_id: 2446
+Found node: Node { op: "*", children: ["596", "3934"], eclass: "2446", cost: 4.0 }
+Child IDs: [571, 572]
+Added Or operator with children: [571, 572], Id: 573
+Processing node_id: 3740
+Found node: Node { op: "+", children: ["37", "165"], eclass: "3740", cost: 3.0 }
+Child IDs: [334, 335]
+Added And operator with children: [334, 335], Id: 574
+Processing node_id: 594
+Found node: Node { op: "+", children: ["3740", "3534"], eclass: "594", cost: 3.0 }
+Child IDs: [574, 337]
+Added And operator with children: [574, 337], Id: 575
+Processing node_id: 597
+Found node: Node { op: "*", children: ["2446", "594"], eclass: "597", cost: 4.0 }
+Child IDs: [573, 575]
+Added Or operator with children: [573, 575], Id: 576
+Processing node_id: 39
+Found node: Node { op: "pi037", children: [], eclass: "39", cost: 1.0 }
+Child IDs: []
+Added leaf node: 39, Id: 577
+Processing node_id: 167
+Found node: Node { op: "pi165", children: [], eclass: "167", cost: 1.0 }
+Child IDs: []
+Added leaf node: 167, Id: 578
+Processing node_id: 607
+Found node: Node { op: "+", children: ["39", "167"], eclass: "607", cost: 3.0 }
+Child IDs: [577, 578]
+Added And operator with children: [577, 578], Id: 579
+Processing node_id: 17036
+Found node: Node { op: "*", children: ["597", "607"], eclass: "17036", cost: 4.0 }
+Child IDs: [576, 579]
+Added Or operator with children: [576, 579], Id: 580
+Processing node_id: 40
+Found node: Node { op: "pi038", children: [], eclass: "40", cost: 1.0 }
+Child IDs: []
+Added leaf node: 40, Id: 581
+Processing node_id: 168
+Found node: Node { op: "pi166", children: [], eclass: "168", cost: 1.0 }
+Child IDs: []
+Added leaf node: 168, Id: 582
+Processing node_id: 608
+Found node: Node { op: "+", children: ["40", "168"], eclass: "608", cost: 3.0 }
+Child IDs: [581, 582]
+Added And operator with children: [581, 582], Id: 583
+Processing node_id: 11978
+Found node: Node { op: "*", children: ["17036", "608"], eclass: "11978", cost: 4.0 }
+Child IDs: [580, 583]
+Added Or operator with children: [580, 583], Id: 584
+Processing node_id: 610
+Found node: Node { op: "+", children: ["41", "169"], eclass: "610", cost: 3.0 }
+Child IDs: [327, 328]
+Added And operator with children: [327, 328], Id: 585
+Processing node_id: 612
+Found node: Node { op: "*", children: ["11978", "610"], eclass: "612", cost: 4.0 }
+Child IDs: [584, 585]
+Added Or operator with children: [584, 585], Id: 586
+Processing node_id: 613
+Found node: Node { op: "*", children: ["167", "39"], eclass: "613", cost: 4.0 }
+Child IDs: [578, 577]
+Added Or operator with children: [578, 577], Id: 587
+Processing node_id: 614
+Found node: Node { op: "*", children: ["608", "613"], eclass: "614", cost: 4.0 }
+Child IDs: [583, 587]
+Added Or operator with children: [583, 587], Id: 588
+Processing node_id: 616
+Found node: Node { op: "*", children: ["40", "168"], eclass: "616", cost: 4.0 }
+Child IDs: [581, 582]
+Added Or operator with children: [581, 582], Id: 589
+Processing node_id: 3994
+Found node: Node { op: "+", children: ["614", "616"], eclass: "3994", cost: 3.0 }
+Child IDs: [588, 589]
+Added And operator with children: [588, 589], Id: 590
+Processing node_id: 3616
+Found node: Node { op: "*", children: ["610", "3994"], eclass: "3616", cost: 4.0 }
+Child IDs: [585, 590]
+Added Or operator with children: [585, 590], Id: 591
+Processing node_id: 2809
+Found node: Node { op: "+", children: ["612", "3616"], eclass: "2809", cost: 3.0 }
+Child IDs: [586, 591]
+Added And operator with children: [586, 591], Id: 592
+Processing node_id: 17828
+Found node: Node { op: "+", children: ["8840", "2809"], eclass: "17828", cost: 3.0 }
+Child IDs: [330, 592]
+Added And operator with children: [330, 592], Id: 593
+Processing node_id: 643
+Found node: Node { op: "+", children: ["625", "17828"], eclass: "643", cost: 3.0 }
+Child IDs: [323, 593]
+Added And operator with children: [323, 593], Id: 594
+Processing node_id: 12190
+Found node: Node { op: "*", children: ["658", "643"], eclass: "12190", cost: 4.0 }
+Child IDs: [320, 594]
+Added Or operator with children: [320, 594], Id: 595
+Processing node_id: 3640
+Found node: Node { op: "+", children: ["43", "171"], eclass: "3640", cost: 3.0 }
+Child IDs: [325, 324]
+Added And operator with children: [325, 324], Id: 596
+Processing node_id: 12192
+Found node: Node { op: "*", children: ["12190", "3640"], eclass: "12192", cost: 4.0 }
+Child IDs: [595, 596]
+Added Or operator with children: [595, 596], Id: 597
+Processing node_id: 7922
+Found node: Node { op: "+", children: ["624", "42"], eclass: "7922", cost: 3.0 }
+Child IDs: [326, 322]
+Added And operator with children: [326, 322], Id: 598
+Processing node_id: 7749
+Found node: Node { op: "+", children: ["625", "7922"], eclass: "7749", cost: 3.0 }
+Child IDs: [323, 598]
+Added And operator with children: [323, 598], Id: 599
+Processing node_id: 641
+Found node: Node { op: "+", children: ["7749", "170"], eclass: "641", cost: 3.0 }
+Child IDs: [599, 321]
+Added And operator with children: [599, 321], Id: 600
+Processing node_id: 659
+Found node: Node { op: "*", children: ["12192", "641"], eclass: "659", cost: 4.0 }
+Child IDs: [597, 600]
+Added Or operator with children: [597, 600], Id: 601
+Processing node_id: 660
+Found node: Node { op: "*", children: ["44", "172"], eclass: "660", cost: 4.0 }
+Child IDs: [313, 314]
+Added Or operator with children: [313, 314], Id: 602
+Processing node_id: 661
+Found node: Node { op: "*", children: ["655", "660"], eclass: "661", cost: 4.0 }
+Child IDs: [319, 602]
+Added Or operator with children: [319, 602], Id: 603
+Processing node_id: 663
+Found node: Node { op: "*", children: ["45", "173"], eclass: "663", cost: 4.0 }
+Child IDs: [318, 317]
+Added Or operator with children: [318, 317], Id: 604
+Processing node_id: 4040
+Found node: Node { op: "+", children: ["661", "663"], eclass: "4040", cost: 3.0 }
+Child IDs: [603, 604]
+Added And operator with children: [603, 604], Id: 605
+Processing node_id: 3770
+Found node: Node { op: "*", children: ["657", "4040"], eclass: "3770", cost: 4.0 }
+Child IDs: [312, 605]
+Added Or operator with children: [312, 605], Id: 606
+Processing node_id: 3059
+Found node: Node { op: "+", children: ["659", "3770"], eclass: "3059", cost: 3.0 }
+Child IDs: [601, 606]
+Added And operator with children: [601, 606], Id: 607
+Processing node_id: 670
+Found node: Node { op: "*", children: ["46", "174"], eclass: "670", cost: 4.0 }
+Child IDs: [310, 311]
+Added Or operator with children: [310, 311], Id: 608
+Processing node_id: 13594
+Found node: Node { op: "+", children: ["3059", "670"], eclass: "13594", cost: 3.0 }
+Child IDs: [607, 608]
+Added And operator with children: [607, 608], Id: 609
+Processing node_id: 47
+Found node: Node { op: "pi045", children: [], eclass: "47", cost: 1.0 }
+Child IDs: []
+Added leaf node: 47, Id: 610
+Processing node_id: 175
+Found node: Node { op: "pi173", children: [], eclass: "175", cost: 1.0 }
+Child IDs: []
+Added leaf node: 175, Id: 611
+Processing node_id: 672
+Found node: Node { op: "*", children: ["47", "175"], eclass: "672", cost: 4.0 }
+Child IDs: [610, 611]
+Added Or operator with children: [610, 611], Id: 612
+Processing node_id: 48
+Found node: Node { op: "pi046", children: [], eclass: "48", cost: 1.0 }
+Child IDs: []
+Added leaf node: 48, Id: 613
+Processing node_id: 176
+Found node: Node { op: "pi174", children: [], eclass: "176", cost: 1.0 }
+Child IDs: []
+Added leaf node: 176, Id: 614
+Processing node_id: 671
+Found node: Node { op: "*", children: ["48", "176"], eclass: "671", cost: 4.0 }
+Child IDs: [613, 614]
+Added Or operator with children: [613, 614], Id: 615
+Processing node_id: 3842
+Found node: Node { op: "+", children: ["672", "671"], eclass: "3842", cost: 3.0 }
+Child IDs: [612, 615]
+Added And operator with children: [612, 615], Id: 616
+Processing node_id: 690
+Found node: Node { op: "+", children: ["13594", "3842"], eclass: "690", cost: 3.0 }
+Child IDs: [609, 616]
+Added And operator with children: [609, 616], Id: 617
+Processing node_id: 3792
+Found node: Node { op: "+", children: ["48", "176"], eclass: "3792", cost: 3.0 }
+Child IDs: [613, 614]
+Added And operator with children: [613, 614], Id: 618
+Processing node_id: 7963
+Found node: Node { op: "+", children: ["672", "47"], eclass: "7963", cost: 3.0 }
+Child IDs: [612, 610]
+Added And operator with children: [612, 610], Id: 619
+Processing node_id: 7702
+Found node: Node { op: "+", children: ["7963", "175"], eclass: "7702", cost: 3.0 }
+Child IDs: [619, 611]
+Added And operator with children: [619, 611], Id: 620
+Processing node_id: 9768
+Found node: Node { op: "*", children: ["3792", "7702"], eclass: "9768", cost: 4.0 }
+Child IDs: [618, 620]
+Added Or operator with children: [618, 620], Id: 621
+Processing node_id: 689
+Found node: Node { op: "+", children: ["671", "9768"], eclass: "689", cost: 3.0 }
+Child IDs: [615, 621]
+Added And operator with children: [615, 621], Id: 622
+Processing node_id: 51
+Found node: Node { op: "pi049", children: [], eclass: "51", cost: 1.0 }
+Child IDs: []
+Added leaf node: 51, Id: 623
+Processing node_id: 179
+Found node: Node { op: "pi177", children: [], eclass: "179", cost: 1.0 }
+Child IDs: []
+Added leaf node: 179, Id: 624
+Processing node_id: 704
+Found node: Node { op: "+", children: ["51", "179"], eclass: "704", cost: 3.0 }
+Child IDs: [623, 624]
+Added And operator with children: [623, 624], Id: 625
+Processing node_id: 49
+Found node: Node { op: "pi047", children: [], eclass: "49", cost: 1.0 }
+Child IDs: []
+Added leaf node: 49, Id: 626
+Processing node_id: 177
+Found node: Node { op: "pi175", children: [], eclass: "177", cost: 1.0 }
+Child IDs: []
+Added leaf node: 177, Id: 627
+Processing node_id: 701
+Found node: Node { op: "+", children: ["49", "177"], eclass: "701", cost: 3.0 }
+Child IDs: [626, 627]
+Added And operator with children: [626, 627], Id: 628
+Processing node_id: 2300
+Found node: Node { op: "*", children: ["704", "701"], eclass: "2300", cost: 4.0 }
+Child IDs: [625, 628]
+Added Or operator with children: [625, 628], Id: 629
+Processing node_id: 10233
+Found node: Node { op: "*", children: ["689", "2300"], eclass: "10233", cost: 4.0 }
+Child IDs: [622, 629]
+Added Or operator with children: [622, 629], Id: 630
+Processing node_id: 50
+Found node: Node { op: "pi048", children: [], eclass: "50", cost: 1.0 }
+Child IDs: []
+Added leaf node: 50, Id: 631
+Processing node_id: 178
+Found node: Node { op: "pi176", children: [], eclass: "178", cost: 1.0 }
+Child IDs: []
+Added leaf node: 178, Id: 632
+Processing node_id: 702
+Found node: Node { op: "+", children: ["50", "178"], eclass: "702", cost: 3.0 }
+Child IDs: [631, 632]
+Added And operator with children: [631, 632], Id: 633
+Processing node_id: 2194
+Found node: Node { op: "*", children: ["10233", "702"], eclass: "2194", cost: 4.0 }
+Child IDs: [630, 633]
+Added Or operator with children: [630, 633], Id: 634
+Processing node_id: 706
+Found node: Node { op: "*", children: ["690", "2194"], eclass: "706", cost: 4.0 }
+Child IDs: [617, 634]
+Added Or operator with children: [617, 634], Id: 635
+Processing node_id: 710
+Found node: Node { op: "*", children: ["50", "178"], eclass: "710", cost: 4.0 }
+Child IDs: [631, 632]
+Added Or operator with children: [631, 632], Id: 636
+Processing node_id: 5998
+Found node: Node { op: "*", children: ["702", "177"], eclass: "5998", cost: 4.0 }
+Child IDs: [633, 627]
+Added Or operator with children: [633, 627], Id: 637
+Processing node_id: 708
+Found node: Node { op: "*", children: ["5998", "49"], eclass: "708", cost: 4.0 }
+Child IDs: [637, 626]
+Added Or operator with children: [637, 626], Id: 638
+Processing node_id: 7842
+Found node: Node { op: "+", children: ["710", "708"], eclass: "7842", cost: 3.0 }
+Child IDs: [636, 638]
+Added And operator with children: [636, 638], Id: 639
+Processing node_id: 3922
+Found node: Node { op: "*", children: ["704", "7842"], eclass: "3922", cost: 4.0 }
+Child IDs: [625, 639]
+Added Or operator with children: [625, 639], Id: 640
+Processing node_id: 3311
+Found node: Node { op: "+", children: ["706", "3922"], eclass: "3311", cost: 3.0 }
+Child IDs: [635, 640]
+Added And operator with children: [635, 640], Id: 641
+Processing node_id: 717
+Found node: Node { op: "*", children: ["179", "51"], eclass: "717", cost: 4.0 }
+Child IDs: [624, 623]
+Added Or operator with children: [624, 623], Id: 642
+Processing node_id: 13818
+Found node: Node { op: "+", children: ["3311", "717"], eclass: "13818", cost: 3.0 }
+Child IDs: [641, 642]
+Added And operator with children: [641, 642], Id: 643
+Processing node_id: 21090
+Found node: Node { op: "+", children: ["13818", "718"], eclass: "21090", cost: 3.0 }
+Child IDs: [643, 301]
+Added And operator with children: [643, 301], Id: 644
+Processing node_id: 737
+Found node: Node { op: "+", children: ["21090", "719"], eclass: "737", cost: 3.0 }
+Child IDs: [644, 305]
+Added And operator with children: [644, 305], Id: 645
+Processing node_id: 738
+Found node: Node { op: "*", children: ["736", "737"], eclass: "738", cost: 4.0 }
+Child IDs: [309, 645]
+Added Or operator with children: [309, 645], Id: 646
+Processing node_id: 2234
+Found node: Node { op: "*", children: ["751", "749"], eclass: "2234", cost: 4.0 }
+Child IDs: [287, 290]
+Added Or operator with children: [287, 290], Id: 647
+Processing node_id: 14707
+Found node: Node { op: "*", children: ["738", "2234"], eclass: "14707", cost: 4.0 }
+Child IDs: [646, 647]
+Added Or operator with children: [646, 647], Id: 648
+Processing node_id: 748
+Found node: Node { op: "+", children: ["54", "182"], eclass: "748", cost: 3.0 }
+Child IDs: [291, 292]
+Added And operator with children: [291, 292], Id: 649
+Processing node_id: 753
+Found node: Node { op: "*", children: ["14707", "748"], eclass: "753", cost: 4.0 }
+Child IDs: [648, 649]
+Added Or operator with children: [648, 649], Id: 650
+Processing node_id: 784
+Found node: Node { op: "+", children: ["21301", "753"], eclass: "784", cost: 3.0 }
+Child IDs: [298, 650]
+Added And operator with children: [298, 650], Id: 651
+Processing node_id: 10357
+Found node: Node { op: "*", children: ["799", "784"], eclass: "10357", cost: 4.0 }
+Child IDs: [275, 651]
+Added Or operator with children: [275, 651], Id: 652
+Processing node_id: 3650
+Found node: Node { op: "+", children: ["58", "186"], eclass: "3650", cost: 3.0 }
+Child IDs: [279, 280]
+Added And operator with children: [279, 280], Id: 653
+Processing node_id: 3898
+Found node: Node { op: "+", children: ["185", "57"], eclass: "3898", cost: 3.0 }
+Child IDs: [283, 284]
+Added And operator with children: [283, 284], Id: 654
+Processing node_id: 3700
+Found node: Node { op: "+", children: ["765", "766"], eclass: "3700", cost: 3.0 }
+Child IDs: [281, 285]
+Added And operator with children: [281, 285], Id: 655
+Processing node_id: 782
+Found node: Node { op: "+", children: ["3898", "3700"], eclass: "782", cost: 3.0 }
+Child IDs: [654, 655]
+Added And operator with children: [654, 655], Id: 656
+Processing node_id: 783
+Found node: Node { op: "*", children: ["3650", "782"], eclass: "783", cost: 4.0 }
+Child IDs: [653, 656]
+Added Or operator with children: [653, 656], Id: 657
+Processing node_id: 800
+Found node: Node { op: "*", children: ["10357", "783"], eclass: "800", cost: 4.0 }
+Child IDs: [652, 657]
+Added Or operator with children: [652, 657], Id: 658
+Processing node_id: 3071
+Found node: Node { op: "+", children: ["3780", "800"], eclass: "3071", cost: 3.0 }
+Child IDs: [272, 658]
+Added And operator with children: [272, 658], Id: 659
+Processing node_id: 3848
+Found node: Node { op: "+", children: ["812", "813"], eclass: "3848", cost: 3.0 }
+Child IDs: [255, 254]
+Added And operator with children: [255, 254], Id: 660
+Processing node_id: 21567
+Found node: Node { op: "+", children: ["3071", "3848"], eclass: "21567", cost: 3.0 }
+Child IDs: [659, 660]
+Added And operator with children: [659, 660], Id: 661
+Processing node_id: 811
+Found node: Node { op: "*", children: ["189", "61"], eclass: "811", cost: 4.0 }
+Child IDs: [260, 261]
+Added Or operator with children: [260, 261], Id: 662
+Processing node_id: 831
+Found node: Node { op: "+", children: ["21567", "811"], eclass: "831", cost: 3.0 }
+Child IDs: [661, 662]
+Added And operator with children: [661, 662], Id: 663
+Processing node_id: 847
+Found node: Node { op: "*", children: ["10598", "831"], eclass: "847", cost: 4.0 }
+Child IDs: [259, 663]
+Added Or operator with children: [259, 663], Id: 664
+Processing node_id: 3329
+Found node: Node { op: "+", children: ["3932", "847"], eclass: "3329", cost: 3.0 }
+Child IDs: [244, 664]
+Added And operator with children: [244, 664], Id: 665
+Processing node_id: 196
+Found node: Node { op: "pi194", children: [], eclass: "196", cost: 1.0 }
+Child IDs: []
+Added leaf node: 196, Id: 666
+Processing node_id: 68
+Found node: Node { op: "pi066", children: [], eclass: "68", cost: 1.0 }
+Child IDs: []
+Added leaf node: 68, Id: 667
+Processing node_id: 859
+Found node: Node { op: "*", children: ["196", "68"], eclass: "859", cost: 4.0 }
+Child IDs: [666, 667]
+Added Or operator with children: [666, 667], Id: 668
+Processing node_id: 21802
+Found node: Node { op: "+", children: ["3329", "859"], eclass: "21802", cost: 3.0 }
+Child IDs: [665, 668]
+Added And operator with children: [665, 668], Id: 669
+Processing node_id: 67
+Found node: Node { op: "pi065", children: [], eclass: "67", cost: 1.0 }
+Child IDs: []
+Added leaf node: 67, Id: 670
+Processing node_id: 195
+Found node: Node { op: "pi193", children: [], eclass: "195", cost: 1.0 }
+Child IDs: []
+Added leaf node: 195, Id: 671
+Processing node_id: 860
+Found node: Node { op: "*", children: ["67", "195"], eclass: "860", cost: 4.0 }
+Child IDs: [670, 671]
+Added Or operator with children: [670, 671], Id: 672
+Processing node_id: 858
+Found node: Node { op: "*", children: ["66", "194"], eclass: "858", cost: 4.0 }
+Child IDs: [233, 232]
+Added Or operator with children: [233, 232], Id: 673
+Processing node_id: 8190
+Found node: Node { op: "+", children: ["860", "858"], eclass: "8190", cost: 3.0 }
+Child IDs: [672, 673]
+Added And operator with children: [672, 673], Id: 674
+Processing node_id: 878
+Found node: Node { op: "+", children: ["21802", "8190"], eclass: "878", cost: 3.0 }
+Child IDs: [669, 674]
+Added And operator with children: [669, 674], Id: 675
+Processing node_id: 18640
+Found node: Node { op: "+", children: ["195", "860"], eclass: "18640", cost: 3.0 }
+Child IDs: [671, 672]
+Added And operator with children: [671, 672], Id: 676
+Processing node_id: 8669
+Found node: Node { op: "+", children: ["18640", "859"], eclass: "8669", cost: 3.0 }
+Child IDs: [676, 668]
+Added And operator with children: [676, 668], Id: 677
+Processing node_id: 876
+Found node: Node { op: "+", children: ["67", "8669"], eclass: "876", cost: 3.0 }
+Child IDs: [670, 677]
+Added And operator with children: [670, 677], Id: 678
+Processing node_id: 3952
+Found node: Node { op: "+", children: ["68", "196"], eclass: "3952", cost: 3.0 }
+Child IDs: [667, 666]
+Added And operator with children: [667, 666], Id: 679
+Processing node_id: 877
+Found node: Node { op: "*", children: ["876", "3952"], eclass: "877", cost: 4.0 }
+Child IDs: [678, 679]
+Added Or operator with children: [678, 679], Id: 680
+Processing node_id: 71
+Found node: Node { op: "pi069", children: [], eclass: "71", cost: 1.0 }
+Child IDs: []
+Added leaf node: 71, Id: 681
+Processing node_id: 199
+Found node: Node { op: "pi197", children: [], eclass: "199", cost: 1.0 }
+Child IDs: []
+Added leaf node: 199, Id: 682
+Processing node_id: 892
+Found node: Node { op: "+", children: ["71", "199"], eclass: "892", cost: 3.0 }
+Child IDs: [681, 682]
+Added And operator with children: [681, 682], Id: 683
+Processing node_id: 12290
+Found node: Node { op: "*", children: ["877", "892"], eclass: "12290", cost: 4.0 }
+Child IDs: [680, 683]
+Added Or operator with children: [680, 683], Id: 684
+Processing node_id: 16247
+Found node: Node { op: "*", children: ["878", "12290"], eclass: "16247", cost: 4.0 }
+Child IDs: [675, 684]
+Added Or operator with children: [675, 684], Id: 685
+Processing node_id: 70
+Found node: Node { op: "pi068", children: [], eclass: "70", cost: 1.0 }
+Child IDs: []
+Added leaf node: 70, Id: 686
+Processing node_id: 198
+Found node: Node { op: "pi196", children: [], eclass: "198", cost: 1.0 }
+Child IDs: []
+Added leaf node: 198, Id: 687
+Processing node_id: 890
+Found node: Node { op: "+", children: ["70", "198"], eclass: "890", cost: 3.0 }
+Child IDs: [686, 687]
+Added And operator with children: [686, 687], Id: 688
+Processing node_id: 69
+Found node: Node { op: "pi067", children: [], eclass: "69", cost: 1.0 }
+Child IDs: []
+Added leaf node: 69, Id: 689
+Processing node_id: 197
+Found node: Node { op: "pi195", children: [], eclass: "197", cost: 1.0 }
+Child IDs: []
+Added leaf node: 197, Id: 690
+Processing node_id: 889
+Found node: Node { op: "+", children: ["69", "197"], eclass: "889", cost: 3.0 }
+Child IDs: [689, 690]
+Added And operator with children: [689, 690], Id: 691
+Processing node_id: 891
+Found node: Node { op: "*", children: ["890", "889"], eclass: "891", cost: 4.0 }
+Child IDs: [688, 691]
+Added Or operator with children: [688, 691], Id: 692
+Processing node_id: 894
+Found node: Node { op: "*", children: ["16247", "891"], eclass: "894", cost: 4.0 }
+Child IDs: [685, 692]
+Added Or operator with children: [685, 692], Id: 693
+Processing node_id: 895
+Found node: Node { op: "*", children: ["69", "197"], eclass: "895", cost: 4.0 }
+Child IDs: [689, 690]
+Added Or operator with children: [689, 690], Id: 694
+Processing node_id: 896
+Found node: Node { op: "*", children: ["890", "895"], eclass: "896", cost: 4.0 }
+Child IDs: [688, 694]
+Added Or operator with children: [688, 694], Id: 695
+Processing node_id: 898
+Found node: Node { op: "*", children: ["70", "198"], eclass: "898", cost: 4.0 }
+Child IDs: [686, 687]
+Added Or operator with children: [686, 687], Id: 696
+Processing node_id: 4018
+Found node: Node { op: "+", children: ["896", "898"], eclass: "4018", cost: 3.0 }
+Child IDs: [695, 696]
+Added And operator with children: [695, 696], Id: 697
+Processing node_id: 3638
+Found node: Node { op: "*", children: ["892", "4018"], eclass: "3638", cost: 4.0 }
+Child IDs: [683, 697]
+Added Or operator with children: [683, 697], Id: 698
+Processing node_id: 2836
+Found node: Node { op: "+", children: ["894", "3638"], eclass: "2836", cost: 3.0 }
+Child IDs: [693, 698]
+Added And operator with children: [693, 698], Id: 699
+Processing node_id: 905
+Found node: Node { op: "*", children: ["71", "199"], eclass: "905", cost: 4.0 }
+Child IDs: [681, 682]
+Added Or operator with children: [681, 682], Id: 700
+Processing node_id: 13404
+Found node: Node { op: "+", children: ["2836", "905"], eclass: "13404", cost: 3.0 }
+Child IDs: [699, 700]
+Added And operator with children: [699, 700], Id: 701
+Processing node_id: 22119
+Found node: Node { op: "+", children: ["13404", "907"], eclass: "22119", cost: 3.0 }
+Child IDs: [701, 223]
+Added And operator with children: [701, 223], Id: 702
+Processing node_id: 925
+Found node: Node { op: "+", children: ["22119", "906"], eclass: "925", cost: 3.0 }
+Child IDs: [702, 226]
+Added And operator with children: [702, 226], Id: 703
+Processing node_id: 926
+Found node: Node { op: "*", children: ["924", "925"], eclass: "926", cost: 4.0 }
+Child IDs: [231, 703]
+Added Or operator with children: [231, 703], Id: 704
+Processing node_id: 941
+Found node: Node { op: "*", children: ["940", "926"], eclass: "941", cost: 4.0 }
+Child IDs: [220, 704]
+Added Or operator with children: [220, 704], Id: 705
+Processing node_id: 3086
+Found node: Node { op: "+", children: ["3790", "941"], eclass: "3086", cost: 3.0 }
+Child IDs: [217, 705]
+Added And operator with children: [217, 705], Id: 706
+Processing node_id: 952
+Found node: Node { op: "*", children: ["204", "76"], eclass: "952", cost: 4.0 }
+Child IDs: [206, 205]
+Added Or operator with children: [206, 205], Id: 707
+Processing node_id: 7126
+Found node: Node { op: "+", children: ["952", "953"], eclass: "7126", cost: 3.0 }
+Child IDs: [707, 198]
+Added And operator with children: [707, 198], Id: 708
+Processing node_id: 22354
+Found node: Node { op: "+", children: ["3086", "7126"], eclass: "22354", cost: 3.0 }
+Child IDs: [706, 708]
+Added And operator with children: [706, 708], Id: 709
+Processing node_id: 972
+Found node: Node { op: "+", children: ["22354", "954"], eclass: "972", cost: 3.0 }
+Child IDs: [709, 201]
+Added And operator with children: [709, 201], Id: 710
+Processing node_id: 973
+Found node: Node { op: "*", children: ["971", "972"], eclass: "973", cost: 4.0 }
+Child IDs: [204, 710]
+Added Or operator with children: [204, 710], Id: 711
+Processing node_id: 983
+Found node: Node { op: "+", children: ["207", "79"], eclass: "983", cost: 3.0 }
+Child IDs: [188, 187]
+Added And operator with children: [188, 187], Id: 712
+Processing node_id: 2320
+Found node: Node { op: "*", children: ["986", "983"], eclass: "2320", cost: 4.0 }
+Child IDs: [183, 712]
+Added Or operator with children: [183, 712], Id: 713
+Processing node_id: 987
+Found node: Node { op: "*", children: ["2320", "984"], eclass: "987", cost: 4.0 }
+Child IDs: [713, 186]
+Added Or operator with children: [713, 186], Id: 714
+Processing node_id: 988
+Found node: Node { op: "*", children: ["973", "987"], eclass: "988", cost: 4.0 }
+Child IDs: [711, 714]
+Added Or operator with children: [711, 714], Id: 715
+Processing node_id: 3344
+Found node: Node { op: "+", children: ["3942", "988"], eclass: "3344", cost: 3.0 }
+Child IDs: [193, 715]
+Added And operator with children: [193, 715], Id: 716
+Processing node_id: 999
+Found node: Node { op: "*", children: ["81", "209"], eclass: "999", cost: 4.0 }
+Child IDs: [181, 182]
+Added Or operator with children: [181, 182], Id: 717
+Processing node_id: 13841
+Found node: Node { op: "+", children: ["3344", "999"], eclass: "13841", cost: 3.0 }
+Child IDs: [716, 717]
+Added And operator with children: [716, 717], Id: 718
+Processing node_id: 83
+Found node: Node { op: "pi081", children: [], eclass: "83", cost: 1.0 }
+Child IDs: []
+Added leaf node: 83, Id: 719
+Processing node_id: 211
+Found node: Node { op: "pi209", children: [], eclass: "211", cost: 1.0 }
+Child IDs: []
+Added leaf node: 211, Id: 720
+Processing node_id: 1000
+Found node: Node { op: "*", children: ["83", "211"], eclass: "1000", cost: 4.0 }
+Child IDs: [719, 720]
+Added Or operator with children: [719, 720], Id: 721
+Processing node_id: 82
+Found node: Node { op: "pi080", children: [], eclass: "82", cost: 1.0 }
+Child IDs: []
+Added leaf node: 82, Id: 722
+Processing node_id: 210
+Found node: Node { op: "pi208", children: [], eclass: "210", cost: 1.0 }
+Child IDs: []
+Added leaf node: 210, Id: 723
+Processing node_id: 1001
+Found node: Node { op: "*", children: ["82", "210"], eclass: "1001", cost: 4.0 }
+Child IDs: [722, 723]
+Added Or operator with children: [722, 723], Id: 724
+Processing node_id: 3552
+Found node: Node { op: "+", children: ["1000", "1001"], eclass: "3552", cost: 3.0 }
+Child IDs: [721, 724]
+Added And operator with children: [721, 724], Id: 725
+Processing node_id: 1019
+Found node: Node { op: "+", children: ["13841", "3552"], eclass: "1019", cost: 3.0 }
+Child IDs: [718, 725]
+Added And operator with children: [718, 725], Id: 726
+Processing node_id: 11420
+Found node: Node { op: "*", children: ["1034", "1019"], eclass: "11420", cost: 4.0 }
+Child IDs: [180, 726]
+Added Or operator with children: [180, 726], Id: 727
+Processing node_id: 3960
+Found node: Node { op: "+", children: ["211", "83"], eclass: "3960", cost: 3.0 }
+Child IDs: [720, 719]
+Added And operator with children: [720, 719], Id: 728
+Processing node_id: 8068
+Found node: Node { op: "+", children: ["1001", "82"], eclass: "8068", cost: 3.0 }
+Child IDs: [724, 722]
+Added And operator with children: [724, 722], Id: 729
+Processing node_id: 7232
+Found node: Node { op: "+", children: ["1000", "8068"], eclass: "7232", cost: 3.0 }
+Child IDs: [721, 729]
+Added And operator with children: [721, 729], Id: 730
+Processing node_id: 1017
+Found node: Node { op: "+", children: ["7232", "210"], eclass: "1017", cost: 3.0 }
+Child IDs: [730, 723]
+Added And operator with children: [730, 723], Id: 731
+Processing node_id: 1018
+Found node: Node { op: "*", children: ["3960", "1017"], eclass: "1018", cost: 4.0 }
+Child IDs: [728, 731]
+Added Or operator with children: [728, 731], Id: 732
+Processing node_id: 1035
+Found node: Node { op: "*", children: ["11420", "1018"], eclass: "1035", cost: 4.0 }
+Child IDs: [727, 732]
+Added Or operator with children: [727, 732], Id: 733
+Processing node_id: 4387
+Found node: Node { op: "*", children: ["1031", "212"], eclass: "4387", cost: 4.0 }
+Child IDs: [179, 174]
+Added Or operator with children: [179, 174], Id: 734
+Processing node_id: 1037
+Found node: Node { op: "*", children: ["4387", "84"], eclass: "1037", cost: 4.0 }
+Child IDs: [734, 173]
+Added Or operator with children: [734, 173], Id: 735
+Processing node_id: 1039
+Found node: Node { op: "*", children: ["85", "213"], eclass: "1039", cost: 4.0 }
+Child IDs: [177, 178]
+Added Or operator with children: [177, 178], Id: 736
+Processing node_id: 4060
+Found node: Node { op: "+", children: ["1037", "1039"], eclass: "4060", cost: 3.0 }
+Child IDs: [735, 736]
+Added And operator with children: [735, 736], Id: 737
+Processing node_id: 3648
+Found node: Node { op: "*", children: ["1033", "4060"], eclass: "3648", cost: 4.0 }
+Child IDs: [172, 737]
+Added Or operator with children: [172, 737], Id: 738
+Processing node_id: 2851
+Found node: Node { op: "+", children: ["1035", "3648"], eclass: "2851", cost: 3.0 }
+Child IDs: [733, 738]
+Added And operator with children: [733, 738], Id: 739
+Processing node_id: 1046
+Found node: Node { op: "*", children: ["86", "214"], eclass: "1046", cost: 4.0 }
+Child IDs: [170, 171]
+Added Or operator with children: [170, 171], Id: 740
+Processing node_id: 7128
+Found node: Node { op: "+", children: ["1046", "1047"], eclass: "7128", cost: 3.0 }
+Child IDs: [740, 161]
+Added And operator with children: [740, 161], Id: 741
+Processing node_id: 19914
+Found node: Node { op: "+", children: ["2851", "7128"], eclass: "19914", cost: 3.0 }
+Child IDs: [739, 741]
+Added And operator with children: [739, 741], Id: 742
+Processing node_id: 1066
+Found node: Node { op: "+", children: ["19914", "1048"], eclass: "1066", cost: 3.0 }
+Child IDs: [742, 164]
+Added And operator with children: [742, 164], Id: 743
+Processing node_id: 1067
+Found node: Node { op: "*", children: ["1065", "1066"], eclass: "1067", cost: 4.0 }
+Child IDs: [169, 743]
+Added Or operator with children: [169, 743], Id: 744
+Processing node_id: 1080
+Found node: Node { op: "+", children: ["91", "219"], eclass: "1080", cost: 3.0 }
+Child IDs: [155, 156]
+Added And operator with children: [155, 156], Id: 745
+Processing node_id: 2502
+Found node: Node { op: "*", children: ["1067", "1080"], eclass: "2502", cost: 4.0 }
+Child IDs: [744, 745]
+Added Or operator with children: [744, 745], Id: 746
+Processing node_id: 89
+Found node: Node { op: "pi087", children: [], eclass: "89", cost: 1.0 }
+Child IDs: []
+Added leaf node: 89, Id: 747
+Processing node_id: 217
+Found node: Node { op: "pi215", children: [], eclass: "217", cost: 1.0 }
+Child IDs: []
+Added leaf node: 217, Id: 748
+Processing node_id: 1077
+Found node: Node { op: "+", children: ["89", "217"], eclass: "1077", cost: 3.0 }
+Child IDs: [747, 748]
+Added And operator with children: [747, 748], Id: 749
+Processing node_id: 11625
+Found node: Node { op: "*", children: ["2502", "1077"], eclass: "11625", cost: 4.0 }
+Child IDs: [746, 749]
+Added Or operator with children: [746, 749], Id: 750
+Processing node_id: 90
+Found node: Node { op: "pi088", children: [], eclass: "90", cost: 1.0 }
+Child IDs: []
+Added leaf node: 90, Id: 751
+Processing node_id: 218
+Found node: Node { op: "pi216", children: [], eclass: "218", cost: 1.0 }
+Child IDs: []
+Added leaf node: 218, Id: 752
+Processing node_id: 1078
+Found node: Node { op: "+", children: ["90", "218"], eclass: "1078", cost: 3.0 }
+Child IDs: [751, 752]
+Added And operator with children: [751, 752], Id: 753
+Processing node_id: 1082
+Found node: Node { op: "*", children: ["11625", "1078"], eclass: "1082", cost: 4.0 }
+Child IDs: [750, 753]
+Added Or operator with children: [750, 753], Id: 754
+Processing node_id: 2654
+Found node: Node { op: "*", children: ["1078", "89"], eclass: "2654", cost: 4.0 }
+Child IDs: [753, 747]
+Added Or operator with children: [753, 747], Id: 755
+Processing node_id: 1084
+Found node: Node { op: "*", children: ["2654", "217"], eclass: "1084", cost: 4.0 }
+Child IDs: [755, 748]
+Added Or operator with children: [755, 748], Id: 756
+Processing node_id: 1086
+Found node: Node { op: "*", children: ["90", "218"], eclass: "1086", cost: 4.0 }
+Child IDs: [751, 752]
+Added Or operator with children: [751, 752], Id: 757
+Processing node_id: 4070
+Found node: Node { op: "+", children: ["1084", "1086"], eclass: "4070", cost: 3.0 }
+Child IDs: [756, 757]
+Added And operator with children: [756, 757], Id: 758
+Processing node_id: 3800
+Found node: Node { op: "*", children: ["1080", "4070"], eclass: "3800", cost: 4.0 }
+Child IDs: [745, 758]
+Added Or operator with children: [745, 758], Id: 759
+Processing node_id: 3104
+Found node: Node { op: "+", children: ["1082", "3800"], eclass: "3104", cost: 3.0 }
+Child IDs: [754, 759]
+Added And operator with children: [754, 759], Id: 760
+Processing node_id: 17415
+Found node: Node { op: "+", children: ["8588", "3104"], eclass: "17415", cost: 3.0 }
+Child IDs: [158, 760]
+Added And operator with children: [158, 760], Id: 761
+Processing node_id: 1113
+Found node: Node { op: "+", children: ["1095", "17415"], eclass: "1113", cost: 3.0 }
+Child IDs: [150, 761]
+Added And operator with children: [150, 761], Id: 762
+Processing node_id: 1129
+Found node: Node { op: "*", children: ["11824", "1113"], eclass: "1129", cost: 4.0 }
+Child IDs: [154, 762]
+Added Or operator with children: [154, 762], Id: 763
+Processing node_id: 1133
+Found node: Node { op: "*", children: ["95", "223"], eclass: "1133", cost: 4.0 }
+Child IDs: [135, 136]
+Added Or operator with children: [135, 136], Id: 764
+Processing node_id: 5036
+Found node: Node { op: "*", children: ["1125", "222"], eclass: "5036", cost: 4.0 }
+Child IDs: [137, 140]
+Added Or operator with children: [137, 140], Id: 765
+Processing node_id: 1131
+Found node: Node { op: "*", children: ["5036", "94"], eclass: "1131", cost: 4.0 }
+Child IDs: [765, 139]
+Added Or operator with children: [765, 139], Id: 766
+Processing node_id: 7844
+Found node: Node { op: "+", children: ["1133", "1131"], eclass: "7844", cost: 3.0 }
+Child IDs: [764, 766]
+Added And operator with children: [764, 766], Id: 767
+Processing node_id: 3950
+Found node: Node { op: "*", children: ["1127", "7844"], eclass: "3950", cost: 4.0 }
+Child IDs: [134, 767]
+Added Or operator with children: [134, 767], Id: 768
+Processing node_id: 3362
+Found node: Node { op: "+", children: ["1129", "3950"], eclass: "3362", cost: 3.0 }
+Child IDs: [763, 768]
+Added And operator with children: [763, 768], Id: 769
+Processing node_id: 17655
+Found node: Node { op: "+", children: ["8346", "3362"], eclass: "17655", cost: 3.0 }
+Child IDs: [133, 769]
+Added And operator with children: [133, 769], Id: 770
+Processing node_id: 1160
+Found node: Node { op: "+", children: ["1141", "17655"], eclass: "1160", cost: 3.0 }
+Child IDs: [125, 770]
+Added And operator with children: [125, 770], Id: 771
+Processing node_id: 1161
+Found node: Node { op: "*", children: ["1159", "1160"], eclass: "1161", cost: 4.0 }
+Child IDs: [129, 771]
+Added Or operator with children: [129, 771], Id: 772
+Processing node_id: 1174
+Found node: Node { op: "+", children: ["229", "101"], eclass: "1174", cost: 3.0 }
+Child IDs: [116, 115]
+Added And operator with children: [116, 115], Id: 773
+Processing node_id: 100
+Found node: Node { op: "pi098", children: [], eclass: "100", cost: 1.0 }
+Child IDs: []
+Added leaf node: 100, Id: 774
+Processing node_id: 228
+Found node: Node { op: "pi226", children: [], eclass: "228", cost: 1.0 }
+Child IDs: []
+Added leaf node: 228, Id: 775
+Processing node_id: 1172
+Found node: Node { op: "+", children: ["100", "228"], eclass: "1172", cost: 3.0 }
+Child IDs: [774, 775]
+Added And operator with children: [774, 775], Id: 776
+Processing node_id: 2278
+Found node: Node { op: "*", children: ["1174", "1172"], eclass: "2278", cost: 4.0 }
+Child IDs: [773, 776]
+Added Or operator with children: [773, 776], Id: 777
+Processing node_id: 16844
+Found node: Node { op: "*", children: ["1161", "2278"], eclass: "16844", cost: 4.0 }
+Child IDs: [772, 777]
+Added Or operator with children: [772, 777], Id: 778
+Processing node_id: 99
+Found node: Node { op: "pi097", children: [], eclass: "99", cost: 1.0 }
+Child IDs: []
+Added leaf node: 99, Id: 779
+Processing node_id: 227
+Found node: Node { op: "pi225", children: [], eclass: "227", cost: 1.0 }
+Child IDs: []
+Added leaf node: 227, Id: 780
+Processing node_id: 1171
+Found node: Node { op: "+", children: ["99", "227"], eclass: "1171", cost: 3.0 }
+Child IDs: [779, 780]
+Added And operator with children: [779, 780], Id: 781
+Processing node_id: 1176
+Found node: Node { op: "*", children: ["16844", "1171"], eclass: "1176", cost: 4.0 }
+Child IDs: [778, 781]
+Added Or operator with children: [778, 781], Id: 782
+Processing node_id: 1177
+Found node: Node { op: "*", children: ["99", "227"], eclass: "1177", cost: 4.0 }
+Child IDs: [779, 780]
+Added Or operator with children: [779, 780], Id: 783
+Processing node_id: 1178
+Found node: Node { op: "*", children: ["1177", "1172"], eclass: "1178", cost: 4.0 }
+Child IDs: [783, 776]
+Added Or operator with children: [783, 776], Id: 784
+Processing node_id: 1180
+Found node: Node { op: "*", children: ["100", "228"], eclass: "1180", cost: 4.0 }
+Child IDs: [774, 775]
+Added Or operator with children: [774, 775], Id: 785
+Processing node_id: 4074
+Found node: Node { op: "+", children: ["1178", "1180"], eclass: "4074", cost: 3.0 }
+Child IDs: [784, 785]
+Added And operator with children: [784, 785], Id: 786
+Processing node_id: 3656
+Found node: Node { op: "*", children: ["1174", "4074"], eclass: "3656", cost: 4.0 }
+Child IDs: [773, 786]
+Added Or operator with children: [773, 786], Id: 787
+Processing node_id: 2871
+Found node: Node { op: "+", children: ["1176", "3656"], eclass: "2871", cost: 3.0 }
+Child IDs: [782, 787]
+Added And operator with children: [782, 787], Id: 788
+Processing node_id: 1207
+Found node: Node { op: "+", children: ["2872", "2871"], eclass: "1207", cost: 3.0 }
+Child IDs: [118, 788]
+Added And operator with children: [118, 788], Id: 789
+Processing node_id: 1223
+Found node: Node { op: "*", children: ["12225", "1207"], eclass: "1223", cost: 4.0 }
+Child IDs: [114, 789]
+Added Or operator with children: [114, 789], Id: 790
+Processing node_id: 1224
+Found node: Node { op: "*", children: ["104", "232"], eclass: "1224", cost: 4.0 }
+Child IDs: [100, 99]
+Added Or operator with children: [100, 99], Id: 791
+Processing node_id: 1225
+Found node: Node { op: "*", children: ["1224", "1219"], eclass: "1225", cost: 4.0 }
+Child IDs: [791, 97]
+Added Or operator with children: [791, 97], Id: 792
+Processing node_id: 1227
+Found node: Node { op: "*", children: ["105", "233"], eclass: "1227", cost: 4.0 }
+Child IDs: [95, 96]
+Added Or operator with children: [95, 96], Id: 793
+Processing node_id: 3988
+Found node: Node { op: "+", children: ["1225", "1227"], eclass: "3988", cost: 3.0 }
+Child IDs: [792, 793]
+Added And operator with children: [792, 793], Id: 794
+Processing node_id: 3808
+Found node: Node { op: "*", children: ["1221", "3988"], eclass: "3808", cost: 4.0 }
+Child IDs: [94, 794]
+Added Or operator with children: [94, 794], Id: 795
+Processing node_id: 1234
+Found node: Node { op: "*", children: ["106", "234"], eclass: "1234", cost: 4.0 }
+Child IDs: [92, 93]
+Added Or operator with children: [92, 93], Id: 796
+Processing node_id: 236
+Found node: Node { op: "pi234", children: [], eclass: "236", cost: 1.0 }
+Child IDs: []
+Added leaf node: 236, Id: 797
+Processing node_id: 108
+Found node: Node { op: "pi106", children: [], eclass: "108", cost: 1.0 }
+Child IDs: []
+Added leaf node: 108, Id: 798
+Processing node_id: 1235
+Found node: Node { op: "*", children: ["236", "108"], eclass: "1235", cost: 4.0 }
+Child IDs: [797, 798]
+Added Or operator with children: [797, 798], Id: 799
+Processing node_id: 7171
+Found node: Node { op: "+", children: ["1234", "1235"], eclass: "7171", cost: 3.0 }
+Child IDs: [796, 799]
+Added And operator with children: [796, 799], Id: 800
+Processing node_id: 107
+Found node: Node { op: "pi105", children: [], eclass: "107", cost: 1.0 }
+Child IDs: []
+Added leaf node: 107, Id: 801
+Processing node_id: 235
+Found node: Node { op: "pi233", children: [], eclass: "235", cost: 1.0 }
+Child IDs: []
+Added leaf node: 235, Id: 802
+Processing node_id: 1236
+Found node: Node { op: "*", children: ["107", "235"], eclass: "1236", cost: 4.0 }
+Child IDs: [801, 802]
+Added Or operator with children: [801, 802], Id: 803
+Processing node_id: 3125
+Found node: Node { op: "+", children: ["7171", "1236"], eclass: "3125", cost: 3.0 }
+Child IDs: [800, 803]
+Added And operator with children: [800, 803], Id: 804
+Processing node_id: 18075
+Found node: Node { op: "+", children: ["3808", "3125"], eclass: "18075", cost: 3.0 }
+Child IDs: [795, 804]
+Added And operator with children: [795, 804], Id: 805
+Processing node_id: 1254
+Found node: Node { op: "+", children: ["1223", "18075"], eclass: "1254", cost: 3.0 }
+Child IDs: [790, 805]
+Added And operator with children: [790, 805], Id: 806
+Processing node_id: 3824
+Found node: Node { op: "+", children: ["108", "236"], eclass: "3824", cost: 3.0 }
+Child IDs: [798, 797]
+Added And operator with children: [798, 797], Id: 807
+Processing node_id: 3864
+Found node: Node { op: "+", children: ["1235", "1236"], eclass: "3864", cost: 3.0 }
+Child IDs: [799, 803]
+Added And operator with children: [799, 803], Id: 808
+Processing node_id: 9004
+Found node: Node { op: "+", children: ["3864", "235"], eclass: "9004", cost: 3.0 }
+Child IDs: [808, 802]
+Added And operator with children: [808, 802], Id: 809
+Processing node_id: 1252
+Found node: Node { op: "+", children: ["9004", "107"], eclass: "1252", cost: 3.0 }
+Child IDs: [809, 801]
+Added And operator with children: [809, 801], Id: 810
+Processing node_id: 1253
+Found node: Node { op: "*", children: ["3824", "1252"], eclass: "1253", cost: 4.0 }
+Child IDs: [807, 810]
+Added Or operator with children: [807, 810], Id: 811
+Processing node_id: 12595
+Found node: Node { op: "*", children: ["1253", "1268"], eclass: "12595", cost: 4.0 }
+Child IDs: [811, 80]
+Added Or operator with children: [811, 80], Id: 812
+Processing node_id: 1265
+Found node: Node { op: "+", children: ["109", "237"], eclass: "1265", cost: 3.0 }
+Child IDs: [81, 82]
+Added And operator with children: [81, 82], Id: 813
+Processing node_id: 15938
+Found node: Node { op: "*", children: ["12595", "1265"], eclass: "15938", cost: 4.0 }
+Child IDs: [812, 813]
+Added Or operator with children: [812, 813], Id: 814
+Processing node_id: 17011
+Found node: Node { op: "*", children: ["1254", "15938"], eclass: "17011", cost: 4.0 }
+Child IDs: [806, 814]
+Added Or operator with children: [806, 814], Id: 815
+Processing node_id: 1270
+Found node: Node { op: "*", children: ["17011", "1266"], eclass: "1270", cost: 4.0 }
+Child IDs: [815, 86]
+Added Or operator with children: [815, 86], Id: 816
+Processing node_id: 1301
+Found node: Node { op: "+", children: ["21129", "1270"], eclass: "1301", cost: 3.0 }
+Child IDs: [91, 816]
+Added And operator with children: [91, 816], Id: 817
+Processing node_id: 3784
+Found node: Node { op: "+", children: ["112", "240"], eclass: "3784", cost: 3.0 }
+Child IDs: [72, 73]
+Added And operator with children: [72, 73], Id: 818
+Processing node_id: 7656
+Found node: Node { op: "+", children: ["1283", "3784"], eclass: "7656", cost: 3.0 }
+Child IDs: [74, 818]
+Added And operator with children: [74, 818], Id: 819
+Processing node_id: 3974
+Found node: Node { op: "+", children: ["113", "241"], eclass: "3974", cost: 3.0 }
+Child IDs: [69, 70]
+Added And operator with children: [69, 70], Id: 820
+Processing node_id: 10006
+Found node: Node { op: "*", children: ["7656", "3974"], eclass: "10006", cost: 4.0 }
+Child IDs: [819, 820]
+Added Or operator with children: [819, 820], Id: 821
+Processing node_id: 1300
+Found node: Node { op: "+", children: ["1282", "10006"], eclass: "1300", cost: 3.0 }
+Child IDs: [71, 821]
+Added And operator with children: [71, 821], Id: 822
+Processing node_id: 11348
+Found node: Node { op: "*", children: ["1300", "1315"], eclass: "11348", cost: 4.0 }
+Child IDs: [822, 58]
+Added Or operator with children: [822, 58], Id: 823
+Processing node_id: 16513
+Found node: Node { op: "*", children: ["11348", "1313"], eclass: "16513", cost: 4.0 }
+Child IDs: [823, 62]
+Added Or operator with children: [823, 62], Id: 824
+Processing node_id: 1312
+Found node: Node { op: "+", children: ["114", "242"], eclass: "1312", cost: 3.0 }
+Child IDs: [63, 64]
+Added And operator with children: [63, 64], Id: 825
+Processing node_id: 2110
+Found node: Node { op: "*", children: ["16513", "1312"], eclass: "2110", cost: 4.0 }
+Child IDs: [824, 825]
+Added Or operator with children: [824, 825], Id: 826
+Processing node_id: 1317
+Found node: Node { op: "*", children: ["1301", "2110"], eclass: "1317", cost: 4.0 }
+Child IDs: [817, 826]
+Added Or operator with children: [817, 826], Id: 827
+Processing node_id: 2891
+Found node: Node { op: "+", children: ["3666", "1317"], eclass: "2891", cost: 3.0 }
+Child IDs: [68, 827]
+Added And operator with children: [68, 827], Id: 828
+Processing node_id: 1328
+Found node: Node { op: "*", children: ["116", "244"], eclass: "1328", cost: 4.0 }
+Child IDs: [56, 57]
+Added Or operator with children: [56, 57], Id: 829
+Processing node_id: 12730
+Found node: Node { op: "+", children: ["2891", "1328"], eclass: "12730", cost: 3.0 }
+Child IDs: [828, 829]
+Added And operator with children: [828, 829], Id: 830
+Processing node_id: 21388
+Found node: Node { op: "+", children: ["12730", "1330"], eclass: "21388", cost: 3.0 }
+Child IDs: [830, 52]
+Added And operator with children: [830, 52], Id: 831
+Processing node_id: 1348
+Found node: Node { op: "+", children: ["21388", "1329"], eclass: "1348", cost: 3.0 }
+Child IDs: [831, 51]
+Added And operator with children: [831, 51], Id: 832
+Processing node_id: 1349
+Found node: Node { op: "*", children: ["1347", "1348"], eclass: "1349", cost: 4.0 }
+Child IDs: [55, 832]
+Added Or operator with children: [55, 832], Id: 833
+Processing node_id: 248
+Found node: Node { op: "pi246", children: [], eclass: "248", cost: 1.0 }
+Child IDs: []
+Added leaf node: 248, Id: 834
+Processing node_id: 120
+Found node: Node { op: "pi118", children: [], eclass: "120", cost: 1.0 }
+Child IDs: []
+Added leaf node: 120, Id: 835
+Processing node_id: 1360
+Found node: Node { op: "+", children: ["248", "120"], eclass: "1360", cost: 3.0 }
+Child IDs: [834, 835]
+Added And operator with children: [834, 835], Id: 836
+Processing node_id: 16698
+Found node: Node { op: "*", children: ["1349", "1360"], eclass: "16698", cost: 4.0 }
+Child IDs: [833, 836]
+Added Or operator with children: [833, 836], Id: 837
+Processing node_id: 119
+Found node: Node { op: "pi117", children: [], eclass: "119", cost: 1.0 }
+Child IDs: []
+Added leaf node: 119, Id: 838
+Processing node_id: 247
+Found node: Node { op: "pi245", children: [], eclass: "247", cost: 1.0 }
+Child IDs: []
+Added leaf node: 247, Id: 839
+Processing node_id: 1359
+Found node: Node { op: "+", children: ["119", "247"], eclass: "1359", cost: 3.0 }
+Child IDs: [838, 839]
+Added And operator with children: [838, 839], Id: 840
+Processing node_id: 10396
+Found node: Node { op: "*", children: ["16698", "1359"], eclass: "10396", cost: 4.0 }
+Child IDs: [837, 840]
+Added Or operator with children: [837, 840], Id: 841
+Processing node_id: 249
+Found node: Node { op: "pi247", children: [], eclass: "249", cost: 1.0 }
+Child IDs: []
+Added leaf node: 249, Id: 842
+Processing node_id: 121
+Found node: Node { op: "pi119", children: [], eclass: "121", cost: 1.0 }
+Child IDs: []
+Added leaf node: 121, Id: 843
+Processing node_id: 1362
+Found node: Node { op: "+", children: ["249", "121"], eclass: "1362", cost: 3.0 }
+Child IDs: [842, 843]
+Added And operator with children: [842, 843], Id: 844
+Processing node_id: 1364
+Found node: Node { op: "*", children: ["10396", "1362"], eclass: "1364", cost: 4.0 }
+Child IDs: [841, 844]
+Added Or operator with children: [841, 844], Id: 845
+Processing node_id: 2680
+Found node: Node { op: "*", children: ["1360", "119"], eclass: "2680", cost: 4.0 }
+Child IDs: [836, 838]
+Added Or operator with children: [836, 838], Id: 846
+Processing node_id: 1366
+Found node: Node { op: "*", children: ["2680", "247"], eclass: "1366", cost: 4.0 }
+Child IDs: [846, 839]
+Added Or operator with children: [846, 839], Id: 847
+Processing node_id: 1368
+Found node: Node { op: "*", children: ["120", "248"], eclass: "1368", cost: 4.0 }
+Child IDs: [835, 834]
+Added Or operator with children: [835, 834], Id: 848
+Processing node_id: 4004
+Found node: Node { op: "+", children: ["1366", "1368"], eclass: "4004", cost: 3.0 }
+Child IDs: [847, 848]
+Added And operator with children: [847, 848], Id: 849
+Processing node_id: 3816
+Found node: Node { op: "*", children: ["1362", "4004"], eclass: "3816", cost: 4.0 }
+Child IDs: [844, 849]
+Added Or operator with children: [844, 849], Id: 850
+Processing node_id: 3144
+Found node: Node { op: "+", children: ["1364", "3816"], eclass: "3144", cost: 3.0 }
+Child IDs: [845, 850]
+Added And operator with children: [845, 850], Id: 851
+Processing node_id: 1375
+Found node: Node { op: "*", children: ["121", "249"], eclass: "1375", cost: 4.0 }
+Child IDs: [843, 842]
+Added Or operator with children: [843, 842], Id: 852
+Processing node_id: 12996
+Found node: Node { op: "+", children: ["3144", "1375"], eclass: "12996", cost: 3.0 }
+Child IDs: [851, 852]
+Added And operator with children: [851, 852], Id: 853
+Processing node_id: 3870
+Found node: Node { op: "+", children: ["1376", "1377"], eclass: "3870", cost: 3.0 }
+Child IDs: [37, 39]
+Added And operator with children: [37, 39], Id: 854
+Processing node_id: 1395
+Found node: Node { op: "+", children: ["12996", "3870"], eclass: "1395", cost: 3.0 }
+Child IDs: [853, 854]
+Added And operator with children: [853, 854], Id: 855
+Processing node_id: 1411
+Found node: Node { op: "*", children: ["10647", "1395"], eclass: "1411", cost: 4.0 }
+Child IDs: [44, 855]
+Added Or operator with children: [44, 855], Id: 856
+Processing node_id: 3405
+Found node: Node { op: "+", children: ["3966", "1411"], eclass: "3405", cost: 3.0 }
+Child IDs: [29, 856]
+Added And operator with children: [29, 856], Id: 857
+Processing node_id: 1422
+Found node: Node { op: "*", children: ["126", "254"], eclass: "1422", cost: 4.0 }
+Child IDs: [17, 18]
+Added Or operator with children: [17, 18], Id: 858
+Processing node_id: 13225
+Found node: Node { op: "+", children: ["3405", "1422"], eclass: "13225", cost: 3.0 }
+Child IDs: [857, 858]
+Added And operator with children: [857, 858], Id: 859
+Processing node_id: 21886
+Found node: Node { op: "+", children: ["13225", "1424"], eclass: "21886", cost: 3.0 }
+Child IDs: [859, 12]
+Added And operator with children: [859, 12], Id: 860
+Processing node_id: 1442
+Found node: Node { op: "+", children: ["21886", "1423"], eclass: "1442", cost: 3.0 }
+Child IDs: [860, 9]
+Added And operator with children: [860, 9], Id: 861
+Processing node_id: 1448
+Found node: Node { op: "*", children: ["11754", "1442"], eclass: "1448", cost: 4.0 }
+Child IDs: [16, 861]
+Added Or operator with children: [16, 861], Id: 862
+Number of Or nodes: 304
+Number of And nodes: 301
+Number of Not nodes: 0
+Input IDs: [2, 3, 5, 6, 10, 11, 17, 18, 20, 21, 23, 24, 33, 34, 35, 36, 45, 46, 48, 49, 56, 57, 59, 60, 63, 64, 69, 70, 72, 73, 75, 76, 81, 82, 84, 85, 92, 93, 95, 96, 99, 100, 103, 104, 106, 107, 115, 116, 119, 120, 123, 124, 130, 131, 135, 136, 139, 140, 143, 144, 145, 146, 155, 156, 159, 160, 162, 163, 170, 171, 173, 174, 177, 178, 181, 182, 184, 185, 187, 188, 194, 195, 196, 197, 205, 206, 208, 209, 211, 212, 221, 222, 224, 225, 232, 233, 235, 236, 238, 239, 248, 249, 252, 253, 260, 261, 263, 264, 266, 268, 276, 277, 279, 280, 283, 284, 288, 289, 291, 292, 299, 300, 303, 304, 310, 311, 313, 314, 317, 318, 321, 322, 324, 325, 327, 328, 331, 332, 334, 335, 338, 339, 342, 343, 345, 346, 349, 350, 354, 355, 357, 359, 368, 369, 371, 372, 381, 382, 384, 385, 387, 388, 390, 391, 396, 397, 400, 401, 404, 405, 407, 408, 410, 412, 417, 418, 420, 421, 428, 429, 432, 433, 435, 436, 441, 442, 445, 446, 465, 466, 468, 469, 480, 481, 483, 484, 489, 490, 498, 499, 501, 502, 531, 532, 534, 535, 557, 558, 560, 561, 577, 578, 581, 582, 610, 611, 613, 614, 623, 624, 626, 627, 631, 632, 666, 667, 670, 671, 681, 682, 686, 687, 689, 690, 719, 720, 722, 723, 747, 748, 751, 752, 774, 775, 779, 780, 797, 798, 801, 802, 834, 835, 838, 839, 842, 843]
+Input IDs Length: 256
+Root eclass: 1448
+Root eclass found: Node ID: 1448, EGraph ID: 862
+root_id: 862
+input egraph
+input node: 863
+input class: 863
+Runner stopped: Some(Saturated). Time taken for runner: 557.069µs, Classes: 1600, Nodes: 2019, Size: 2120 
+
+
+root[862]
+Runner report
+=============
+  Stop reason: Saturated
+  Iterations: 3
+  Egraph size: 2019 nodes, 1600 classes, 2120 memo
+  Rebuilds: 0
+  Total time: 0.0005000919999999999
+    Search:  (0.36) 0.000181832
+    Apply:   (0.38) 0.000189025
+    Rebuild: (0.26) 0.000128927
+
+egraph after runner
+egraph node: 2120
+egraph class: 1600
+------------------assign cost of enode-----------------
+done
