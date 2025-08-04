@@ -29,3 +29,4 @@ flussab/.target/
 process_json/target/
 rand_extract/
 extraction-gym/libabc.a
+process_json/out_processed_or_result/
