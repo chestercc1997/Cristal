@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cristal
 
 ## Prerequisites
