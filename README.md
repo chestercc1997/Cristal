@@ -21,7 +21,7 @@ make
 ```bash
 bash run_total_choice_mix.sh --case *.aig
 e.g.
-bash /data/cchen/choice/run_total_choice_mix.sh --case log2.aig
+bash run_total_choice_mix.sh --case log2.aig
 ```
 If you want to add new cases, please process your new AIG file with benchmarks/process.py and place the result in the exp_aig directory.Before running, make sure to execute:
 benchmarks/exp/benchmarks/areaopt.sh
