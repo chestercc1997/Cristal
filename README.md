@@ -1,7 +1,7 @@
 CRISTAL
 ===============================
 
-CRISTAL is a novel methodology and framework for constructing Boolean choice networks for Technology Mapping. The framework includes representative logic cone search, structural mutation for generating diverse choice structures via equality saturation, and priority-ranking choice selection along with choice network construction and validation. Through these techniques, CRISTAL constructs fewer but higher-quality choices, leading to better delay after mapping and physical sizing and buffer timing optimization. By leveraging static timing evaluation, CRISTAL enables better alignment between technology mapping and physical synthesis.
+CRISTAL is a novel methodology and framework for constructing Boolean choice networks for Technology Mapping. The framework includes representative logic cone search, structural mutation for generating diverse choice structures via equality saturation, and priority-ranking choice selection along with choice network construction and validation. Through these techniques, CRISTAL constructs fewer but higher-quality choices, leading to better delay after mapping and physical sizing and buffer timing optimization.  CRISTAL enables better alignment for choice network construction, enabling improved technology mapping and more effective post-mapping physical synthesis timing closure.
 
 ![CRISTAL Overview](fig/overview_choicesyn-2-1.png)
 
