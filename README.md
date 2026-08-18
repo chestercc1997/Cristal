@@ -1,3 +1,5 @@
+
+
 CRISTAL
 ===============================
 
@@ -45,6 +47,12 @@ To build the CRISTAL framework, run:
 
 ```bash
 make
+```
+
+To remove generated output files, run:
+
+```bash
+bash clean.sh
 ```
 
 Usage
